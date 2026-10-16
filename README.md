@@ -3,7 +3,7 @@
 Public static website for DVK and its apps/games. This repository contains website code and public policies only. The Flutter game source is kept in its separate private repository.
 
 - `/`: DVK introduction and project directory.
-- `/game1/`: Puzzle Spark; `/game1/privacy/` and `/game1/terms/` are app-specific policies.
+- `/puzzle-spark/`: Puzzle Spark; `/puzzle-spark/privacy/` and `/puzzle-spark/terms/` are app-specific policies.
 - `/privacy/`: website privacy information.
 - `/support/`: email support and troubleshooting.
 - `/vi/`: Vietnamese versions of the pages above.
@@ -22,7 +22,11 @@ Current app policies describe the preview build. Update the app and these polici
 
 ## Validation — 16 October 2026
 
-- 12 bilingual content pages plus a 404 page generated.
+- 14 bilingual content pages, six legacy URL redirects and a 404 page generated.
 - Local links and assets checked; every referenced local path exists.
-- All 12 pages checked at 375×812 and 1280×900: no horizontal overflow, one H1, correct `lang`.
+- All 14 pages checked at 375×812 and 1280×900: no horizontal overflow, one H1, correct `lang`.
 - Uses local assets and system fonts; no analytics script, web advertising SDK or contact form.
+
+## Brand hierarchy
+
+DVK uses navy, white and blue. Each game has an isolated palette: Puzzle Spark uses forest green, cream and gold. `/games/` lists projects; game policies live under the game slug. The old `/game1/` routes use HTML redirects to their new URLs. New games should use their own names and scoped palette.
