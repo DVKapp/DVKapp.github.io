@@ -30,3 +30,7 @@ Current app policies describe the preview build. Update the app and these polici
 ## Brand hierarchy
 
 DVK uses navy, white and blue. Each game has an isolated palette: Puzzle Spark uses forest green, cream and gold. `/games/` lists projects; game policies live under the game slug. The old `/game1/` routes use HTML redirects to their new URLs. New games should use their own names and scoped palette.
+
+## SEO
+
+Unique bilingual titles/descriptions, canonical/hreflang, social metadata and JSON-LD (Organization, WebSite, WebPage, VideoGame and BreadcrumbList). No invented ratings, offers or download links. VideoGame markup is descriptive; no SoftwareApplication rich-result eligibility is claimed. Sitemap lists canonical pages only. Google Play EN/VI copy is in `marketing/google-play-listing.md` and has not been submitted. Search Console verification and sitemap submission remain pending.
