@@ -24,5 +24,5 @@ Current app policies describe the preview build. Update the app and these polici
 
 - 12 bilingual content pages plus a 404 page generated.
 - Local links and assets checked; every referenced local path exists.
-- All 12 pages checked at 375×812: no horizontal overflow, one H1, correct `lang`.
+- All 12 pages checked at 375×812 and 1280×900: no horizontal overflow, one H1, correct `lang`.
 - Uses local assets and system fonts; no analytics script, web advertising SDK or contact form.
