@@ -1,0 +1,172 @@
+{
+  "privacy": {
+    "vi": [
+      [
+        "Quyền riêng tư của bạn",
+        "Puzzle Spark được phát triển dưới tên DVKapp. Liên hệ: game@dvk.vn. Cập nhật ngày 16/10/2026. Game không yêu cầu tài khoản, tên, số điện thoại hoặc vị trí chính xác."
+      ],
+      [
+        "Tiến độ lưu trên thiết bị",
+        "Màn đã hoàn thành, số sao, nước đi, thử thách hằng ngày và tùy chọn được lưu trong bộ nhớ ứng dụng trên thiết bị. Game không có bảng xếp hạng trực tuyến hoặc máy chủ lưu tiến độ. Cơ chế sao lưu hệ điều hành, nếu bạn bật, tuân theo cài đặt của thiết bị. Gỡ ứng dụng hoặc đặt lại dữ liệu có thể làm mất tiến độ."
+      ],
+      [
+        "Thông báo nhắc quay lại",
+        "Chỉ bật sau khi bạn chọn Nhắc quay lại chơi và cho phép thông báo. Lần chơi cuối được lưu trên thiết bị để đặt tối đa hai thông báo, sau khoảng 12 giờ và 24 giờ. Chơi lại sẽ thay lịch cũ; tắt nhắc hẹn sẽ hủy lịch. Hệ điều hành và chế độ tiết kiệm pin có thể làm thông báo đến muộn. Tính năng này dùng thông báo cục bộ, không gửi thời gian chơi lên máy chủ để nhắc."
+      ],
+      [
+        "Firebase và thống kê tùy chọn",
+        "Firebase kết nối game với dự án Puzzle Spark. Google Analytics mặc định tắt; chỉ bật khi bạn chọn Chia sẻ thống kê sử dụng. Khi bật, Google có thể nhận mã định danh phiên cài đặt, thông tin thiết bị và sự kiện bắt đầu/hoàn thành màn, số lượt đi và gợi ý để phân tích sử dụng. Game không gửi email, tên hoặc nội dung cá nhân và không dùng Analytics để cá nhân hóa quảng cáo. Tắt thống kê sẽ ngừng thu thập mới và đặt lại dữ liệu Analytics cục bộ; không tự xóa dữ liệu đã gửi trước đó. Chính sách của Google: policies.google.com/privacy."
+      ],
+      [
+        "Quảng cáo trong bản thử nghiệm",
+        "Bản phát triển sử dụng SDK Google Mobile Ads và các ID quảng cáo thử nghiệm do Google cung cấp. SDK có thể xử lý thông tin thiết bị, địa chỉ IP, dữ liệu chẩn đoán và tương tác quảng cáo theo chính sách của Google. Yêu cầu quảng cáo được đặt ở chế độ không cá nhân hóa; điều này không có nghĩa SDK không xử lý dữ liệu. Bạn có thể tắt quảng cáo thử nghiệm trong Cài đặt. Bản release hiện không khởi tạo hoặc tải quảng cáo."
+      ],
+      [
+        "Không yêu cầu quyền theo dõi",
+        "Phiên bản này không yêu cầu quyền App Tracking Transparency và không triển khai tính năng theo dõi người dùng giữa các ứng dụng. Trước khi bật quảng cáo thương mại, thông báo quyền riêng tư và lựa chọn đồng ý cần được cập nhật theo cấu hình SDK và khu vực phát hành thực tế."
+      ],
+      [
+        "Kiểm soát dữ liệu",
+        "Vào Cài đặt → Đặt lại dữ liệu để xóa toàn bộ tiến độ và tùy chọn lưu cục bộ của game. Không cần liên hệ để xóa tài khoản vì game không có tài khoản. Nếu gửi email hỗ trợ, nội dung và địa chỉ email bạn cung cấp được dùng để xử lý yêu cầu của bạn."
+      ],
+      [
+        "Dịch vụ bên thứ ba và thay đổi",
+        "Thông tin về cách Google sử dụng dữ liệu: policies.google.com/privacy và policies.google.com/technologies/ads. Nếu game thay đổi cách xử lý dữ liệu, chính sách sẽ được cập nhật trong ứng dụng trước khi áp dụng tính năng mới."
+      ]
+    ],
+    "en": [
+      [
+        "Your privacy",
+        "Puzzle Spark is developed as DVKapp. Contact: game@dvk.vn. Updated 16 October 2026. No account, name, phone number or precise location is required."
+      ],
+      [
+        "Progress on your device",
+        "Completed levels, stars, moves, daily challenges and settings are stored on your device. There is no online leaderboard or server progress backup. Any operating-system backup follows your device settings. Uninstalling or resetting data may erase progress."
+      ],
+      [
+        "Return reminders",
+        "Reminders only run after you enable Play reminders and grant notification permission. The last play time is stored on the device to schedule at most two local notifications, about 12 and 24 hours later. Playing again replaces the schedule; disabling reminders cancels it. The operating system or power saving may delay delivery. Last play times are not sent to a server for reminders."
+      ],
+      [
+        "Firebase and optional analytics",
+        "Firebase connects the game to the Puzzle Spark project. Google Analytics is off by default and only enabled if you choose Share usage analytics. When enabled, Google may receive an installation identifier, device details and level start/completion events, move and hint counts. No email, name or personal content is sent by the game; Analytics is not used for ad personalization. Turning it off stops new collection and resets local Analytics data, but does not automatically delete data already sent. Google policy: policies.google.com/privacy."
+      ],
+      [
+        "Ads in the test build",
+        "The development build uses Google Mobile Ads SDK and official Google test ad IDs. The SDK may process device information, IP address, diagnostics and ad interactions under Google policies. Requests are non-personalized; this does not mean no data is processed. Test ads can be disabled in Settings. The release build currently does not initialize or load ads."
+      ],
+      [
+        "No tracking permission requested",
+        "This version does not request App Tracking Transparency permission or implement tracking across apps. Before commercial ads are enabled, privacy notices and consent choices must be updated for the actual SDK configuration and release regions."
+      ],
+      [
+        "Control your data",
+        "Use Settings → Reset data to remove all local progress and preferences. There is no account to delete. If you email support, your email address and message are used to respond to your request."
+      ],
+      [
+        "Third-party services and updates",
+        "How Google uses data: policies.google.com/privacy and policies.google.com/technologies/ads. If data handling changes, the in-app policy will be updated before the new feature is applied."
+      ]
+    ]
+  },
+  "terms": {
+    "vi": [
+      [
+        "Điều khoản sử dụng",
+        "Puzzle Spark là trò chơi giải đố giải trí của DVKapp. Khi sử dụng trò chơi, bạn đồng ý sử dụng hợp pháp và tôn trọng quyền của người khác. Liên hệ mọi thắc mắc: game@dvk.vn. Cập nhật 16/10/2026."
+      ],
+      [
+        "Cách sử dụng và nội dung",
+        "Bạn được chơi game trên thiết bị của mình cho mục đích cá nhân. Không được phân phối phần mềm độc hại, giả mạo nhà phát triển hoặc khai thác game để thực hiện hoạt động trái pháp luật. Ý tưởng giải đố Lights Out là cơ chế trò chơi phổ biến; mã nguồn và phần thể hiện riêng của Puzzle Spark thuộc các chủ thể có quyền liên quan."
+      ],
+      [
+        "Tiến độ, sao và phần thưởng",
+        "Sao, thành tích và chuỗi ngày là số liệu trong trò chơi, không phải tiền, tài sản, phần thưởng hiện vật hay công cụ quy đổi. Game không có cá cược, giao dịch tiền thật hoặc lời hứa về thu nhập. Thử thách mỗi ngày dựa trên ngày của thiết bị và không có bảng xếp hạng trực tuyến."
+      ],
+      [
+        "Chi phí và quảng cáo",
+        "Phiên bản hiện tại miễn phí, không có đăng ký hoặc mua hàng trong ứng dụng. Bản phát triển có thể hiển thị banner và quảng cáo nhận thưởng thử nghiệm; chơi game không yêu cầu nhấn quảng cáo. Dữ liệu di động có thể bị nhà mạng tính phí."
+      ],
+      [
+        "Lưu trữ và tính khả dụng",
+        "Tiến độ được lưu cục bộ. Hãy cân nhắc trước khi xóa dữ liệu hoặc gỡ app vì không có máy chủ khôi phục tiến độ. Chúng tôi cố gắng sửa lỗi và duy trì khả năng tương thích, nhưng không bảo đảm game không bao giờ gián đoạn. Điều khoản không loại trừ quyền bắt buộc của người tiêu dùng theo pháp luật áp dụng."
+      ],
+      [
+        "Hỗ trợ và cập nhật",
+        "Gửi lỗi hoặc góp ý tới game@dvk.vn. Không gửi mật khẩu hoặc thông tin nhạy cảm. Các tính năng, chính sách dữ liệu hoặc điều khoản có thể được cập nhật cùng phiên bản game; thay đổi quan trọng sẽ được thông báo phù hợp."
+      ]
+    ],
+    "en": [
+      [
+        "Terms of use",
+        "Puzzle Spark is a puzzle game by DVKapp. By using it, you agree to use it lawfully and respect others. Contact: game@dvk.vn. Updated 16 October 2026."
+      ],
+      [
+        "Use and content",
+        "The game is for personal use on your own device. Do not distribute malware, impersonate the developer or use the game for unlawful activity. Lights Out is a well-known puzzle concept; Puzzle Spark code and original presentation belong to their respective rights holders."
+      ],
+      [
+        "Progress, stars and rewards",
+        "Stars, achievements and streaks are game records, not money, assets, physical prizes or redeemable rewards. There is no betting, real-money trading or income promise. Daily challenges use the device date and have no online leaderboard."
+      ],
+      [
+        "Cost and ads",
+        "This version is free, without subscriptions or in-app purchases. Development builds may show test banner and rewarded ads; playing does not require clicking ads. Mobile data charges may apply."
+      ],
+      [
+        "Storage and availability",
+        "Progress is saved locally. Consider this before deleting data or uninstalling, as there is no server recovery. We aim to fix issues and maintain compatibility but cannot guarantee uninterrupted service. These terms do not remove mandatory consumer rights under applicable law."
+      ],
+      [
+        "Support and updates",
+        "Send bug reports or feedback to game@dvk.vn. Do not send passwords or sensitive information. Features, data policies and terms may be updated with game releases; important changes will be communicated appropriately."
+      ]
+    ]
+  },
+  "help": {
+    "vi": [
+      [
+        "01 • Mục tiêu",
+        "Tắt hết các ô sáng. Khi chạm một ô, ô đó và các ô chung cạnh phía trên, dưới, trái, phải sẽ đổi trạng thái. Các ô chéo không bị ảnh hưởng."
+      ],
+      [
+        "02 • Quan sát trước khi chạm",
+        "Một ô chạm hai lần sẽ quay về trạng thái cũ. Thứ tự chạm không làm thay đổi kết quả cuối nếu các ô được chạm có cùng số lần chẵn/lẻ. Mỗi màn đều được kiểm tra có lời giải."
+      ],
+      [
+        "03 • Sao và gợi ý",
+        "Mỗi màn có mục tiêu là số nước tối thiểu. Điểm đánh giá = tổng số lần chạm + số lần hoàn tác + 2 × số gợi ý. Đạt mục tiêu: 3 sao; vượt tối đa 3 điểm: 2 sao; còn lại: 1 sao. Mỗi ngày có 2 lượt gợi ý miễn phí không cộng dồn; hoàn tất quảng cáo tự nguyện nhận 3 lượt giữ lại. Chỉ cộng thưởng khi SDK xác nhận, không bảo đảm thời lượng quảng cáo cố định. Hoàn thành thử thách mỗi ngày nhận thêm 1 lượt ở ngày 1–2 của chuỗi, 2 lượt ở ngày 3–6, 3 lượt từ ngày 7. Mỗi ngày chỉ nhận thưởng một lần; đứt chuỗi bắt đầu lại từ ngày 1, lượt đã nhận vẫn được giữ. Chia sẻ ảnh thành tích qua bảng chia sẻ hệ thống, không tự đăng bài. Không bị giới hạn thời gian. Chơi lại để cải thiện thành tích, giữ kết quả tốt nhất."
+      ],
+      [
+        "04 • Lưu và tiếp tục",
+        "Game tự lưu nước đi khi bạn chạm, dùng gợi ý hoặc rời màn. Chọn Tiếp tục để trở lại màn đang chơi. Bạn có thể mở danh sách màn từ biểu tượng lưới trong màn chơi. Màn mới mở sau khi hoàn thành màn trước; tất cả các màn đã mở đều chơi lại được."
+      ],
+      [
+        "05 • Mỗi ngày và chơi tự do",
+        "Mỗi ngày có một bảng 4 × 4 theo ngày trên thiết bị. Hoàn thành để ghi nhận ngày đó và chuỗi ngày liên tiếp. Chơi tự do tạo một bảng mới ở kích thước bạn chọn, không ảnh hưởng tiến độ hành trình. Tiến độ chỉ lưu trên máy này."
+      ]
+    ],
+    "en": [
+      [
+        "01 • The goal",
+        "Turn off every light. Tapping a cell toggles that cell and its neighbors above, below, left and right. Diagonal neighbors do not change."
+      ],
+      [
+        "02 • Look before you tap",
+        "Tapping the same cell twice restores its previous state. The final board depends on which cells are tapped an odd number of times, not the order. Every level has a verified solution."
+      ],
+      [
+        "03 • Stars and hints",
+        "The target is the minimum number of moves. Rating score = taps + undos + 2 × hints. Meet the target for 3 stars; up to 3 extra points earns 2 stars; otherwise 1. You get 2 free hints per day without rollover. Completing an optional ad grants 3 saved hints only when the SDK confirms the reward; ad duration varies. Completing the daily puzzle awards 1 hint on streak days 1–2, 2 on days 3–6 and 3 from day 7. Rewards are once per date; a broken streak restarts at day 1, but earned credits stay. Achievement sharing uses the system share sheet and never posts automatically. There is no time limit. Replay to improve your best result."
+      ],
+      [
+        "04 • Save and continue",
+        "Moves are saved when you tap, use hints or leave a puzzle. Choose Continue to resume. Open the level list using the grid button. Complete a level to unlock the next; unlocked levels can be replayed."
+      ],
+      [
+        "05 • Daily and free play",
+        "A daily 4 × 4 puzzle follows the device date. Complete it to record the day and keep your streak. Free play creates a new board at your chosen size and does not affect journey progress. Progress is saved on this device only."
+      ]
+    ]
+  }
+}
