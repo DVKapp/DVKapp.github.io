@@ -310,28 +310,16 @@ def home(lang):
             </div>
             <div class="gallery-strip">
                 <div class="gallery-card">
-                    <img src="/assets/block-preview-home.png" alt="Candy Neon Home Menu" loading="lazy">
+                    <img src="/assets/block-preview-home.png" alt="Candy Neon Home Menu - 8 Dynamic Modes" loading="lazy">
                     <div class="gallery-card-caption">Main Menu · 8 Modes</div>
                 </div>
                 <div class="gallery-card">
-                    <img src="/assets/block-preview-gameplay.png" alt="8x8 Grid Gameplay & Combos" loading="lazy">
+                    <img src="/assets/block-preview-gameplay.png" alt="Classic 8x8 Grid Gameplay & Combo Multipliers" loading="lazy">
                     <div class="gallery-card-caption">8×8 Grid · Combo Blast</div>
                 </div>
                 <div class="gallery-card">
-                    <img src="/assets/block-preview-story.png" alt="Story Saga Map 20 Stages" loading="lazy">
+                    <img src="/assets/block-preview-story.png" alt="Story Saga Campaign - 20 Chapter Stages" loading="lazy">
                     <div class="gallery-card-caption">Story Saga · 20 Stages</div>
-                </div>
-                <div class="gallery-card">
-                    <img src="/assets/block-preview-events.png" alt="Online Live Events Tournament" loading="lazy">
-                    <div class="gallery-card-caption">Live Events · Trophy Race</div>
-                </div>
-                <div class="gallery-card">
-                    <img src="/assets/block-preview-quests.png" alt="Daily Quests and 21-Day Streak" loading="lazy">
-                    <div class="gallery-card-caption">21-Day Streak & Quests</div>
-                </div>
-                <div class="gallery-card">
-                    <img src="/assets/block-preview-tutorial.png" alt="How to Play Onboarding" loading="lazy">
-                    <div class="gallery-card-caption">Interactive Guide</div>
                 </div>
             </div>
         </section>'''
@@ -581,28 +569,16 @@ def home(lang):
             </div>
             <div class="gallery-strip">
                 <div class="gallery-card">
-                    <img src="/assets/block-preview-home.png" alt="Trang chủ 8 chế độ game" loading="lazy">
+                    <img src="/assets/block-preview-home.png" alt="Trang chủ Neon kẹo ngọt 8 chế độ game phong phú" loading="lazy">
                     <div class="gallery-card-caption">Trang Chủ · 8 Chế Độ</div>
                 </div>
                 <div class="gallery-card">
-                    <img src="/assets/block-preview-gameplay.png" alt="Lưới 8x8 và Combo" loading="lazy">
+                    <img src="/assets/block-preview-gameplay.png" alt="Lưới 8x8 và Bão Điểm Combo rực rỡ" loading="lazy">
                     <div class="gallery-card-caption">Lưới 8×8 · Bão Combo</div>
                 </div>
                 <div class="gallery-card">
-                    <img src="/assets/block-preview-story.png" alt="Bản đồ 20 ải Cốt truyện" loading="lazy">
+                    <img src="/assets/block-preview-story.png" alt="Bản đồ 20 ải Cốt truyện thám hiểm vũ trụ" loading="lazy">
                     <div class="gallery-card-caption">Cốt Truyện · 20 Ải</div>
-                </div>
-                <div class="gallery-card">
-                    <img src="/assets/block-preview-events.png" alt="Sự kiện trực tuyến đua cúp" loading="lazy">
-                    <div class="gallery-card-caption">Sự Kiện · Đua Cúp VIP</div>
-                </div>
-                <div class="gallery-card">
-                    <img src="/assets/block-preview-quests.png" alt="Điểm danh 21 ngày và nhiệm vụ" loading="lazy">
-                    <div class="gallery-card-caption">Điểm Danh 21 Ngày</div>
-                </div>
-                <div class="gallery-card">
-                    <img src="/assets/block-preview-tutorial.png" alt="Hướng dẫn kỹ năng chơi" loading="lazy">
-                    <div class="gallery-card-caption">Hướng Dẫn 5 Bước</div>
                 </div>
             </div>
         </section>'''
