@@ -3,5 +3,25 @@
 /* The corporate shell and each game own separate palettes. */
 body[data-theme="dvk"]{--paper:#f5f7fc;--ink:#152642;--muted:#62718b;--line:#dce3ee;--lime:#dae7ff;--forest:#2f61d5;--gold:#72aaff;background:var(--paper);color:var(--ink)}
 body[data-theme="puzzle-spark"]{--paper:#f6f4eb;--ink:#193d30;--muted:#616f65;--line:#dce0d2;--lime:#deecb7;--forest:#173e30;--gold:#e9cc88;background:var(--paper);color:var(--ink)}
+body[data-theme="block-puzzle"]{--paper:#090d1a;--ink:#ffffff;--muted:#94a3b8;--line:#1e293b;--lime:#00e5ff;--forest:#16213e;--gold:#ffb800;background:var(--paper);color:var(--ink)}
+body[data-theme="block-puzzle"] header,body[data-theme="block-puzzle"] footer{background:#090d1a;border-color:#1e293b;color:#94a3b8}
+body[data-theme="block-puzzle"] header .brand,body[data-theme="block-puzzle"] footer .brand{color:#ffffff}
+body[data-theme="block-puzzle"] header a:hover,body[data-theme="block-puzzle"] footer a:hover{color:#00e5ff}
+body[data-theme="block-puzzle"] header .language{border-color:#1e293b;color:#ffffff}
+body[data-theme="block-puzzle"] .pill{background:#16213e;color:#00e5ff;border:1px solid #1e293b}
+body[data-theme="block-puzzle"] .detail-row p,body[data-theme="block-puzzle"] .help p,body[data-theme="block-puzzle"] .lead,body[data-theme="block-puzzle"] .quiet{color:#94a3b8}
+body[data-theme="block-puzzle"] .detail-row,body[data-theme="block-puzzle"] .help details,body[data-theme="block-puzzle"] .legal-body section,body[data-theme="block-puzzle"] .legal-head,body[data-theme="block-puzzle"] .breadcrumbs{border-color:#1e293b}
+body[data-theme="block-puzzle"] .contact-card{background:#16213e;border:1px solid #1e293b}
+body[data-theme="block-puzzle"] .button{background:linear-gradient(135deg, #00e5ff 0%, #0077ff 100%);color:#000000;font-weight:700}
+body[data-theme="block-puzzle"] .button:hover{background:linear-gradient(135deg, #33ebff 0%, #3399ff 100%);color:#000000}
+.project-card[data-game="block-puzzle"]{background:linear-gradient(145deg, #0f172a 0%, #1e1b4b 100%);border:1px solid rgba(0,229,255,0.25);box-shadow:0 15px 35px rgba(0,0,0,0.4),0 0 25px rgba(0,229,255,0.1);color:#ffffff}
+.project-card[data-game="block-puzzle"] .project-identity h3{color:#ffffff}
+.project-card[data-game="block-puzzle"] .project-index{color:#00e5ff}
+.project-card[data-game="block-puzzle"] .project-copy>p{color:#94a3b8}
+.project-card[data-game="block-puzzle"] .project-facts span{border-color:rgba(0,229,255,0.3);background:rgba(0,229,255,0.06);color:#00e5ff}
+.project-card[data-game="block-puzzle"] .button{background:linear-gradient(135deg, #00e5ff 0%, #ff2a85 100%);color:#ffffff}
+.project-card[data-game="block-puzzle"] .button:hover{background:linear-gradient(135deg, #33ebff 0%, #ff5c9f 100%);color:#ffffff}
+.block-art{position:relative;isolation:isolate;min-width:0;display:grid;place-items:center;padding:10px}
+.block-art img{max-width:260px;width:100%;height:auto;border-radius:24px;border:2px solid rgba(255,255,255,0.2);box-shadow:0 15px 35px rgba(0,0,0,0.6),0 0 25px rgba(0,229,255,0.25)}
 header{background:#f5f7fc;border-color:#dce3ee;color:#152642}header a:hover{color:#2f61d5}header .language{border-color:#dce3ee}.studio-back{background:#dce6fb}.studio-front{background:#152642;color:#f5f7fc;box-shadow:12px 22px 0 #ced9ee66}.studio-front strong span{color:#77abff}.studio-front small{color:#becce5}.feature-number{border-color:var(--line);color:var(--muted)}body[data-theme="dvk"] .release-note{border-color:var(--line)}body[data-theme="dvk"] .pill{background:#e3eaf9}body[data-theme="dvk"] .legal-body p{color:#52617c}
 .project-card[data-game="puzzle-spark"]{--paper:#f6f4eb;--ink:#193d30;--muted:#616f65;--line:#dce0d2;--lime:#deecb7;--forest:#173e30;--gold:#e9cc88;background:#e9ecdf;color:#193d30}.project-card .cell{color:#173e30}.breadcrumbs{display:flex;flex-wrap:wrap;align-items:center;gap:12px;padding:30px 48px 0;font-size:12px;line-height:1.7;color:var(--muted)}.breadcrumbs a{text-decoration:none}.breadcrumbs a:hover{text-decoration:underline}.breadcrumbs [aria-current=page]{font-weight:600;color:var(--ink)}body[data-theme="puzzle-spark"] .game-page-head{padding-top:45px}.catalog-head{max-width:950px}.catalog-end{height:90px}footer{background:#f5f7fc;border-color:#dce3ee;color:#62718b}footer .brand{color:#152642}footer a:hover{color:#2f61d5}@media(max-width:850px){.breadcrumbs{padding:25px 25px 0}}@media(max-width:600px){.breadcrumbs{gap:8px;font-size:11px;padding-top:22px}.catalog-end{height:55px}}

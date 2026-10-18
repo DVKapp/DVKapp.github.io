@@ -168,5 +168,151 @@
         "A daily 4 × 4 puzzle follows the device date. Complete it to record the day and keep your streak. Free play creates a new board at your chosen size and does not affect journey progress. Progress is saved on this device only."
       ]
     ]
+  },
+  "block_privacy": {
+    "vi": [
+      [
+        "Quyền riêng tư của bạn",
+        "Block Puzzle 8x8: Neon Master được phát triển bởi DVKapp. Liên hệ: game@dvk.vn. Cập nhật ngày 18/10/2026. Trò chơi không yêu cầu đăng ký tài khoản, không thu thập họ tên, số điện thoại hoặc vị trí địa lý của bạn."
+      ],
+      [
+        "Tiến độ lưu an toàn trên thiết bị",
+        "Điểm kỷ lục (High Score), sao Cốt truyện (Story Saga), cấp độ danh vọng, chuỗi điểm danh 21 ngày, số xu và vật phẩm bảo bối được lưu trữ an toàn trong bộ nhớ cục bộ trên thiết bị của bạn. Thao tác gỡ cài đặt hoặc xóa bộ nhớ ứng dụng có thể làm mới tiến độ chơi."
+      ],
+      [
+        "Giao dịch mua hàng trong ứng dụng (IAP)",
+        "Các gói Mua xu và Gói Gỡ Quảng Cáo vĩnh viễn (Remove Ads) được xử lý trực tiếp và bảo mật tuyệt đối qua hạ tầng thanh toán của Apple App Store và Google Play. DVKapp không bao giờ thu thập, truy cập hoặc lưu trữ thông tin thẻ tín dụng hay tài khoản ngân hàng của người dùng."
+      ],
+      [
+        "Quảng cáo Google AdMob thân thiện",
+        "Trò chơi tích hợp Google Mobile Ads SDK để hiển thị biểu ngữ (Banner) cố định dưới logo và video quảng cáo tự nguyện nhận thưởng (Rewarded Video). Banner được bố trí theo tiêu chuẩn của Google, tuyệt đối không che khuất màn chơi hay gây bấm nhầm. Video thưởng là hoàn toàn tự nguyện."
+      ],
+      [
+        "Firebase Analytics & Crashlytics",
+        "Game sử dụng Firebase để theo dõi chẩn đoán lỗi giật lag, crash ứng dụng và thống kê tổng hợp tần suất vượt ải nhằm nâng cao chất lượng trải nghiệm. Dữ liệu hoàn toàn ẩn danh và tuân thủ chính sách bảo mật toàn cầu của Google: policies.google.com/privacy."
+      ],
+      [
+        "Quyền kiểm soát dữ liệu của người chơi",
+        "Bạn có toàn quyền kiểm soát dữ liệu: Trong mục Cài đặt của game, bạn có thể xóa hoặc đặt lại toàn bộ tiến độ chơi cục bộ bất cứ khi nào. Bạn cũng có thể liên hệ game@dvk.vn để được giải đáp mọi thắc mắc về quyền riêng tư."
+      ]
+    ],
+    "en": [
+      [
+        "Your Privacy",
+        "Block Puzzle 8x8: Neon Master is developed under DVKapp. Contact: game@dvk.vn. Updated 18 October 2026. No account registration, real name, phone number, or precise location is collected or required."
+      ],
+      [
+        "On-Device Local Progress & Storage",
+        "Your high scores, Story Saga stars, player levels, 21-day quest streak, coins, and booster inventory are stored locally and securely on your device. Uninstalling the app or resetting app storage will clear your local progress."
+      ],
+      [
+        "In-App Purchases (IAP)",
+        "Optional coin bundles and permanent No-Ads packages are securely authenticated and processed exclusively by Apple App Store and Google Play. DVKapp never accesses, processes, or stores payment card credentials."
+      ],
+      [
+        "Kid-Friendly Google AdMob Integration",
+        "The game utilizes Google Mobile Ads SDK for standard test/production banners placed safely under the logo to avoid accidental taps, as well as voluntary rewarded video ads. Players are never forced to watch ads during active puzzle gameplay."
+      ],
+      [
+        "Firebase Analytics & Diagnostics",
+        "Anonymous crash diagnostics and aggregated gameplay progression metrics are monitored via Firebase to ensure frame rate stability and eliminate bugs. All data handling complies with Google policies: policies.google.com/privacy."
+      ],
+      [
+        "Your Data Control Rights",
+        "You maintain complete control over your data. You may reset local progress directly in the Settings menu at any time. For support or privacy questions, contact game@dvk.vn."
+      ]
+    ]
+  },
+  "block_terms": {
+    "vi": [
+      [
+        "Điều khoản sử dụng",
+        "Block Puzzle 8x8: Neon Master là trò chơi giải đố rèn luyện trí tuệ do DVKapp phát triển. Bằng việc tải về hoặc trải nghiệm trò chơi, bạn đồng ý tuân thủ các điều khoản sử dụng này. Mọi thắc mắc xin liên hệ game@dvk.vn."
+      ],
+      [
+        "Cách sử dụng hợp pháp",
+        "Trò chơi được cấp quyền sử dụng phi thương mại cho mục đích giải trí cá nhân. Người chơi cam kết không can thiệp, dịch ngược mã nguồn (reverse engineer) hoặc sử dụng các công cụ gian lận làm sai lệch cơ chế tính điểm."
+      ],
+      [
+        "Xu ảo, Vật phẩm & Điểm số trong game",
+        "Số xu vàng, bảo bối (Hoàn tác, Đổi chiều, Búa phá hủy) và cúp thành tích là các đơn vị dữ liệu ảo phục vụ trải nghiệm trò chơi, không có giá trị quy đổi thành tiền mặt, tài sản hay hiện vật thực tế."
+      ],
+      [
+        "Gỡ quảng cáo & Mua hàng kỹ thuật số",
+        "Gói Gỡ Quảng Cáo có giá trị vĩnh viễn trên tài khoản Apple ID hoặc Google Play của bạn. Khi đổi thiết bị, bạn có thể sử dụng nút 'Khôi Phục Mua Hàng' (Restore Purchases) trong Cài đặt để lấy lại quyền lợi mà không mất thêm phí."
+      ],
+      [
+        "Hỗ trợ người dùng & Cập nhật",
+        "Nhà phát triển liên tục kiểm thử, tối ưu hóa giao diện và cập nhật các màn chơi Cốt truyện mới. Mọi thông tin phản hồi và hỗ trợ vui lòng gửi về hòm thư game@dvk.vn."
+      ]
+    ],
+    "en": [
+      [
+        "Terms of Use",
+        "Block Puzzle 8x8: Neon Master is an intellectual puzzle game created by DVKapp. By downloading or playing the game, you agree to these Terms of Use. For inquiries, email game@dvk.vn."
+      ],
+      [
+        "Lawful & Personal Use",
+        "You are granted a personal, non-exclusive license to enjoy the game on your device. You agree not to decompile, reverse-engineer, or use automated exploits to compromise scoring mechanics."
+      ],
+      [
+        "Virtual Coins, Boosters & Game Records",
+        "Coins, power-up boosters (Undo, Rotate, Hammer 3x3), trophies, and stars are virtual gameplay assets with no real-world monetary value and cannot be redeemed for fiat currency."
+      ],
+      [
+        "Remove Ads & Digital Purchases",
+        "The Remove Ads package provides permanent ad removal associated with your Apple ID or Google Play account. You can tap 'Restore Purchases' in Settings at any time to reinstate your purchase without extra cost."
+      ],
+      [
+        "Updates & Developer Support",
+        "We continuously refine puzzle mechanics, optimize tactile feedback, and release new Story Saga chapters. Send bug reports and suggestions to game@dvk.vn."
+      ]
+    ]
+  },
+  "block_help": {
+    "vi": [
+      [
+        "01 • Luật chơi 8x8 kinh điển",
+        "Kéo và thả các khối hình neon đầy màu sắc từ khay vào bảng lưới 8 × 8. Hãy lấp đầy một hàng ngang hoặc cột dọc để phá hủy các ô và giải phóng không gian cho các khối tiếp theo."
+      ],
+      [
+        "02 • Chuỗi Combo liên hoàn & Bão điểm",
+        "Phá hủy nhiều hàng hoặc cột trong cùng một nước đi, hoặc phá hủy liên tục ở các nước đi kế tiếp để kích hoạt Combo x2, x3... lên đến x10+ với hiệu ứng âm thanh cổ vũ tiếng Anh cực kỳ sôi động."
+      ],
+      [
+        "03 • 8 Chế độ game phong phú",
+        "Thỏa sức khám phá: Chơi Cổ Điển (vô tận không giới hạn giờ), Cốt Truyện Saga (20 ải thử thách mở khóa chủ đề Galaxy), Sự Kiện Trực Tuyến (đua cúp giới hạn giờ), Thử Thách Tháng (chinh phục 31 ngày), Nhiệm Vụ Hàng Ngày (chuỗi 21 ngày nhận thưởng), Bảng Xếp Hạng toàn cầu, Cửa Hàng Đổi Giao Diện và Hướng Dẫn Chi Tiết."
+      ],
+      [
+        "04 • Bộ 3 Bảo Bối Cứu Nguy & Xem Trước",
+        "Sử dụng bảo bối chiến thuật khi gặp thế cờ hiểm: Hoàn Tác (Undo nước đi vừa rồi), Đổi Chiều (Rotate xoay khối hình), Búa Phá Hủy (Hammer nổ tung vùng 3 × 3) và mở khóa Xem Trước 3 Khối Kế Tiếp để tính toán nước đi hoàn hảo."
+      ],
+      [
+        "05 • Trợ Năng Mù Màu ADA & Chơi Hoàn Toàn Offline",
+        "Hỗ trợ chế độ mù màu ADA với ký hiệu hình học trực quan, âm thanh xúc giác mượt mà và khả năng chơi offline 100% không cần kết nối mạng Wi-Fi hay 4G/5G."
+      ]
+    ],
+    "en": [
+      [
+        "01 • Classic 8x8 Grid Mechanics",
+        "Drag and drop vibrant candy-neon shapes from the tray onto the 8 × 8 grid. Complete full horizontal rows or vertical columns to blast blocks away and create room for upcoming pieces."
+      ],
+      [
+        "02 • Blazing Combo Streaks & Point Multipliers",
+        "Clear multiple rows or columns simultaneously or chain clears on consecutive moves to trigger high-octane multipliers (Combo x2, x3... up to x10+) paired with electrifying voice cheering."
+      ],
+      [
+        "03 • 8 Dynamic Game Modes",
+        "Explore 8 exciting modes: Classic Endless (pure relaxing puzzle), Story Saga (20 adventurous stages unlocking Galaxy Theme), Online Live Events (limited-time trophy tournament), Monthly Challenge (31-day trophy cup), Daily Quests & 21-Day Streak, Global Leaderboard, Visual Themes Shop, and Interactive Tutorial."
+      ],
+      [
+        "04 • Tactical Boosters & Next Queue Preview",
+        "Master tricky situations with power-up tools: Undo (revert your last placement), Rotate (change orientation of tray blocks), Hammer 3x3 (blast clear a 3 × 3 room), and Next Queue Preview to foresee 3 upcoming shapes."
+      ],
+      [
+        "05 • ADA Colorblind Accessibility & Pure Offline Play",
+        "Full ADA colorblind mode with geometric shape icons, tactile haptic feedback, and complete 100% offline play without requiring Wi-Fi or cellular data."
+      ]
+    ]
   }
 }
