@@ -19,7 +19,7 @@
       ],
       [
         "Quảng cáo trong bản thử nghiệm",
-        "Bản phát triển sử dụng SDK Google Mobile Ads và các ID quảng cáo thử nghiệm do Google cung cấp. SDK có thể xử lý thông tin thiết bị, địa chỉ IP, dữ liệu chẩn đoán và tương tác quảng cáo theo chính sách của Google. Yêu cầu quảng cáo được đặt ở chế độ không cá nhân hóa; điều này không có nghĩa SDK không xử lý dữ liệu. Bạn có thể tắt quảng cáo thử nghiệm trong Cài đặt. Bản release hiện không khởi tạo hoặc tải quảng cáo."
+        "Puzzle Spark dành cho người từ 13 tuổi. Game dùng Google AdMob cho banner và video tự nguyện để nhận 3 gợi ý. Quảng cáo không bắt buộc để chơi. SDK có thể xử lý địa chỉ IP, mã định danh thiết bị, chẩn đoán và tương tác quảng cáo. Game dùng quảng cáo không cá nhân hóa và áp dụng bảo vệ dành cho thanh thiếu niên. Lựa chọn quyền riêng tư được kiểm tra trước khi yêu cầu quảng cáo; bạn có thể thay đổi trong Cài đặt khi tùy chọn này khả dụng. Bản phát triển chỉ dùng quảng cáo test."
       ],
       [
         "Không yêu cầu quyền theo dõi",
@@ -53,7 +53,7 @@
       ],
       [
         "Ads in the test build",
-        "The development build uses Google Mobile Ads SDK and official Google test ad IDs. The SDK may process device information, IP address, diagnostics and ad interactions under Google policies. Requests are non-personalized; this does not mean no data is processed. Test ads can be disabled in Settings. The release build currently does not initialize or load ads."
+        "Puzzle Spark is intended for ages 13 and up. Google AdMob provides banners and optional videos for 3 hints. Ads are not required to play. The SDK may process IP addresses, device identifiers, diagnostics and ad interactions. The game requests non-personalized ads and applies teen protections. Privacy choices are checked before ads are requested; change them in Settings when available. Development builds use test ads only."
       ],
       [
         "No tracking permission requested",
