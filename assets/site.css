@@ -58,3 +58,16 @@ header{background:#f5f7fc;border-color:#dce3ee;color:#152642}header a:hover{colo
 .specs-badge-list{display:flex;flex-wrap:wrap;gap:12px;margin:20px 0 35px}
 .specs-badge{padding:8px 16px;border-radius:20px;background:rgba(0,229,255,0.08);border:1px solid rgba(0,229,255,0.3);color:#00e5ff;font-size:12.5px;font-weight:700;display:inline-flex;align-items:center;gap:6px}
 
+
+/* Theme: Smart Candy (Sweet Match 3) */
+body[data-theme="candy"]{--paper:#fff5f7;--ink:#4a1525;--muted:#8c5665;--line:#ffd6df;--lime:#ffc2d1;--forest:#d81b60;--gold:#ffb703;background:var(--paper);color:var(--ink)}
+body[data-theme="candy"] header,body[data-theme="candy"] footer{background:#fff0f3;border-color:#ffd6df;color:#8c5665}
+body[data-theme="candy"] header .brand,body[data-theme="candy"] footer .brand{color:#4a1525}
+body[data-theme="candy"] header a:hover,body[data-theme="candy"] footer a:hover{color:#d81b60}
+body[data-theme="candy"] header .language{border-color:#ffd6df;color:#4a1525}
+body[data-theme="candy"] .pill{background:#ffe0e6;color:#d81b60;border:1px solid #ffd6df}
+body[data-theme="candy"] .detail-row p,body[data-theme="candy"] .help p,body[data-theme="candy"] .lead,body[data-theme="candy"] .quiet{color:#8c5665}
+body[data-theme="candy"] .detail-row,body[data-theme="candy"] .help details,body[data-theme="candy"] .legal-body section,body[data-theme="candy"] .legal-head,body[data-theme="candy"] .breadcrumbs{border-color:#ffd6df}
+body[data-theme="candy"] .contact-card{background:#fff0f3;border:1px solid #ffd6df}
+body[data-theme="candy"] .button{background:linear-gradient(135deg, #ff2d55 0%, #ff7088 100%);color:#ffffff;font-weight:700}
+body[data-theme="candy"] .button:hover{background:linear-gradient(135deg, #e01e45 0%, #ff5c77 100%);color:#ffffff}
