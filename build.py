@@ -910,7 +910,7 @@ def siteprivacy(lang):
     vi = lang == 'vi'
     title = 'Quyền riêng tư trên dvk.vn' if vi else 'Privacy on dvk.vn'
     intro = 'Chính sách dành cho website giới thiệu DVK. Mỗi ứng dụng có chính sách dữ liệu riêng.' if vi else 'Privacy information for the DVK website. Each app has its own data policy.'
-    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
+    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
 
 def support(lang):
     t = TEXT[lang]
@@ -932,6 +932,12 @@ for lang in ['en', 'vi']:
         elif kind == 'block_privacy' or kind == 'block_terms':
             body = block_legal(kind, lang)
             title = TEXT[lang][('block_privacytitle' if kind == 'block_privacy' else 'block_termstitle')]
+        elif kind == 'candy_game':
+            body = candy_game(lang)
+            title = 'Smart Candy: Match 3 — Game Xếp Kẹo Ngọt Ngào' if lang == 'vi' else 'Smart Candy: Match 3 — Sweet Adventure Puzzle'
+        elif kind == 'candy_privacy' or kind == 'candy_terms':
+            body = candy_legal(kind, lang)
+            title = TEXT[lang][('candy_privacytitle' if kind == 'candy_privacy' else 'candy_termstitle')]
         elif kind == 'game':
             body = game(lang)
             title = 'Puzzle Spark'
