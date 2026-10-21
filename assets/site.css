@@ -71,3 +71,14 @@ body[data-theme="candy"] .detail-row,body[data-theme="candy"] .help details,body
 body[data-theme="candy"] .contact-card{background:#fff0f3;border:1px solid #ffd6df}
 body[data-theme="candy"] .button{background:linear-gradient(135deg, #ff2d55 0%, #ff7088 100%);color:#ffffff;font-weight:700}
 body[data-theme="candy"] .button:hover{background:linear-gradient(135deg, #e01e45 0%, #ff5c77 100%);color:#ffffff}
+body[data-theme="arrow"]{--paper:#fff6fb;--ink:#4b2378;--muted:#7a4b6a;--line:#ffd6ea;--lime:#ffc2d1;--forest:#ff2e93;--gold:#ffb703;background:var(--paper);color:var(--ink)}
+body[data-theme="arrow"] header,body[data-theme="arrow"] footer{background:#fff0f8;border-color:#ffd6ea;color:#7a4b6a}
+body[data-theme="arrow"] header .brand,body[data-theme="arrow"] footer .brand{color:#4b2378}
+body[data-theme="arrow"] header a:hover,body[data-theme="arrow"] footer a:hover{color:#ff2e93}
+body[data-theme="arrow"] header .language{border-color:#ffd6ea;color:#4b2378}
+body[data-theme="arrow"] .pill{background:#ffe3f2;color:#ff2e93;border:1px solid #ffd6ea}
+body[data-theme="arrow"] .detail-row p,body[data-theme="arrow"] .help p,body[data-theme="arrow"] .lead,body[data-theme="arrow"] .quiet{color:#7a4b6a}
+body[data-theme="arrow"] .detail-row,body[data-theme="arrow"] .help details,body[data-theme="arrow"] .legal-body section,body[data-theme="arrow"] .legal-head,body[data-theme="arrow"] .breadcrumbs{border-color:#ffd6ea}
+body[data-theme="arrow"] .contact-card{background:#fff0f8;border:1px solid #ffd6ea}
+body[data-theme="arrow"] .button{background:linear-gradient(135deg, #ff2e93 0%, #9b3dff 100%);color:#ffffff;font-weight:700}
+body[data-theme="arrow"] .button:hover{background:linear-gradient(135deg, #e01f80 0%, #8a2ef0 100%);color:#ffffff}

@@ -438,5 +438,153 @@
         "Các điều khoản này được diễn giải và điều chỉnh theo quy định pháp luật hiện hành. Nếu bạn có bất kỳ câu hỏi hoặc khiếu nại nào liên quan đến Điều khoản Sử dụng, vui lòng liên hệ đội ngũ hỗ trợ tại kietdovanapp@gmail.com hoặc game@dvk.vn."
       ]
     ]
+  },
+  "arrow_privacy": {
+    "en": [
+      [
+        "1. Who we are",
+        "Arrow Escape: Candy Puzzle (iOS/iPadOS: com.kietdovan.arrowPuzzle, Android: com.kietdovan.arrow_puzzle) is a puzzle game made by DVK. Questions about this policy: game@dvk.vn. This policy applies to the game; the dvk.vn website has its own privacy page."
+      ],
+      [
+        "2. No accounts, progress stays on your device",
+        "The game has no sign-up and no login. Your levels, stars, coins, boosters, stickers, hats, settings and the optional daily play-time limit are stored only on your device. We do not run servers that store player profiles. Deleting the app deletes this data."
+      ],
+      [
+        "3. Made for families, including children",
+        "The game is designed to be safe for children. We do not ask for or collect names, email addresses, photos, contacts or precise location. There is no chat and no free-text input. Purchases, store ratings and other grown-up actions are behind a parental gate (press and hold, then answer a multiplication question). We follow the US Children's Online Privacy Protection Act (COPPA), the Google Play Families policy and Apple's App Store guidelines."
+      ],
+      [
+        "4. Advertising (Google AdMob)",
+        "The free version shows ads from Google AdMob (publisher pub-3636940103463538). Every ad request is marked as child-directed and limited to general-audience (G) content, so ads are not personalized and are not based on your interests. The game does not ask for tracking permission on iOS and does not use the Android Advertising ID. Google may still process limited technical information (such as IP address, device type and app version) to deliver ads, limit how often an ad is shown and prevent fraud. Learn more at policies.google.com/technologies/ads and policies.google.com/privacy. The Remove Ads purchase turns off banner and between-level ads."
+      ],
+      [
+        "5. In-app purchases",
+        "Optional purchases (coins, Starter Pack, unlimited lives, Remove Ads) are processed by the Apple App Store or Google Play. We never see or store your payment details. Your store account and its parental controls (Ask to Buy, Family Link) also apply."
+      ],
+      [
+        "6. Crash reports and anonymous statistics",
+        "To fix bugs and balance difficulty, the game may use Firebase Crashlytics and Google Analytics for Firebase (Google). These collect technical, non-identifying information such as crash logs, device model, OS version and gameplay events (for example level started or completed). Advertising identifiers are not collected and the data is not used for advertising. The optional in-game feedback card (a face and a few tags, no typing) is recorded the same anonymous way."
+      ],
+      [
+        "7. Leaderboards",
+        "Leaderboards are optional and use Apple Game Center or Google Play Games. If you choose to connect, your platform nickname and scores are handled by Apple or Google under their privacy policies. We do not receive your account details."
+      ],
+      [
+        "8. Notifications",
+        "If you allow it, the game schedules local reminders on your device (for example when lives are full or a reward is ready). They are created on the device, contain no personal data, and can be turned off in the game's Settings or the system settings at any time."
+      ],
+      [
+        "9. Your choices and data deletion",
+        "Because we keep no player accounts, you can remove all game data by deleting the app. You can manage ad privacy choices from the game's Settings (Privacy, behind the parental gate). Parents can contact game@dvk.vn with any question; we will answer within 30 days."
+      ],
+      [
+        "10. Changes",
+        "If this policy changes, we will update this page and the effective date above before the change takes effect in the game."
+      ]
+    ],
+    "vi": [
+      [
+        "1. Chúng tôi là ai",
+        "Arrow Escape: Candy Puzzle (iOS/iPadOS: com.kietdovan.arrowPuzzle, Android: com.kietdovan.arrow_puzzle) là trò chơi giải đố do DVK phát triển. Mọi câu hỏi về chính sách này: game@dvk.vn. Chính sách này áp dụng cho trò chơi; website dvk.vn có trang quyền riêng tư riêng."
+      ],
+      [
+        "2. Không tài khoản, tiến độ lưu trên máy",
+        "Trò chơi không cần đăng ký hay đăng nhập. Màn chơi, sao, xu, vật phẩm, sticker, mũ, cài đặt và giới hạn thời gian chơi (nếu bật) chỉ lưu trên thiết bị của bạn. Chúng tôi không có máy chủ lưu hồ sơ người chơi. Xoá ứng dụng là xoá toàn bộ dữ liệu này."
+      ],
+      [
+        "3. Dành cho gia đình, kể cả trẻ em",
+        "Trò chơi được thiết kế an toàn cho trẻ em. Chúng tôi không hỏi hay thu thập tên, email, ảnh, danh bạ hoặc vị trí chính xác. Không có trò chuyện và không có ô nhập chữ. Mua hàng, đánh giá trên store và các thao tác dành cho người lớn đều nằm sau cổng phụ huynh (nhấn giữ rồi trả lời một phép nhân). Chúng tôi tuân thủ luật COPPA của Hoa Kỳ, chính sách Gia đình của Google Play và hướng dẫn của App Store."
+      ],
+      [
+        "4. Quảng cáo (Google AdMob)",
+        "Bản miễn phí hiển thị quảng cáo của Google AdMob (nhà xuất bản pub-3636940103463538). Mọi yêu cầu quảng cáo đều được gắn cờ dành cho trẻ em và giới hạn nội dung cho mọi lứa tuổi (G), nên quảng cáo không cá nhân hoá, không dựa trên sở thích. Trò chơi không xin quyền theo dõi trên iOS và không dùng Advertising ID của Android. Google vẫn có thể xử lý một số thông tin kỹ thuật (như địa chỉ IP, loại thiết bị, phiên bản ứng dụng) để phân phối quảng cáo, giới hạn tần suất và chống gian lận. Xem thêm tại policies.google.com/technologies/ads và policies.google.com/privacy. Gói Remove Ads tắt quảng cáo banner và quảng cáo giữa các màn."
+      ],
+      [
+        "5. Mua hàng trong ứng dụng",
+        "Các gói mua tuỳ chọn (xu, Starter Pack, mạng không giới hạn, Remove Ads) do Apple App Store hoặc Google Play xử lý. Chúng tôi không bao giờ thấy hay lưu thông tin thanh toán của bạn. Kiểm soát của phụ huynh trên tài khoản store (Ask to Buy, Family Link) cũng được áp dụng."
+      ],
+      [
+        "6. Báo lỗi và thống kê ẩn danh",
+        "Để sửa lỗi và cân bằng độ khó, trò chơi có thể dùng Firebase Crashlytics và Google Analytics for Firebase (Google). Các dịch vụ này thu thông tin kỹ thuật không định danh như nhật ký lỗi, kiểu máy, phiên bản hệ điều hành và sự kiện chơi (ví dụ bắt đầu hay hoàn thành màn). Không thu mã định danh quảng cáo và dữ liệu không dùng cho quảng cáo. Thẻ góp ý trong game (chọn mặt cười và vài nhãn, không gõ chữ) cũng được ghi nhận ẩn danh như vậy."
+      ],
+      [
+        "7. Bảng xếp hạng",
+        "Bảng xếp hạng là tuỳ chọn, dùng Apple Game Center hoặc Google Play Games. Nếu bạn chọn kết nối, biệt danh và điểm số do Apple hoặc Google xử lý theo chính sách của họ. Chúng tôi không nhận thông tin tài khoản của bạn."
+      ],
+      [
+        "8. Thông báo",
+        "Nếu bạn cho phép, trò chơi đặt lời nhắc ngay trên thiết bị (ví dụ khi mạng đã đầy hoặc có quà). Lời nhắc tạo trên máy, không chứa dữ liệu cá nhân và có thể tắt bất cứ lúc nào trong Cài đặt của game hoặc của hệ thống."
+      ],
+      [
+        "9. Lựa chọn của bạn và xoá dữ liệu",
+        "Vì không có tài khoản người chơi, bạn có thể xoá toàn bộ dữ liệu bằng cách xoá ứng dụng. Bạn quản lý lựa chọn quyền riêng tư quảng cáo trong Cài đặt của game (mục Privacy, sau cổng phụ huynh). Phụ huynh có thể liên hệ game@dvk.vn; chúng tôi trả lời trong vòng 30 ngày."
+      ],
+      [
+        "10. Thay đổi",
+        "Khi chính sách thay đổi, chúng tôi cập nhật trang này và ngày hiệu lực phía trên trước khi thay đổi có hiệu lực trong trò chơi."
+      ]
+    ]
+  },
+  "arrow_terms": {
+    "en": [
+      [
+        "1. Using the game",
+        "Arrow Escape: Candy Puzzle is provided by DVK for personal, non-commercial entertainment. By playing you agree to these terms and to the terms of the Apple App Store or Google Play from which you installed it."
+      ],
+      [
+        "2. Virtual items",
+        "Coins, lives, boosters, trophies, stickers and hats are virtual items with no real-world money value. They cannot be exchanged for cash or transferred between players. They are stored on your device and may be lost if you delete the app."
+      ],
+      [
+        "3. Purchases",
+        "Purchases are optional, made through Apple or Google and protected by a parental gate. Prices are shown in the store in your local currency. Refunds are handled by Apple or Google under their refund policies. Remove Ads is a one-time purchase that can be restored with Restore in Settings."
+      ],
+      [
+        "4. Fair play",
+        "Please do not modify, hack or reverse engineer the game or use tools to cheat. We may change level design, rewards and events to keep the game fun and balanced."
+      ],
+      [
+        "5. Content and license",
+        "The game, its characters, art, music and voice lines belong to DVK and its licensors. You receive a limited, non-transferable license to play the game on your devices."
+      ],
+      [
+        "6. Availability",
+        "We work to keep the game running smoothly but cannot guarantee it will always be free of errors. Features such as ads, leaderboards or events may change or stop over time."
+      ],
+      [
+        "7. Contact",
+        "Questions or problems: game@dvk.vn."
+      ]
+    ],
+    "vi": [
+      [
+        "1. Sử dụng trò chơi",
+        "Arrow Escape: Candy Puzzle do DVK cung cấp cho mục đích giải trí cá nhân, phi thương mại. Khi chơi, bạn đồng ý với các điều khoản này và điều khoản của Apple App Store hoặc Google Play nơi bạn cài đặt."
+      ],
+      [
+        "2. Vật phẩm ảo",
+        "Xu, mạng, vật phẩm hỗ trợ, cúp, sticker và mũ là vật phẩm ảo, không có giá trị tiền thật, không đổi ra tiền và không chuyển cho người khác. Chúng lưu trên thiết bị và có thể mất nếu bạn xoá ứng dụng."
+      ],
+      [
+        "3. Mua hàng",
+        "Mua hàng là tuỳ chọn, thực hiện qua Apple hoặc Google và được bảo vệ bằng cổng phụ huynh. Giá hiển thị trên store theo tiền tệ địa phương. Hoàn tiền do Apple hoặc Google xử lý theo chính sách của họ. Remove Ads là gói mua một lần, khôi phục được bằng nút Restore trong Cài đặt."
+      ],
+      [
+        "4. Chơi công bằng",
+        "Vui lòng không chỉnh sửa, hack, dịch ngược trò chơi hay dùng công cụ gian lận. Chúng tôi có thể điều chỉnh màn chơi, phần thưởng và sự kiện để trò chơi luôn vui và cân bằng."
+      ],
+      [
+        "5. Nội dung và bản quyền",
+        "Trò chơi, nhân vật, hình ảnh, âm nhạc và lồng tiếng thuộc về DVK và bên cấp phép. Bạn được cấp quyền giới hạn, không chuyển nhượng, để chơi trên thiết bị của mình."
+      ],
+      [
+        "6. Tính sẵn sàng",
+        "Chúng tôi cố gắng để trò chơi chạy ổn định nhưng không thể bảo đảm luôn không có lỗi. Các tính năng như quảng cáo, bảng xếp hạng hay sự kiện có thể thay đổi hoặc ngừng theo thời gian."
+      ],
+      [
+        "7. Liên hệ",
+        "Câu hỏi hoặc sự cố: game@dvk.vn."
+      ]
+    ]
   }
 }
