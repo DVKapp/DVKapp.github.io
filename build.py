@@ -35,6 +35,9 @@ PATHS = {
     'arrow_game': '/arrow-escape/',
     'arrow_privacy': '/arrow-escape/privacy/',
     'arrow_terms': '/arrow-escape/terms/',
+    'gumball_game': '/gumball-sort/',
+    'gumball_privacy': '/gumball-sort/privacy/',
+    'gumball_terms': '/gumball-sort/terms/',
 }
 
 SEO = {
@@ -54,6 +57,9 @@ SEO = {
         'arrow_game': ('Arrow Escape: Candy Puzzle — Tap Arrows Brain Game | DVK', 'Arrow Escape: Candy Puzzle for iPhone, iPad and Android. Tap arrows to set them free in 600 cute logic levels with boosters, stickers and family-safe play.'),
         'arrow_privacy': ('Arrow Escape: Candy Puzzle Privacy Policy | DVK', 'Privacy policy for Arrow Escape: Candy Puzzle. No accounts, on-device progress, child-directed non-personalized AdMob ads, parental gate for purchases.'),
         'arrow_terms': ('Arrow Escape: Candy Puzzle Terms of Use | DVK', 'Terms of use for Arrow Escape: Candy Puzzle: virtual coins, boosters, in-app purchases and fair play.'),
+        'gumball_game': ('Gumball Sort: Ball Sort Puzzle — Candy Color Sorting Game | DVK', 'Gumball Sort: Ball Sort Puzzle for iPhone, iPad and Android. Sort candy gumballs by color, help Grandma Gumm reopen Gumball Town, 1000+ levels, family-safe play.'),
+        'gumball_privacy': ('Gumball Sort: Ball Sort Puzzle Privacy Policy | DVK', 'Privacy policy for Gumball Sort: Ball Sort Puzzle. No accounts, on-device progress, child-directed non-personalized AdMob ads, parental gate for purchases.'),
+        'gumball_terms': ('Gumball Sort: Ball Sort Puzzle Terms of Use | DVK', 'Terms of use for Gumball Sort: Ball Sort Puzzle: virtual coins, boosters, in-app purchases and fair play.'),
         'candy_terms': ('Smart Candy: Match 3 Terms of Use | DVK', 'Official terms of use for Smart Candy: Match 3. Rules on virtual items, booster inventory, fair play, and Google Play licensing.'),
     },
     'vi': {
@@ -72,6 +78,9 @@ SEO = {
         'arrow_game': ('Arrow Escape: Candy Puzzle — Game Giải Đố Mũi Tên | DVK', 'Arrow Escape: Candy Puzzle cho iPhone, iPad và Android. Chạm mũi tên để giải phóng chúng qua 600 màn chơi dễ thương, an toàn cho cả gia đình.'),
         'arrow_privacy': ('Chính sách Quyền riêng tư Arrow Escape: Candy Puzzle | DVK', 'Chính sách quyền riêng tư Arrow Escape: Candy Puzzle: không tài khoản, lưu tiến độ trên máy, quảng cáo AdMob chế độ trẻ em, cổng phụ huynh khi mua hàng.'),
         'arrow_terms': ('Điều khoản Sử dụng Arrow Escape: Candy Puzzle | DVK', 'Điều khoản sử dụng Arrow Escape: Candy Puzzle: xu ảo, vật phẩm hỗ trợ, mua hàng trong ứng dụng và chơi công bằng.'),
+        'gumball_game': ('Gumball Sort: Ball Sort Puzzle — Game Xếp Bóng Kẹo Theo Màu | DVK', 'Gumball Sort: Ball Sort Puzzle cho iPhone, iPad và Android. Xếp bóng kẹo theo màu, giúp Bà Gumm mở lại Gumball Town, hơn 1000 màn, an toàn cho cả gia đình.'),
+        'gumball_privacy': ('Chính sách Quyền riêng tư Gumball Sort: Ball Sort Puzzle | DVK', 'Chính sách quyền riêng tư Gumball Sort: Ball Sort Puzzle: không tài khoản, lưu tiến độ trên máy, quảng cáo AdMob chế độ trẻ em, cổng phụ huynh khi mua hàng.'),
+        'gumball_terms': ('Điều khoản Sử dụng Gumball Sort: Ball Sort Puzzle | DVK', 'Điều khoản sử dụng Gumball Sort: Ball Sort Puzzle: xu ảo, vật phẩm hỗ trợ, mua hàng trong ứng dụng và chơi công bằng.'),
         'candy_terms': ('Điều khoản Sử dụng Smart Candy: Match 3 | DVK', 'Điều khoản sử dụng chính thức cho Smart Candy: Match 3: Quy định bảo bối, tiền tệ trong game, gói vật phẩm và bản quyền phát hành.'),
     }
 }
@@ -111,6 +120,10 @@ TEXT = {
         'arrow_privacylead': 'How Arrow Escape: Candy Puzzle handles data: no accounts, progress kept on your device, child-directed ads and a parental gate for purchases.',
         'arrow_termstitle': 'Arrow Escape: Candy Puzzle Terms of Use',
         'arrow_termslead': 'Rules for virtual coins, boosters, in-app purchases and fair play in Arrow Escape: Candy Puzzle.',
+        'gumball_privacytitle': 'Gumball Sort: Ball Sort Puzzle Privacy Policy',
+        'gumball_privacylead': 'How Gumball Sort handles data: no accounts, progress kept on your device, child-directed ads and a parental gate for purchases.',
+        'gumball_termstitle': 'Gumball Sort: Ball Sort Puzzle Terms of Use',
+        'gumball_termslead': 'Rules for virtual coins, boosters, in-app purchases and fair play in Gumball Sort: Ball Sort Puzzle.',
         'privacytitle': 'Your privacy, in plain words.',
         'privacylead': 'This policy describes the current Puzzle Spark preview and this website.',
         'termstitle': 'Terms of use',
@@ -161,6 +174,10 @@ TEXT = {
         'arrow_privacylead': 'Cách Arrow Escape: Candy Puzzle xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, quảng cáo chế độ trẻ em và cổng phụ huynh khi mua hàng.',
         'arrow_termstitle': 'Điều Khoản Sử Dụng Arrow Escape: Candy Puzzle',
         'arrow_termslead': 'Quy định về xu ảo, vật phẩm hỗ trợ, mua hàng trong ứng dụng và chơi công bằng trong Arrow Escape: Candy Puzzle.',
+        'gumball_privacytitle': 'Chính Sách Quyền Riêng Tư Gumball Sort: Ball Sort Puzzle',
+        'gumball_privacylead': 'Cách Gumball Sort xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, quảng cáo chế độ trẻ em và cổng phụ huynh khi mua hàng.',
+        'gumball_termstitle': 'Điều Khoản Sử Dụng Gumball Sort: Ball Sort Puzzle',
+        'gumball_termslead': 'Quy định về xu ảo, vật phẩm hỗ trợ, mua hàng trong ứng dụng và chơi công bằng trong Gumball Sort: Ball Sort Puzzle.',
         'privacytitle': 'Quyền riêng tư, trình bày rõ ràng.',
         'privacylead': 'Chính sách mô tả bản thử nghiệm Puzzle Spark hiện tại và website này.',
         'termstitle': 'Điều khoản sử dụng',
@@ -277,7 +294,7 @@ def grid(t):
 def shell(kind, lang, body, title):
     t = TEXT[lang]
     path = PATHS[kind]
-    theme = 'arrow' if 'arrow' in kind else 'candy' if 'candy' in kind else 'block-puzzle' if ('block' in kind or kind == 'home') else 'puzzle-spark' if kind in ['game', 'privacy', 'terms'] else 'dvk'
+    theme = 'arrow' if 'arrow' in kind else 'gumball' if 'gumball' in kind else 'candy' if 'candy' in kind else 'block-puzzle' if ('block' in kind or kind == 'home') else 'puzzle-spark' if kind in ['game', 'privacy', 'terms'] else 'dvk'
     other = 'vi' if lang == 'en' else 'en'
     canonical = BASE + url(path, lang)
     nav = ''.join(
@@ -297,6 +314,9 @@ def shell(kind, lang, body, title):
     elif theme == 'arrow':
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Arrow Escape</span>' if kind == 'arrow_game' else '<a href="' + url(PATHS['arrow_game'], lang) + '">Arrow Escape</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
+    elif theme == 'gumball':
+        crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
+        crumbs += ('<span aria-current="page">Gumball Sort</span>' if kind == 'gumball_game' else '<a href="' + url(PATHS['gumball_game'], lang) + '">Gumball Sort</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
     elif theme == 'candy':
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Smart Candy</span>' if kind == 'candy_game' else '<a href="' + url(PATHS['candy_game'], lang) + '">Smart Candy</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
@@ -304,9 +324,9 @@ def shell(kind, lang, body, title):
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Puzzle Spark</span>' if kind == 'game' else '<a href="' + url(PATHS['game'], lang) + '">Puzzle Spark</a><span>/</span><span aria-current="page">' + esc(t[kind]) + '</span>') + '</nav>'
 
-    logo = '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-puzzle-icon.png' if theme == 'block-puzzle' else '/assets/spark.svg' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
-    ogimage = '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-preview-home.png' if theme == 'block-puzzle' else '/assets/puzzle-spark-icon.png' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
-    theme_color = '#ff2e93' if theme == 'arrow' else '#d81b60' if theme == 'candy' else '#090d1a' if theme == 'block-puzzle' else '#173e30' if theme == 'puzzle-spark' else '#152642'
+    logo = '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-puzzle-icon.png' if theme == 'block-puzzle' else '/assets/spark.svg' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
+    ogimage = '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-preview-home.png' if theme == 'block-puzzle' else '/assets/puzzle-spark-icon.png' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
+    theme_color = '#ff2e93' if theme in ('arrow', 'gumball') else '#d81b60' if theme == 'candy' else '#090d1a' if theme == 'block-puzzle' else '#173e30' if theme == 'puzzle-spark' else '#152642'
 
     return f'''<!doctype html>
 <html lang="{lang}"><head><meta charset="utf-8"><meta name="google-site-verification" content="VCgA69MCS2iiEJBLr5-Sl772K8mIju2FWOCB73ZwFCE"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(desc)}"><meta name="theme-color" content="{theme_color}"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="{canonical}"><link rel="alternate" hreflang="en" href="{BASE + path}"><link rel="alternate" hreflang="vi" href="{BASE + url(path, 'vi')}"><link rel="alternate" hreflang="x-default" href="{BASE + path}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{canonical}"><meta property="og:type" content="website"><meta property="og:site_name" content="DVK"><meta property="og:locale" content="{'vi_VN' if lang == 'vi' else 'en_US'}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(desc)}"><meta property="og:image" content="{BASE}{ogimage}"><link rel="icon" type="image/png" href="{logo}"><link rel="stylesheet" href="/assets/site.css">{schema}</head><body data-theme="{theme}"><a class="skip" href="#main">{'Skip to content' if lang == 'en' else 'Đến nội dung'}</a><header><a class="brand" href="{url('/', lang)}" aria-label="DVK home"><img src="/assets/dvk-mark.svg" alt="" width="34" height="34">DVK</a><nav aria-label="{'Main navigation' if lang == 'en' else 'Điều hướng chính'}">{nav}<a class="language" href="{url(path, other)}" lang="{other}" hreflang="{other}">{esc(t['lang'])}</a></nav></header><main id="main">{crumbs}{body}</main><footer><div><a class="brand" href="{url('/', lang)}">DVK</a><p>{esc(t['foot'])}</p><a href="mailto:game@dvk.vn">game@dvk.vn</a></div><div class="footer-links">{footer}</div><small>© 2026 DVK · Apps & Games</small></footer></body></html>'''
@@ -857,6 +877,30 @@ def arrow_legal(kind, lang):
     eff = 'Hiệu lực: 21/10/2026' if lang == 'vi' else 'Effective: October 21, 2026'
     return f'''<section class="page-head legal-head"><p class="eyebrow">ARROW ESCAPE · {esc(eff)}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">DVK · game@dvk.vn</p></section><div class="legal-body">{sections}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
 
+def gumball_legal(kind, lang):
+    t = TEXT[lang]
+    data_key = 'gumball_privacy' if 'privacy' in kind else 'gumball_terms'
+    title_key = 'gumball_privacytitle' if 'privacy' in kind else 'gumball_termstitle'
+    lead_key = 'gumball_privacylead' if 'privacy' in kind else 'gumball_termslead'
+    sections = ''.join('<section id="section-' + str(i + 1) + '"><h2>' + esc(a) + '</h2>' + paragraph(b) + '</section>' for i, (a, b) in enumerate(DATA[data_key][lang]))
+    eff = 'Hiệu lực: 22/10/2026' if lang == 'vi' else 'Effective: October 22, 2026'
+    return f'''<section class="page-head legal-head"><p class="eyebrow">GUMBALL SORT · {esc(eff)}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WinPlay Studio · DVK · game@dvk.vn</p></section><div class="legal-body">{sections}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
+
+def gumball_game(lang):
+    vi = lang == 'vi'
+    title = 'Gumball Sort: Ball Sort Puzzle'
+    intro = 'Xếp những viên kẹo gumball cùng màu vào chung một ống! Giúp Bà Gumm sửa máy kẹo và mở lại từng khu phố của Gumball Town qua hơn 1000 màn chơi thư giãn trên iPhone, iPad và Android.' if vi else 'Sort the candy gumballs so each tube holds one color! Help Grandma Gumm fix her gumball machine and reopen every street of Gumball Town across 1000+ relaxing levels on iPhone, iPad and Android.'
+    feats = [
+        ('🍬 Câu chuyện Gumball Town' if vi else '🍬 The Gumball Town story', '8 khu phố, 8 người bạn, cảnh truyện lồng tiếng và hũ kẹo sưu tầm.' if vi else '8 neighborhoods, 8 friends, voiced story scenes and candy jars to collect.'),
+        ('❓ Bóng bí ẩn & ống to' if vi else '❓ Mystery balls & big tubes', 'Bóng "?" lộ màu khi lên đỉnh, ống to chứa thêm kẹo.' if vi else 'Hidden "?" balls reveal their color on top; big tubes hold extra candy.'),
+        ('🔀 Hoàn tác, +1 ống, xáo trộn, gợi ý' if vi else '🔀 Undo, +1 Tube, Shuffle, Hint', 'Bốn vật phẩm hỗ trợ, không giới hạn thời gian, không áp lực.' if vi else 'Four friendly boosters, no timers and no pressure.'),
+        ('🎨 Chế độ ký hiệu màu' if vi else '🎨 Color symbols mode', 'Mỗi màu có một ký hiệu riêng cho người khó phân biệt màu.' if vi else 'Every color gets its own symbol for color-blind players.'),
+        ('🏆 Rương sao & bảng xếp hạng' if vi else '🏆 Star chests & leaderboards', 'Gom sao mở rương, so điểm qua Game Center / Play Games.' if vi else 'Collect stars to open chests and compare scores on Game Center / Play Games.'),
+        ('👨‍👩‍👧 An toàn cho gia đình' if vi else '👨‍👩‍👧 Family safe', 'Không tài khoản, quảng cáo chế độ trẻ em, cổng phụ huynh khi mua hàng.' if vi else 'No accounts, child-directed ads and a parental gate for purchases.'),
+    ]
+    cards = ''.join(f'<div class="detail-row" style="padding:22px; border-radius:22px; background:#fff; border:1px solid #ffd6ea;"><h3 style="margin:0 0 8px;">{esc(a)}</h3><p style="margin:0;">{esc(b)}</p></div>' for a, b in feats)
+    return f'''<section class="page-head game-page-head"><div><p class="eyebrow">WINPLAY STUDIO · GUMBALL SORT</p><h1>{title}</h1><p class="lead">{intro}</p><div style="display:flex; gap:12px; flex-wrap:wrap; margin:24px 0;"><span class="pill">iOS · iPadOS · Android</span><span class="pill">{'Sắp ra mắt' if vi else 'Coming soon'}</span></div><div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:28px;"><a class="button" href="{url(PATHS['gumball_privacy'], lang)}">{'Chính sách quyền riêng tư →' if vi else 'Privacy Policy →'}</a><a class="button" href="{url(PATHS['gumball_terms'], lang)}" style="background:#4b2378; color:#fff;">{'Điều khoản sử dụng' if vi else 'Terms of Use'}</a></div></div><div style="display:grid; place-items:center;"><img src="/assets/gumball-sort-icon.png" alt="Gumball Sort icon" width="220" height="220" style="border-radius:44px; box-shadow:0 20px 40px rgba(255,46,147,0.25); border:3px solid #fff;"></div></section><section style="padding: 20px 48px 60px;"><h2 style="color:#ff2e93; margin-bottom:28px;">{'Tính năng' if vi else 'Features'}</h2><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:20px;">{cards}</div></section>'''
+
 def arrow_game(lang):
     vi = lang == 'vi'
     title = 'Arrow Escape: Candy Puzzle'
@@ -952,7 +996,7 @@ def siteprivacy(lang):
     vi = lang == 'vi'
     title = 'Quyền riêng tư trên dvk.vn' if vi else 'Privacy on dvk.vn'
     intro = 'Chính sách dành cho website giới thiệu DVK. Mỗi ứng dụng có chính sách dữ liệu riêng.' if vi else 'Privacy information for the DVK website. Each app has its own data policy.'
-    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['arrow_privacy'], lang) + '"><strong>Arrow Escape: Candy Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
+    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['arrow_privacy'], lang) + '"><strong>Arrow Escape: Candy Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['gumball_privacy'], lang) + '"><strong>Gumball Sort: Ball Sort Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
 
 def support(lang):
     t = TEXT[lang]
@@ -980,6 +1024,12 @@ for lang in ['en', 'vi']:
         elif kind == 'arrow_privacy' or kind == 'arrow_terms':
             body = arrow_legal(kind, lang)
             title = TEXT[lang][('arrow_privacytitle' if kind == 'arrow_privacy' else 'arrow_termstitle')]
+        elif kind == 'gumball_game':
+            body = gumball_game(lang)
+            title = 'Gumball Sort: Ball Sort Puzzle'
+        elif kind == 'gumball_privacy' or kind == 'gumball_terms':
+            body = gumball_legal(kind, lang)
+            title = TEXT[lang][('gumball_privacytitle' if kind == 'gumball_privacy' else 'gumball_termstitle')]
         elif kind == 'candy_game':
             body = candy_game(lang)
             title = 'Smart Candy: Match 3 — Game Xếp Kẹo Ngọt Ngào' if lang == 'vi' else 'Smart Candy: Match 3 — Sweet Adventure Puzzle'

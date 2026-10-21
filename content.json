@@ -1,590 +1,730 @@
 {
-  "privacy": {
-    "vi": [
-      [
-        "Quyền riêng tư của bạn",
-        "Puzzle Spark được phát triển dưới tên DVKapp. Liên hệ: game@dvk.vn. Cập nhật ngày 16/10/2026. Game không yêu cầu tài khoản, tên, số điện thoại hoặc vị trí chính xác."
-      ],
-      [
-        "Tiến độ lưu trên thiết bị",
-        "Màn đã hoàn thành, số sao, nước đi, thử thách hằng ngày và tùy chọn được lưu trong bộ nhớ ứng dụng trên thiết bị. Game không có bảng xếp hạng trực tuyến hoặc máy chủ lưu tiến độ. Cơ chế sao lưu hệ điều hành, nếu bạn bật, tuân theo cài đặt của thiết bị. Gỡ ứng dụng hoặc đặt lại dữ liệu có thể làm mất tiến độ."
-      ],
-      [
-        "Thông báo nhắc quay lại",
-        "Chỉ bật sau khi bạn chọn Nhắc quay lại chơi và cho phép thông báo. Lần chơi cuối được lưu trên thiết bị để đặt tối đa hai thông báo, sau khoảng 12 giờ và 24 giờ. Chơi lại sẽ thay lịch cũ; tắt nhắc hẹn sẽ hủy lịch. Hệ điều hành và chế độ tiết kiệm pin có thể làm thông báo đến muộn. Tính năng này dùng thông báo cục bộ, không gửi thời gian chơi lên máy chủ để nhắc."
-      ],
-      [
-        "Firebase và thống kê tùy chọn",
-        "Firebase kết nối game với dự án Puzzle Spark. Google Analytics mặc định tắt; chỉ bật khi bạn chọn Chia sẻ thống kê sử dụng. Khi bật, Google có thể nhận mã định danh phiên cài đặt, thông tin thiết bị và sự kiện bắt đầu/hoàn thành màn, số lượt đi và gợi ý để phân tích sử dụng. Game không gửi email, tên hoặc nội dung cá nhân và không dùng Analytics để cá nhân hóa quảng cáo. Tắt thống kê sẽ ngừng thu thập mới và đặt lại dữ liệu Analytics cục bộ; không tự xóa dữ liệu đã gửi trước đó. Chính sách của Google: policies.google.com/privacy."
-      ],
-      [
-        "Quảng cáo trong bản thử nghiệm",
-        "Puzzle Spark dành cho người từ 13 tuổi. Game dùng Google AdMob cho banner và video tự nguyện để nhận 3 gợi ý. Quảng cáo không bắt buộc để chơi. SDK có thể xử lý địa chỉ IP, mã định danh thiết bị, chẩn đoán và tương tác quảng cáo. Game dùng quảng cáo không cá nhân hóa và áp dụng bảo vệ dành cho thanh thiếu niên. Lựa chọn quyền riêng tư được kiểm tra trước khi yêu cầu quảng cáo; bạn có thể thay đổi trong Cài đặt khi tùy chọn này khả dụng. Bản phát triển chỉ dùng quảng cáo test."
-      ],
-      [
-        "Không yêu cầu quyền theo dõi",
-        "Phiên bản này không yêu cầu quyền App Tracking Transparency và không triển khai tính năng theo dõi người dùng giữa các ứng dụng. Trước khi bật quảng cáo thương mại, thông báo quyền riêng tư và lựa chọn đồng ý cần được cập nhật theo cấu hình SDK và khu vực phát hành thực tế."
-      ],
-      [
-        "Kiểm soát dữ liệu",
-        "Vào Cài đặt → Đặt lại dữ liệu để xóa toàn bộ tiến độ và tùy chọn lưu cục bộ của game. Không cần liên hệ để xóa tài khoản vì game không có tài khoản. Nếu gửi email hỗ trợ, nội dung và địa chỉ email bạn cung cấp được dùng để xử lý yêu cầu của bạn."
-      ],
-      [
-        "Dịch vụ bên thứ ba và thay đổi",
-        "Thông tin về cách Google sử dụng dữ liệu: policies.google.com/privacy và policies.google.com/technologies/ads. Nếu game thay đổi cách xử lý dữ liệu, chính sách sẽ được cập nhật trong ứng dụng trước khi áp dụng tính năng mới."
-      ]
-    ],
-    "en": [
-      [
-        "Your privacy",
-        "Puzzle Spark is developed as DVKapp. Contact: game@dvk.vn. Updated 16 October 2026. No account, name, phone number or precise location is required."
-      ],
-      [
-        "Progress on your device",
-        "Completed levels, stars, moves, daily challenges and settings are stored on your device. There is no online leaderboard or server progress backup. Any operating-system backup follows your device settings. Uninstalling or resetting data may erase progress."
-      ],
-      [
-        "Return reminders",
-        "Reminders only run after you enable Play reminders and grant notification permission. The last play time is stored on the device to schedule at most two local notifications, about 12 and 24 hours later. Playing again replaces the schedule; disabling reminders cancels it. The operating system or power saving may delay delivery. Last play times are not sent to a server for reminders."
-      ],
-      [
-        "Firebase and optional analytics",
-        "Firebase connects the game to the Puzzle Spark project. Google Analytics is off by default and only enabled if you choose Share usage analytics. When enabled, Google may receive an installation identifier, device details and level start/completion events, move and hint counts. No email, name or personal content is sent by the game; Analytics is not used for ad personalization. Turning it off stops new collection and resets local Analytics data, but does not automatically delete data already sent. Google policy: policies.google.com/privacy."
-      ],
-      [
-        "Ads in the test build",
-        "Puzzle Spark is intended for ages 13 and up. Google AdMob provides banners and optional videos for 3 hints. Ads are not required to play. The SDK may process IP addresses, device identifiers, diagnostics and ad interactions. The game requests non-personalized ads and applies teen protections. Privacy choices are checked before ads are requested; change them in Settings when available. Development builds use test ads only."
-      ],
-      [
-        "No tracking permission requested",
-        "This version does not request App Tracking Transparency permission or implement tracking across apps. Before commercial ads are enabled, privacy notices and consent choices must be updated for the actual SDK configuration and release regions."
-      ],
-      [
-        "Control your data",
-        "Use Settings → Reset data to remove all local progress and preferences. There is no account to delete. If you email support, your email address and message are used to respond to your request."
-      ],
-      [
-        "Third-party services and updates",
-        "How Google uses data: policies.google.com/privacy and policies.google.com/technologies/ads. If data handling changes, the in-app policy will be updated before the new feature is applied."
-      ]
-    ]
-  },
-  "terms": {
-    "vi": [
-      [
-        "Điều khoản sử dụng",
-        "Puzzle Spark là trò chơi giải đố giải trí của DVKapp. Khi sử dụng trò chơi, bạn đồng ý sử dụng hợp pháp và tôn trọng quyền của người khác. Liên hệ mọi thắc mắc: game@dvk.vn. Cập nhật 16/10/2026."
-      ],
-      [
-        "Cách sử dụng và nội dung",
-        "Bạn được chơi game trên thiết bị của mình cho mục đích cá nhân. Không được phân phối phần mềm độc hại, giả mạo nhà phát triển hoặc khai thác game để thực hiện hoạt động trái pháp luật. Ý tưởng giải đố Lights Out là cơ chế trò chơi phổ biến; mã nguồn và phần thể hiện riêng của Puzzle Spark thuộc các chủ thể có quyền liên quan."
-      ],
-      [
-        "Tiến độ, sao và phần thưởng",
-        "Sao, thành tích và chuỗi ngày là số liệu trong trò chơi, không phải tiền, tài sản, phần thưởng hiện vật hay công cụ quy đổi. Game không có cá cược, giao dịch tiền thật hoặc lời hứa về thu nhập. Thử thách mỗi ngày dựa trên ngày của thiết bị và không có bảng xếp hạng trực tuyến."
-      ],
-      [
-        "Chi phí và quảng cáo",
-        "Phiên bản hiện tại miễn phí, không có đăng ký hoặc mua hàng trong ứng dụng. Bản phát triển có thể hiển thị banner và quảng cáo nhận thưởng thử nghiệm; chơi game không yêu cầu nhấn quảng cáo. Dữ liệu di động có thể bị nhà mạng tính phí."
-      ],
-      [
-        "Lưu trữ và tính khả dụng",
-        "Tiến độ được lưu cục bộ. Hãy cân nhắc trước khi xóa dữ liệu hoặc gỡ app vì không có máy chủ khôi phục tiến độ. Chúng tôi cố gắng sửa lỗi và duy trì khả năng tương thích, nhưng không bảo đảm game không bao giờ gián đoạn. Điều khoản không loại trừ quyền bắt buộc của người tiêu dùng theo pháp luật áp dụng."
-      ],
-      [
-        "Hỗ trợ và cập nhật",
-        "Gửi lỗi hoặc góp ý tới game@dvk.vn. Không gửi mật khẩu hoặc thông tin nhạy cảm. Các tính năng, chính sách dữ liệu hoặc điều khoản có thể được cập nhật cùng phiên bản game; thay đổi quan trọng sẽ được thông báo phù hợp."
-      ]
-    ],
-    "en": [
-      [
-        "Terms of use",
-        "Puzzle Spark is a puzzle game by DVKapp. By using it, you agree to use it lawfully and respect others. Contact: game@dvk.vn. Updated 16 October 2026."
-      ],
-      [
-        "Use and content",
-        "The game is for personal use on your own device. Do not distribute malware, impersonate the developer or use the game for unlawful activity. Lights Out is a well-known puzzle concept; Puzzle Spark code and original presentation belong to their respective rights holders."
-      ],
-      [
-        "Progress, stars and rewards",
-        "Stars, achievements and streaks are game records, not money, assets, physical prizes or redeemable rewards. There is no betting, real-money trading or income promise. Daily challenges use the device date and have no online leaderboard."
-      ],
-      [
-        "Cost and ads",
-        "This version is free, without subscriptions or in-app purchases. Development builds may show test banner and rewarded ads; playing does not require clicking ads. Mobile data charges may apply."
-      ],
-      [
-        "Storage and availability",
-        "Progress is saved locally. Consider this before deleting data or uninstalling, as there is no server recovery. We aim to fix issues and maintain compatibility but cannot guarantee uninterrupted service. These terms do not remove mandatory consumer rights under applicable law."
-      ],
-      [
-        "Support and updates",
-        "Send bug reports or feedback to game@dvk.vn. Do not send passwords or sensitive information. Features, data policies and terms may be updated with game releases; important changes will be communicated appropriately."
-      ]
-    ]
-  },
-  "help": {
-    "vi": [
-      [
-        "01 • Mục tiêu",
-        "Tắt hết các ô sáng. Khi chạm một ô, ô đó và các ô chung cạnh phía trên, dưới, trái, phải sẽ đổi trạng thái. Các ô chéo không bị ảnh hưởng."
-      ],
-      [
-        "02 • Quan sát trước khi chạm",
-        "Một ô chạm hai lần sẽ quay về trạng thái cũ. Thứ tự chạm không làm thay đổi kết quả cuối nếu các ô được chạm có cùng số lần chẵn/lẻ. Mỗi màn đều được kiểm tra có lời giải."
-      ],
-      [
-        "03 • Sao và gợi ý",
-        "Mỗi màn có mục tiêu là số nước tối thiểu. Điểm đánh giá = tổng số lần chạm + số lần hoàn tác + 2 × số gợi ý. Đạt mục tiêu: 3 sao; vượt tối đa 3 điểm: 2 sao; còn lại: 1 sao. Mỗi ngày có 2 lượt gợi ý miễn phí không cộng dồn; hoàn tất quảng cáo tự nguyện nhận 3 lượt giữ lại. Chỉ cộng thưởng khi SDK xác nhận, không bảo đảm thời lượng quảng cáo cố định. Hoàn thành thử thách mỗi ngày nhận thêm 1 lượt ở ngày 1–2 của chuỗi, 2 lượt ở ngày 3–6, 3 lượt từ ngày 7. Mỗi ngày chỉ nhận thưởng một lần; đứt chuỗi bắt đầu lại từ ngày 1, lượt đã nhận vẫn được giữ. Chia sẻ ảnh thành tích qua bảng chia sẻ hệ thống, không tự đăng bài. Không bị giới hạn thời gian. Chơi lại để cải thiện thành tích, giữ kết quả tốt nhất."
-      ],
-      [
-        "04 • Lưu và tiếp tục",
-        "Game tự lưu nước đi khi bạn chạm, dùng gợi ý hoặc rời màn. Chọn Tiếp tục để trở lại màn đang chơi. Bạn có thể mở danh sách màn từ biểu tượng lưới trong màn chơi. Màn mới mở sau khi hoàn thành màn trước; tất cả các màn đã mở đều chơi lại được."
-      ],
-      [
-        "05 • Mỗi ngày và chơi tự do",
-        "Mỗi ngày có một bảng 4 × 4 theo ngày trên thiết bị. Hoàn thành để ghi nhận ngày đó và chuỗi ngày liên tiếp. Chơi tự do tạo một bảng mới ở kích thước bạn chọn, không ảnh hưởng tiến độ hành trình. Tiến độ chỉ lưu trên máy này."
-      ]
-    ],
-    "en": [
-      [
-        "01 • The goal",
-        "Turn off every light. Tapping a cell toggles that cell and its neighbors above, below, left and right. Diagonal neighbors do not change."
-      ],
-      [
-        "02 • Look before you tap",
-        "Tapping the same cell twice restores its previous state. The final board depends on which cells are tapped an odd number of times, not the order. Every level has a verified solution."
-      ],
-      [
-        "03 • Stars and hints",
-        "The target is the minimum number of moves. Rating score = taps + undos + 2 × hints. Meet the target for 3 stars; up to 3 extra points earns 2 stars; otherwise 1. You get 2 free hints per day without rollover. Completing an optional ad grants 3 saved hints only when the SDK confirms the reward; ad duration varies. Completing the daily puzzle awards 1 hint on streak days 1–2, 2 on days 3–6 and 3 from day 7. Rewards are once per date; a broken streak restarts at day 1, but earned credits stay. Achievement sharing uses the system share sheet and never posts automatically. There is no time limit. Replay to improve your best result."
-      ],
-      [
-        "04 • Save and continue",
-        "Moves are saved when you tap, use hints or leave a puzzle. Choose Continue to resume. Open the level list using the grid button. Complete a level to unlock the next; unlocked levels can be replayed."
-      ],
-      [
-        "05 • Daily and free play",
-        "A daily 4 × 4 puzzle follows the device date. Complete it to record the day and keep your streak. Free play creates a new board at your chosen size and does not affect journey progress. Progress is saved on this device only."
-      ]
-    ]
-  },
-  "block_privacy": {
-    "vi": [
-      [
-        "Quyền riêng tư của bạn",
-        "Block Puzzle 8x8: Neon Master được phát triển bởi DVKapp. Liên hệ: game@dvk.vn. Cập nhật ngày 18/10/2026. Trò chơi không yêu cầu đăng ký tài khoản, không thu thập họ tên, số điện thoại hoặc vị trí địa lý của bạn."
-      ],
-      [
-        "Tiến độ lưu an toàn trên thiết bị",
-        "Điểm kỷ lục (High Score), sao Cốt truyện (Story Saga), cấp độ danh vọng, chuỗi điểm danh 21 ngày, số xu và vật phẩm bảo bối được lưu trữ an toàn trong bộ nhớ cục bộ trên thiết bị của bạn. Thao tác gỡ cài đặt hoặc xóa bộ nhớ ứng dụng có thể làm mới tiến độ chơi."
-      ],
-      [
-        "Giao dịch mua hàng trong ứng dụng (IAP)",
-        "Các gói Mua xu và Gói Gỡ Quảng Cáo vĩnh viễn (Remove Ads) được xử lý trực tiếp và bảo mật tuyệt đối qua hạ tầng thanh toán của Apple App Store và Google Play. DVKapp không bao giờ thu thập, truy cập hoặc lưu trữ thông tin thẻ tín dụng hay tài khoản ngân hàng của người dùng."
-      ],
-      [
-        "Quảng cáo Google AdMob thân thiện",
-        "Trò chơi tích hợp Google Mobile Ads SDK để hiển thị biểu ngữ (Banner) cố định dưới logo và video quảng cáo tự nguyện nhận thưởng (Rewarded Video). Banner được bố trí theo tiêu chuẩn của Google, tuyệt đối không che khuất màn chơi hay gây bấm nhầm. Video thưởng là hoàn toàn tự nguyện."
-      ],
-      [
-        "Firebase Analytics & Crashlytics",
-        "Game sử dụng Firebase để theo dõi chẩn đoán lỗi giật lag, crash ứng dụng và thống kê tổng hợp tần suất vượt ải nhằm nâng cao chất lượng trải nghiệm. Dữ liệu hoàn toàn ẩn danh và tuân thủ chính sách bảo mật toàn cầu của Google: policies.google.com/privacy."
-      ],
-      [
-        "Quyền kiểm soát dữ liệu của người chơi",
-        "Bạn có toàn quyền kiểm soát dữ liệu: Trong mục Cài đặt của game, bạn có thể xóa hoặc đặt lại toàn bộ tiến độ chơi cục bộ bất cứ khi nào. Bạn cũng có thể liên hệ game@dvk.vn để được giải đáp mọi thắc mắc về quyền riêng tư."
-      ]
-    ],
-    "en": [
-      [
-        "Your Privacy",
-        "Block Puzzle 8x8: Neon Master is developed under DVKapp. Contact: game@dvk.vn. Updated 18 October 2026. No account registration, real name, phone number, or precise location is collected or required."
-      ],
-      [
-        "On-Device Local Progress & Storage",
-        "Your high scores, Story Saga stars, player levels, 21-day quest streak, coins, and booster inventory are stored locally and securely on your device. Uninstalling the app or resetting app storage will clear your local progress."
-      ],
-      [
-        "In-App Purchases (IAP)",
-        "Optional coin bundles and permanent No-Ads packages are securely authenticated and processed exclusively by Apple App Store and Google Play. DVKapp never accesses, processes, or stores payment card credentials."
-      ],
-      [
-        "Kid-Friendly Google AdMob Integration",
-        "The game utilizes Google Mobile Ads SDK for standard test/production banners placed safely under the logo to avoid accidental taps, as well as voluntary rewarded video ads. Players are never forced to watch ads during active puzzle gameplay."
-      ],
-      [
-        "Firebase Analytics & Diagnostics",
-        "Anonymous crash diagnostics and aggregated gameplay progression metrics are monitored via Firebase to ensure frame rate stability and eliminate bugs. All data handling complies with Google policies: policies.google.com/privacy."
-      ],
-      [
-        "Your Data Control Rights",
-        "You maintain complete control over your data. You may reset local progress directly in the Settings menu at any time. For support or privacy questions, contact game@dvk.vn."
-      ]
-    ]
-  },
-  "block_terms": {
-    "vi": [
-      [
-        "Điều khoản sử dụng",
-        "Block Puzzle 8x8: Neon Master là trò chơi giải đố rèn luyện trí tuệ do DVKapp phát triển. Bằng việc tải về hoặc trải nghiệm trò chơi, bạn đồng ý tuân thủ các điều khoản sử dụng này. Mọi thắc mắc xin liên hệ game@dvk.vn."
-      ],
-      [
-        "Cách sử dụng hợp pháp",
-        "Trò chơi được cấp quyền sử dụng phi thương mại cho mục đích giải trí cá nhân. Người chơi cam kết không can thiệp, dịch ngược mã nguồn (reverse engineer) hoặc sử dụng các công cụ gian lận làm sai lệch cơ chế tính điểm."
-      ],
-      [
-        "Xu ảo, Vật phẩm & Điểm số trong game",
-        "Số xu vàng, bảo bối (Hoàn tác, Đổi chiều, Búa phá hủy) và cúp thành tích là các đơn vị dữ liệu ảo phục vụ trải nghiệm trò chơi, không có giá trị quy đổi thành tiền mặt, tài sản hay hiện vật thực tế."
-      ],
-      [
-        "Gỡ quảng cáo & Mua hàng kỹ thuật số",
-        "Gói Gỡ Quảng Cáo có giá trị vĩnh viễn trên tài khoản Apple ID hoặc Google Play của bạn. Khi đổi thiết bị, bạn có thể sử dụng nút 'Khôi Phục Mua Hàng' (Restore Purchases) trong Cài đặt để lấy lại quyền lợi mà không mất thêm phí."
-      ],
-      [
-        "Hỗ trợ người dùng & Cập nhật",
-        "Nhà phát triển liên tục kiểm thử, tối ưu hóa giao diện và cập nhật các màn chơi Cốt truyện mới. Mọi thông tin phản hồi và hỗ trợ vui lòng gửi về hòm thư game@dvk.vn."
-      ]
-    ],
-    "en": [
-      [
-        "Terms of Use",
-        "Block Puzzle 8x8: Neon Master is an intellectual puzzle game created by DVKapp. By downloading or playing the game, you agree to these Terms of Use. For inquiries, email game@dvk.vn."
-      ],
-      [
-        "Lawful & Personal Use",
-        "You are granted a personal, non-exclusive license to enjoy the game on your device. You agree not to decompile, reverse-engineer, or use automated exploits to compromise scoring mechanics."
-      ],
-      [
-        "Virtual Coins, Boosters & Game Records",
-        "Coins, power-up boosters (Undo, Rotate, Hammer 3x3), trophies, and stars are virtual gameplay assets with no real-world monetary value and cannot be redeemed for fiat currency."
-      ],
-      [
-        "Remove Ads & Digital Purchases",
-        "The Remove Ads package provides permanent ad removal associated with your Apple ID or Google Play account. You can tap 'Restore Purchases' in Settings at any time to reinstate your purchase without extra cost."
-      ],
-      [
-        "Updates & Developer Support",
-        "We continuously refine puzzle mechanics, optimize tactile feedback, and release new Story Saga chapters. Send bug reports and suggestions to game@dvk.vn."
-      ]
-    ]
-  },
-  "block_help": {
-    "vi": [
-      [
-        "01 • Luật chơi 8x8 kinh điển",
-        "Kéo và thả các khối hình neon đầy màu sắc từ khay vào bảng lưới 8 × 8. Hãy lấp đầy một hàng ngang hoặc cột dọc để phá hủy các ô và giải phóng không gian cho các khối tiếp theo."
-      ],
-      [
-        "02 • Chuỗi Combo liên hoàn & Bão điểm",
-        "Phá hủy nhiều hàng hoặc cột trong cùng một nước đi, hoặc phá hủy liên tục ở các nước đi kế tiếp để kích hoạt Combo x2, x3... lên đến x10+ với hiệu ứng âm thanh cổ vũ tiếng Anh cực kỳ sôi động."
-      ],
-      [
-        "03 • 8 Chế độ game phong phú",
-        "Thỏa sức khám phá: Chơi Cổ Điển (vô tận không giới hạn giờ), Cốt Truyện Saga (20 ải thử thách mở khóa chủ đề Galaxy), Sự Kiện Trực Tuyến (đua cúp giới hạn giờ), Thử Thách Tháng (chinh phục 31 ngày), Nhiệm Vụ Hàng Ngày (chuỗi 21 ngày nhận thưởng), Bảng Xếp Hạng toàn cầu, Cửa Hàng Đổi Giao Diện và Hướng Dẫn Chi Tiết."
-      ],
-      [
-        "04 • Bộ 3 Bảo Bối Cứu Nguy & Xem Trước",
-        "Sử dụng bảo bối chiến thuật khi gặp thế cờ hiểm: Hoàn Tác (Undo nước đi vừa rồi), Đổi Chiều (Rotate xoay khối hình), Búa Phá Hủy (Hammer nổ tung vùng 3 × 3) và mở khóa Xem Trước 3 Khối Kế Tiếp để tính toán nước đi hoàn hảo."
-      ],
-      [
-        "05 • Trợ Năng Mù Màu ADA & Chơi Hoàn Toàn Offline",
-        "Hỗ trợ chế độ mù màu ADA với ký hiệu hình học trực quan, âm thanh xúc giác mượt mà và khả năng chơi offline 100% không cần kết nối mạng Wi-Fi hay 4G/5G."
-      ]
-    ],
-    "en": [
-      [
-        "01 • Classic 8x8 Grid Mechanics",
-        "Drag and drop vibrant candy-neon shapes from the tray onto the 8 × 8 grid. Complete full horizontal rows or vertical columns to blast blocks away and create room for upcoming pieces."
-      ],
-      [
-        "02 • Blazing Combo Streaks & Point Multipliers",
-        "Clear multiple rows or columns simultaneously or chain clears on consecutive moves to trigger high-octane multipliers (Combo x2, x3... up to x10+) paired with electrifying voice cheering."
-      ],
-      [
-        "03 • 8 Dynamic Game Modes",
-        "Explore 8 exciting modes: Classic Endless (pure relaxing puzzle), Story Saga (20 adventurous stages unlocking Galaxy Theme), Online Live Events (limited-time trophy tournament), Monthly Challenge (31-day trophy cup), Daily Quests & 21-Day Streak, Global Leaderboard, Visual Themes Shop, and Interactive Tutorial."
-      ],
-      [
-        "04 • Tactical Boosters & Next Queue Preview",
-        "Master tricky situations with power-up tools: Undo (revert your last placement), Rotate (change orientation of tray blocks), Hammer 3x3 (blast clear a 3 × 3 room), and Next Queue Preview to foresee 3 upcoming shapes."
-      ],
-      [
-        "05 • ADA Colorblind Accessibility & Pure Offline Play",
-        "Full ADA colorblind mode with geometric shape icons, tactile haptic feedback, and complete 100% offline play without requiring Wi-Fi or cellular data."
-      ]
-    ]
-  },
-  "candy_privacy": {
-    "en": [
-      [
-        "1. Overview & Developer Information",
-        "Smart Candy - Match 3 (Package: com.smartcandy.match3) is a casual puzzle game developed and published by WIN Entertainments and distributed under DVK (https://dvk.vn). Developer Contact: kietdovanapp@gmail.com / game@dvk.vn. Effective Date: October 20, 2026. We are deeply committed to safeguarding your privacy. Smart Candy - Match 3 is designed as an offline-first casual game. No account registration is required to enjoy the full game experience, and we do not collect personal identifiers such as your real name, email address, physical address, contact list, or biometric data."
-      ],
-      [
-        "2. Offline-First Architecture & On-Device Storage",
-        "Your gameplay data—including completed levels, star achievements, high scores, coin balances, lives, booster items, and audio preferences—is stored locally and securely on your device. Zero cloud registration or external server synchronization is needed. Because your save data is hosted entirely on your physical hardware, uninstalling the application or clearing application storage in Android system settings will permanently reset your local gameplay progress."
-      ],
-      [
-        "3. Google Play In-App Purchases (IAP)",
-        "Smart Candy - Match 3 offers optional in-app purchases for coin packs, extra moves, lives, and tactical booster items. All monetary transactions are processed, authorized, and secured exclusively by the Google Play Store via Google Play Billing Library (Version 8+). WIN Entertainments and DVK never access, capture, or store your credit card, debit card, bank credentials, or physical billing details. All financial purchases are governed strictly by the Google Play Terms of Service."
-      ],
-      [
-        "4. Advertising & Device Identifiers (Google AdMob & UMP)",
-        "To support ongoing maintenance and keep Smart Candy - Match 3 free to play, the game integrates Google Mobile Ads (AdMob, Publisher: pub-3636940103463538). In full accordance with our Google Play Data Safety declaration, Google Mobile Ads SDK and Google Play Services may collect and transmit: (a) Device or other IDs (such as Google Advertising ID / AAID); (b) Non-identifiable diagnostic metrics (ad impressions, performance, interaction events). All data is encrypted in transit using industry-standard HTTPS protocols. We integrate the Google User Messaging Platform (UMP) consent framework. Players in the European Economic Area (EEA), United Kingdom, and jurisdictions with privacy statutes can review, customize, or revoke consent for personalized advertising cookies and device identifiers at any time. You can also reset or delete your Google Advertising ID via Android Settings > Google > Ads."
-      ],
-      [
-        "5. Performance Analytics & Diagnostics",
-        "We utilize Firebase Analytics and Google Play Core telemetry to collect anonymous, aggregated technical metrics (such as framerate consistency, level pass rates, and crash stack traces). This data is used solely to resolve stability bugs, optimize game performance across various Android hardware configurations, and balance game stage difficulties."
-      ],
-      [
-        "6. Family Friendly & Children's Privacy (COPPA & GDPR-K)",
-        "Smart Candy - Match 3 is crafted as an accessible, family-friendly puzzle experience suitable for audiences of all ages. We comply with the Children's Online Privacy Protection Act (COPPA), GDPR-K, and Google Play Families Policy requirements. We do not knowingly collect personal information from children under the age of 13 (or under 16 in applicable European territories). Where required by law or platform policies, advertising requests are flagged for child-directed treatment (TFCD/TFUA), serving strictly contextual, non-targeted family-appropriate advertisements."
-      ],
-      [
-        "7. Data Retention & Your Privacy Rights (GDPR & CCPA)",
-        "Because we maintain no remote user databases or account systems, you retain autonomous control over your game data directly on your device. You may erase all locally stored data at any time via Android Settings > Apps > Smart Candy - Match 3 > Storage > Clear Data. Under GDPR, CCPA/CPRA, and relevant privacy legislation, you have the right to inquire about data processing practices or withdraw ad consent. For inquiries, contact our Data Protection desk at kietdovanapp@gmail.com or game@dvk.vn."
-      ]
-    ],
-    "vi": [
-      [
-        "1. Tổng Quan & Thông Tin Nhà Phát Triển",
-        "Smart Candy - Match 3 (Package: com.smartcandy.match3) là trò chơi xếp hình kẹo ngọt giải trí được phát triển và phát hành bởi WIN Entertainments, thuộc hệ sinh thái trò chơi DVK (https://dvk.vn). Email liên hệ nhà phát triển: kietdovanapp@gmail.com / game@dvk.vn. Ngày cập nhật hiệu lực: 20 tháng 10 năm 2026. Chúng tôi tôn trọng tuyệt đối quyền riêng tư của người dùng. Smart Candy - Match 3 được thiết kế theo tiêu chí offline-first, không yêu cầu người dùng phải đăng ký tài khoản, không thu thập họ tên, địa chỉ email, số điện thoại, danh bạ hay dữ liệu cá nhân nhạy cảm."
-      ],
-      [
-        "2. Kiến Trúc Offline & Lưu Trữ Dữ Liệu Cục Bộ",
-        "Toàn bộ tiến trình chơi game của bạn—bao gồm cấp độ đã mở khóa, số sao đạt được, điểm số kỷ lục, số lượng xu vàng, mạng sống, vật phẩm bổ trợ (booster) và cài đặt âm thanh—được lưu trữ an toàn và cục bộ trực tiếp trên bộ nhớ thiết bị của bạn. Trò chơi có thể hoạt động hoàn toàn độc lập mà không cần kết nối mạng. Do dữ liệu được lưu trên phần cứng của bạn, việc gỡ cài đặt ứng dụng hoặc xóa dữ liệu ứng dụng trong cài đặt máy Android sẽ đặt lại tiến trình chơi về trạng thái ban đầu."
-      ],
-      [
-        "3. Giao Dịch Mua Vật Phẩm (Google Play Billing)",
-        "Smart Candy - Match 3 cung cấp các gói mua vật phẩm tùy chọn trong game (như gói xu, thêm lượt đi, hồi phục mạng và các combo kẹo đặc biệt). Mọi giao dịch tài chính đều được xử lý, xác thực và bảo mật 100% bởi hệ thống Google Play thông qua Google Play Billing Library (phiên bản 8+). WIN Entertainments và DVK không thu thập, không lưu trữ và không tiếp cận thông tin thẻ tín dụng, tài khoản ngân hàng hay địa chỉ thanh toán của bạn. Các giao dịch tuân thủ nghiêm ngặt Điều khoản dịch vụ của Google Play."
-      ],
-      [
-        "4. Quảng Cáo & Mã Nhận Dạng Thiết Bị (Google AdMob & UMP)",
-        "Để duy trì trò chơi hoàn toàn miễn phí cho mọi người, Smart Candy - Match 3 hiển thị quảng cáo từ mạng lưới Google Mobile Ads (AdMob, Publisher: pub-3636940103463538). Đúng như đã khai báo minh bạch trong mục An toàn Dữ liệu trên Google Play, SDK AdMob và dịch vụ Google Play có thể thu thập và truyền: (a) Mã nhận dạng thiết bị (chẳng hạn như Google Advertising ID / AAID); (b) Các thông số đo lường hiệu suất phi cá nhân (lượt hiển thị quảng cáo, tương tác). Toàn bộ dữ liệu được mã hóa trong quá trình truyền tải qua giao thức HTTPS. Chúng tôi tích hợp khung thu thập sự đồng ý Google User Messaging Platform (UMP), cho phép người dùng tại Khu vực Kinh tế Châu Âu (EEA), Vương quốc Anh và các khu vực có quy định riêng tư có thể chủ động chấp nhận, tùy chỉnh hoặc từ chối quảng cáo cá nhân hóa. Bạn cũng có thể đặt lại hoặc xóa Mã nhận dạng quảng cáo trong mục Cài đặt Android > Google > Quảng cáo."
-      ],
-      [
-        "5. Phân Tích Hiệu Năng & Báo Lỗi Ứng Dụng",
-        "Chúng tôi sử dụng Firebase Analytics và Google Play Core để thu thập các số liệu kỹ thuật tổng hợp ẩn danh (như tỉ lệ vượt màn, độ ổn định khung hình, báo cáo sự cố ứng dụng). Dữ liệu này chỉ phục vụ duy nhất mục đích khắc phục lỗi kỹ thuật, cân bằng độ khó của các màn chơi và tối ưu hóa trải nghiệm game trên nhiều dòng máy Android khác nhau."
-      ],
-      [
-        "6. Thân Thiện Gia Đình & Bảo Vệ Trẻ Em (COPPA & GDPR-K)",
-        "Smart Candy - Match 3 là trò chơi giải đố lành mạnh, phù hợp với mọi lứa tuổi trong gia đình. Chúng tôi tuân thủ đầy đủ Đạo luật bảo vệ quyền riêng tư của trẻ em trên mạng (COPPA), GDPR-K và Chính sách Gia đình của Google Play. Chúng tôi không chủ đích thu thập dữ liệu cá nhân của trẻ em dưới 13 tuổi (hoặc dưới 16 tuổi tại châu Âu). Khi có yêu cầu theo quy định, các yêu cầu quảng cáo được gắn nhãn xử lý dành riêng cho trẻ em (TFCD/TFUA) để chỉ phục vụ các quảng cáo theo ngữ cảnh an toàn, không theo dõi hành vi."
-      ],
-      [
-        "7. Lưu Trữ Dữ Liệu & Quyền Lợi Của Người Dùng (GDPR & CCPA)",
-        "Vì chúng tôi không lưu giữ tài khoản người dùng trên máy chủ đám mây, bạn nắm quyền kiểm soát tuyệt đối dữ liệu của mình trên thiết bị. Bạn có thể xóa toàn bộ dữ liệu game bất kỳ lúc nào bằng cách vào Cài đặt Android > Ứng dụng > Smart Candy - Match 3 > Lưu trữ > Xóa dữ liệu. Theo quy định GDPR, CCPA/CPRA và các luật bảo vệ người tiêu dùng, bạn có quyền tra cứu thông tin hoặc khiếu nại về quyền riêng tư. Vui lòng gửi email đến bộ phận bảo vệ dữ liệu của chúng tôi: kietdovanapp@gmail.com hoặc game@dvk.vn."
-      ]
-    ]
-  },
-  "candy_terms": {
-    "en": [
-      [
-        "1. Acceptance of Terms",
-        "By downloading, installing, or playing Smart Candy - Match 3, you agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please discontinue playing and uninstall the application. These terms constitute a legally binding agreement between you and WIN Entertainments / DVK."
-      ],
-      [
-        "2. License Grant & Permitted Use",
-        "We grant you a personal, revocable, non-exclusive, non-transferable, limited license to download, install, and play Smart Candy - Match 3 on personal Android devices solely for non-commercial, personal entertainment purposes in compliance with these terms."
-      ],
-      [
-        "3. Virtual Items, Boosters & In-Game Currency",
-        "The game features virtual currency (coins), extra lives, and tactical booster items (color bombs, striped candies, candy hammers). Virtual items are licensed, not sold, have zero real-world monetary value, and cannot be redeemed, transferred, or exchanged for fiat currency or physical goods outside the game."
-      ],
-      [
-        "4. Fair Play & Prohibited Conduct",
-        "You agree not to: (a) Modify, reverse engineer, decompile, or extract source code from the application; (b) Use automated bots, cheats, memory injectors, or exploits to bypass game mechanics; (c) Interfere with or disrupt ad networks or security mechanisms of the application."
-      ],
-      [
-        "5. Intellectual Property Rights",
-        "All game assets—including visual candy art, characters, audio tracks, sound effects, level design algorithms, brand names, and source code—are the proprietary intellectual property of WIN Entertainments and DVK, protected by domestic and international copyright laws."
-      ],
-      [
-        "6. Disclaimer of Warranties & Limitation of Liability",
-        "Smart Candy - Match 3 is provided on an 'AS IS' and 'AS AVAILABLE' basis without warranties of any kind. To the maximum extent permitted by applicable law, WIN Entertainments and DVK disclaim all liability for any indirect, incidental, or consequential damages resulting from your use of or inability to access the game."
-      ],
-      [
-        "7. Governing Law & Contact",
-        "These terms shall be governed by and construed in accordance with applicable laws. If you have questions regarding these Terms of Use or wish to submit feedback, contact our support team at kietdovanapp@gmail.com or game@dvk.vn."
-      ]
-    ],
-    "vi": [
-      [
-        "1. Chấp Thuận Điều Khoản",
-        "Bằng việc tải xuống, cài đặt hoặc trải nghiệm trò chơi Smart Candy - Match 3, bạn xác nhận đồng ý tuân thủ toàn bộ các Điều khoản Sử dụng này cùng Chính sách Quyền riêng tư của chúng tôi. Nếu bạn không đồng ý với bất kỳ điều khoản nào, vui lòng ngừng chơi và gỡ cài đặt ứng dụng. Thỏa thuận này có giá trị pháp lý ràng buộc giữa người chơi và WIN Entertainments / DVK."
-      ],
-      [
-        "2. Cấp Phép & Quyền Sử Dụng Hợp Pháp",
-        "Chúng tôi cấp cho bạn quyền sử dụng cá nhân, có thể hủy bỏ, phi độc quyền, không thể chuyển nhượng để tải, cài đặt và chơi Smart Candy - Match 3 trên các thiết bị Android cá nhân với mục đích giải trí phi thương mại theo đúng quy định."
-      ],
-      [
-        "3. Vật Phẩm Ảo, Bảo Bối & Tiền Tệ Trong Game",
-        "Trò chơi có hệ thống tiền tệ ảo (xu vàng), mạng sống và các bảo bối trợ giúp (bom màu, kẹo sọc, búa kẹo). Các vật phẩm này được cấp quyền sử dụng trong game, không phải tài sản sở hữu thực tế, không có giá trị quy đổi ra tiền mặt hoặc tài sản ngoài đời thực và không thể chuyển nhượng cho người chơi khác."
-      ],
-      [
-        "4. Chơi Game Công Bằng & Hành Vi Bị Nghiêm Cấm",
-        "Người chơi cam kết không thực hiện các hành vi sau: (a) Chỉnh sửa, dịch ngược, phân tích mã nguồn hoặc can thiệp vào tệp nhị phân của ứng dụng; (b) Sử dụng phần mềm can thiệp (mod, hack, bot, auto) để gian lận cấp độ hoặc vật phẩm; (c) Can thiệp hoặc phá hoại hệ thống phân phối quảng cáo và bảo mật của trò chơi."
-      ],
-      [
-        "5. Quyền Sở Hữu Trí Tuệ",
-        "Toàn bộ tài nguyên trò chơi—bao gồm hình ảnh đồ họa kẹo ngọt, nhân vật, âm nhạc, hiệu ứng âm thanh, thiết kế bản đồ màn chơi, nhãn hiệu và mã nguồn lập trình—thuộc quyền sở hữu trí tuệ độc quyền của WIN Entertainments và DVK, được bảo hộ theo luật sở hữu trí tuệ Việt Nam và quốc tế."
-      ],
-      [
-        "6. Giới Hạn Trách Nhiệm & Miễn Trừ Bảo Đảm",
-        "Smart Candy - Match 3 được cung cấp theo nguyên tắc 'NGUYÊN TRẠNG' (AS IS). Trong phạm vi tối đa được pháp luật cho phép, WIN Entertainments và DVK không chịu trách nhiệm đối với bất kỳ tổn thất gián tiếp nào phát sinh từ quá trình tải, trải nghiệm hoặc gián đoạn dịch vụ trò chơi."
-      ],
-      [
-        "7. Luật Điều Chỉnh & Kênh Liên Hệ Hỗ Trợ",
-        "Các điều khoản này được diễn giải và điều chỉnh theo quy định pháp luật hiện hành. Nếu bạn có bất kỳ câu hỏi hoặc khiếu nại nào liên quan đến Điều khoản Sử dụng, vui lòng liên hệ đội ngũ hỗ trợ tại kietdovanapp@gmail.com hoặc game@dvk.vn."
-      ]
-    ]
-  },
-  "arrow_privacy": {
-    "en": [
-      [
-        "1. Who we are",
-        "Arrow Escape: Candy Puzzle (iOS/iPadOS: com.kietdovan.arrowPuzzle, Android: com.kietdovan.arrow_puzzle) is a puzzle game made by DVK. Questions about this policy: game@dvk.vn. This policy applies to the game; the dvk.vn website has its own privacy page."
-      ],
-      [
-        "2. No accounts, progress stays on your device",
-        "The game has no sign-up and no login. Your levels, stars, coins, boosters, stickers, hats, settings and the optional daily play-time limit are stored only on your device. We do not run servers that store player profiles. Deleting the app deletes this data."
-      ],
-      [
-        "3. Made for families, including children",
-        "The game is designed to be safe for children. We do not ask for or collect names, email addresses, photos, contacts or precise location. There is no chat and no free-text input. Purchases, store ratings and other grown-up actions are behind a parental gate (press and hold, then answer a multiplication question). We follow the US Children's Online Privacy Protection Act (COPPA), the Google Play Families policy and Apple's App Store guidelines."
-      ],
-      [
-        "4. Advertising (Google AdMob)",
-        "The free version shows ads from Google AdMob (publisher pub-3636940103463538). Every ad request is marked as child-directed and limited to general-audience (G) content, so ads are not personalized and are not based on your interests. The game does not ask for tracking permission on iOS and does not use the Android Advertising ID. Google may still process limited technical information (such as IP address, device type and app version) to deliver ads, limit how often an ad is shown and prevent fraud. Learn more at policies.google.com/technologies/ads and policies.google.com/privacy. The Remove Ads purchase turns off banner and between-level ads."
-      ],
-      [
-        "5. In-app purchases",
-        "Optional purchases (coins, Starter Pack, unlimited lives, Remove Ads) are processed by the Apple App Store or Google Play. We never see or store your payment details. Your store account and its parental controls (Ask to Buy, Family Link) also apply."
-      ],
-      [
-        "6. Crash reports and anonymous statistics",
-        "To fix bugs and balance difficulty, the game may use Firebase Crashlytics and Google Analytics for Firebase (Google). These collect technical, non-identifying information such as crash logs, device model, OS version and gameplay events (for example level started or completed). Advertising identifiers are not collected and the data is not used for advertising. The optional in-game feedback card (a face and a few tags, no typing) is recorded the same anonymous way."
-      ],
-      [
-        "7. Leaderboards",
-        "Leaderboards are optional and use Apple Game Center or Google Play Games. If you choose to connect, your platform nickname and scores are handled by Apple or Google under their privacy policies. We do not receive your account details."
-      ],
-      [
-        "8. Notifications",
-        "If you allow it, the game schedules local reminders on your device (for example when lives are full or a reward is ready). They are created on the device, contain no personal data, and can be turned off in the game's Settings or the system settings at any time."
-      ],
-      [
-        "9. Your choices and data deletion",
-        "Because we keep no player accounts, you can remove all game data by deleting the app. You can manage ad privacy choices from the game's Settings (Privacy, behind the parental gate). Parents can contact game@dvk.vn with any question; we will answer within 30 days."
-      ],
-      [
-        "10. Changes",
-        "If this policy changes, we will update this page and the effective date above before the change takes effect in the game."
-      ]
-    ],
-    "vi": [
-      [
-        "1. Chúng tôi là ai",
-        "Arrow Escape: Candy Puzzle (iOS/iPadOS: com.kietdovan.arrowPuzzle, Android: com.kietdovan.arrow_puzzle) là trò chơi giải đố do DVK phát triển. Mọi câu hỏi về chính sách này: game@dvk.vn. Chính sách này áp dụng cho trò chơi; website dvk.vn có trang quyền riêng tư riêng."
-      ],
-      [
-        "2. Không tài khoản, tiến độ lưu trên máy",
-        "Trò chơi không cần đăng ký hay đăng nhập. Màn chơi, sao, xu, vật phẩm, sticker, mũ, cài đặt và giới hạn thời gian chơi (nếu bật) chỉ lưu trên thiết bị của bạn. Chúng tôi không có máy chủ lưu hồ sơ người chơi. Xoá ứng dụng là xoá toàn bộ dữ liệu này."
-      ],
-      [
-        "3. Dành cho gia đình, kể cả trẻ em",
-        "Trò chơi được thiết kế an toàn cho trẻ em. Chúng tôi không hỏi hay thu thập tên, email, ảnh, danh bạ hoặc vị trí chính xác. Không có trò chuyện và không có ô nhập chữ. Mua hàng, đánh giá trên store và các thao tác dành cho người lớn đều nằm sau cổng phụ huynh (nhấn giữ rồi trả lời một phép nhân). Chúng tôi tuân thủ luật COPPA của Hoa Kỳ, chính sách Gia đình của Google Play và hướng dẫn của App Store."
-      ],
-      [
-        "4. Quảng cáo (Google AdMob)",
-        "Bản miễn phí hiển thị quảng cáo của Google AdMob (nhà xuất bản pub-3636940103463538). Mọi yêu cầu quảng cáo đều được gắn cờ dành cho trẻ em và giới hạn nội dung cho mọi lứa tuổi (G), nên quảng cáo không cá nhân hoá, không dựa trên sở thích. Trò chơi không xin quyền theo dõi trên iOS và không dùng Advertising ID của Android. Google vẫn có thể xử lý một số thông tin kỹ thuật (như địa chỉ IP, loại thiết bị, phiên bản ứng dụng) để phân phối quảng cáo, giới hạn tần suất và chống gian lận. Xem thêm tại policies.google.com/technologies/ads và policies.google.com/privacy. Gói Remove Ads tắt quảng cáo banner và quảng cáo giữa các màn."
-      ],
-      [
-        "5. Mua hàng trong ứng dụng",
-        "Các gói mua tuỳ chọn (xu, Starter Pack, mạng không giới hạn, Remove Ads) do Apple App Store hoặc Google Play xử lý. Chúng tôi không bao giờ thấy hay lưu thông tin thanh toán của bạn. Kiểm soát của phụ huynh trên tài khoản store (Ask to Buy, Family Link) cũng được áp dụng."
-      ],
-      [
-        "6. Báo lỗi và thống kê ẩn danh",
-        "Để sửa lỗi và cân bằng độ khó, trò chơi có thể dùng Firebase Crashlytics và Google Analytics for Firebase (Google). Các dịch vụ này thu thông tin kỹ thuật không định danh như nhật ký lỗi, kiểu máy, phiên bản hệ điều hành và sự kiện chơi (ví dụ bắt đầu hay hoàn thành màn). Không thu mã định danh quảng cáo và dữ liệu không dùng cho quảng cáo. Thẻ góp ý trong game (chọn mặt cười và vài nhãn, không gõ chữ) cũng được ghi nhận ẩn danh như vậy."
-      ],
-      [
-        "7. Bảng xếp hạng",
-        "Bảng xếp hạng là tuỳ chọn, dùng Apple Game Center hoặc Google Play Games. Nếu bạn chọn kết nối, biệt danh và điểm số do Apple hoặc Google xử lý theo chính sách của họ. Chúng tôi không nhận thông tin tài khoản của bạn."
-      ],
-      [
-        "8. Thông báo",
-        "Nếu bạn cho phép, trò chơi đặt lời nhắc ngay trên thiết bị (ví dụ khi mạng đã đầy hoặc có quà). Lời nhắc tạo trên máy, không chứa dữ liệu cá nhân và có thể tắt bất cứ lúc nào trong Cài đặt của game hoặc của hệ thống."
-      ],
-      [
-        "9. Lựa chọn của bạn và xoá dữ liệu",
-        "Vì không có tài khoản người chơi, bạn có thể xoá toàn bộ dữ liệu bằng cách xoá ứng dụng. Bạn quản lý lựa chọn quyền riêng tư quảng cáo trong Cài đặt của game (mục Privacy, sau cổng phụ huynh). Phụ huynh có thể liên hệ game@dvk.vn; chúng tôi trả lời trong vòng 30 ngày."
-      ],
-      [
-        "10. Thay đổi",
-        "Khi chính sách thay đổi, chúng tôi cập nhật trang này và ngày hiệu lực phía trên trước khi thay đổi có hiệu lực trong trò chơi."
-      ]
-    ]
-  },
-  "arrow_terms": {
-    "en": [
-      [
-        "1. Using the game",
-        "Arrow Escape: Candy Puzzle is provided by DVK for personal, non-commercial entertainment. By playing you agree to these terms and to the terms of the Apple App Store or Google Play from which you installed it."
-      ],
-      [
-        "2. Virtual items",
-        "Coins, lives, boosters, trophies, stickers and hats are virtual items with no real-world money value. They cannot be exchanged for cash or transferred between players. They are stored on your device and may be lost if you delete the app."
-      ],
-      [
-        "3. Purchases",
-        "Purchases are optional, made through Apple or Google and protected by a parental gate. Prices are shown in the store in your local currency. Refunds are handled by Apple or Google under their refund policies. Remove Ads is a one-time purchase that can be restored with Restore in Settings."
-      ],
-      [
-        "4. Fair play",
-        "Please do not modify, hack or reverse engineer the game or use tools to cheat. We may change level design, rewards and events to keep the game fun and balanced."
-      ],
-      [
-        "5. Content and license",
-        "The game, its characters, art, music and voice lines belong to DVK and its licensors. You receive a limited, non-transferable license to play the game on your devices."
-      ],
-      [
-        "6. Availability",
-        "We work to keep the game running smoothly but cannot guarantee it will always be free of errors. Features such as ads, leaderboards or events may change or stop over time."
-      ],
-      [
-        "7. Contact",
-        "Questions or problems: game@dvk.vn."
-      ]
-    ],
-    "vi": [
-      [
-        "1. Sử dụng trò chơi",
-        "Arrow Escape: Candy Puzzle do DVK cung cấp cho mục đích giải trí cá nhân, phi thương mại. Khi chơi, bạn đồng ý với các điều khoản này và điều khoản của Apple App Store hoặc Google Play nơi bạn cài đặt."
-      ],
-      [
-        "2. Vật phẩm ảo",
-        "Xu, mạng, vật phẩm hỗ trợ, cúp, sticker và mũ là vật phẩm ảo, không có giá trị tiền thật, không đổi ra tiền và không chuyển cho người khác. Chúng lưu trên thiết bị và có thể mất nếu bạn xoá ứng dụng."
-      ],
-      [
-        "3. Mua hàng",
-        "Mua hàng là tuỳ chọn, thực hiện qua Apple hoặc Google và được bảo vệ bằng cổng phụ huynh. Giá hiển thị trên store theo tiền tệ địa phương. Hoàn tiền do Apple hoặc Google xử lý theo chính sách của họ. Remove Ads là gói mua một lần, khôi phục được bằng nút Restore trong Cài đặt."
-      ],
-      [
-        "4. Chơi công bằng",
-        "Vui lòng không chỉnh sửa, hack, dịch ngược trò chơi hay dùng công cụ gian lận. Chúng tôi có thể điều chỉnh màn chơi, phần thưởng và sự kiện để trò chơi luôn vui và cân bằng."
-      ],
-      [
-        "5. Nội dung và bản quyền",
-        "Trò chơi, nhân vật, hình ảnh, âm nhạc và lồng tiếng thuộc về DVK và bên cấp phép. Bạn được cấp quyền giới hạn, không chuyển nhượng, để chơi trên thiết bị của mình."
-      ],
-      [
-        "6. Tính sẵn sàng",
-        "Chúng tôi cố gắng để trò chơi chạy ổn định nhưng không thể bảo đảm luôn không có lỗi. Các tính năng như quảng cáo, bảng xếp hạng hay sự kiện có thể thay đổi hoặc ngừng theo thời gian."
-      ],
-      [
-        "7. Liên hệ",
-        "Câu hỏi hoặc sự cố: game@dvk.vn."
-      ]
-    ]
-  }
+ "privacy": {
+  "vi": [
+   [
+    "Quyền riêng tư của bạn",
+    "Puzzle Spark được phát triển dưới tên DVKapp. Liên hệ: game@dvk.vn. Cập nhật ngày 16/10/2026. Game không yêu cầu tài khoản, tên, số điện thoại hoặc vị trí chính xác."
+   ],
+   [
+    "Tiến độ lưu trên thiết bị",
+    "Màn đã hoàn thành, số sao, nước đi, thử thách hằng ngày và tùy chọn được lưu trong bộ nhớ ứng dụng trên thiết bị. Game không có bảng xếp hạng trực tuyến hoặc máy chủ lưu tiến độ. Cơ chế sao lưu hệ điều hành, nếu bạn bật, tuân theo cài đặt của thiết bị. Gỡ ứng dụng hoặc đặt lại dữ liệu có thể làm mất tiến độ."
+   ],
+   [
+    "Thông báo nhắc quay lại",
+    "Chỉ bật sau khi bạn chọn Nhắc quay lại chơi và cho phép thông báo. Lần chơi cuối được lưu trên thiết bị để đặt tối đa hai thông báo, sau khoảng 12 giờ và 24 giờ. Chơi lại sẽ thay lịch cũ; tắt nhắc hẹn sẽ hủy lịch. Hệ điều hành và chế độ tiết kiệm pin có thể làm thông báo đến muộn. Tính năng này dùng thông báo cục bộ, không gửi thời gian chơi lên máy chủ để nhắc."
+   ],
+   [
+    "Firebase và thống kê tùy chọn",
+    "Firebase kết nối game với dự án Puzzle Spark. Google Analytics mặc định tắt; chỉ bật khi bạn chọn Chia sẻ thống kê sử dụng. Khi bật, Google có thể nhận mã định danh phiên cài đặt, thông tin thiết bị và sự kiện bắt đầu/hoàn thành màn, số lượt đi và gợi ý để phân tích sử dụng. Game không gửi email, tên hoặc nội dung cá nhân và không dùng Analytics để cá nhân hóa quảng cáo. Tắt thống kê sẽ ngừng thu thập mới và đặt lại dữ liệu Analytics cục bộ; không tự xóa dữ liệu đã gửi trước đó. Chính sách của Google: policies.google.com/privacy."
+   ],
+   [
+    "Quảng cáo trong bản thử nghiệm",
+    "Puzzle Spark dành cho người từ 13 tuổi. Game dùng Google AdMob cho banner và video tự nguyện để nhận 3 gợi ý. Quảng cáo không bắt buộc để chơi. SDK có thể xử lý địa chỉ IP, mã định danh thiết bị, chẩn đoán và tương tác quảng cáo. Game dùng quảng cáo không cá nhân hóa và áp dụng bảo vệ dành cho thanh thiếu niên. Lựa chọn quyền riêng tư được kiểm tra trước khi yêu cầu quảng cáo; bạn có thể thay đổi trong Cài đặt khi tùy chọn này khả dụng. Bản phát triển chỉ dùng quảng cáo test."
+   ],
+   [
+    "Không yêu cầu quyền theo dõi",
+    "Phiên bản này không yêu cầu quyền App Tracking Transparency và không triển khai tính năng theo dõi người dùng giữa các ứng dụng. Trước khi bật quảng cáo thương mại, thông báo quyền riêng tư và lựa chọn đồng ý cần được cập nhật theo cấu hình SDK và khu vực phát hành thực tế."
+   ],
+   [
+    "Kiểm soát dữ liệu",
+    "Vào Cài đặt → Đặt lại dữ liệu để xóa toàn bộ tiến độ và tùy chọn lưu cục bộ của game. Không cần liên hệ để xóa tài khoản vì game không có tài khoản. Nếu gửi email hỗ trợ, nội dung và địa chỉ email bạn cung cấp được dùng để xử lý yêu cầu của bạn."
+   ],
+   [
+    "Dịch vụ bên thứ ba và thay đổi",
+    "Thông tin về cách Google sử dụng dữ liệu: policies.google.com/privacy và policies.google.com/technologies/ads. Nếu game thay đổi cách xử lý dữ liệu, chính sách sẽ được cập nhật trong ứng dụng trước khi áp dụng tính năng mới."
+   ]
+  ],
+  "en": [
+   [
+    "Your privacy",
+    "Puzzle Spark is developed as DVKapp. Contact: game@dvk.vn. Updated 16 October 2026. No account, name, phone number or precise location is required."
+   ],
+   [
+    "Progress on your device",
+    "Completed levels, stars, moves, daily challenges and settings are stored on your device. There is no online leaderboard or server progress backup. Any operating-system backup follows your device settings. Uninstalling or resetting data may erase progress."
+   ],
+   [
+    "Return reminders",
+    "Reminders only run after you enable Play reminders and grant notification permission. The last play time is stored on the device to schedule at most two local notifications, about 12 and 24 hours later. Playing again replaces the schedule; disabling reminders cancels it. The operating system or power saving may delay delivery. Last play times are not sent to a server for reminders."
+   ],
+   [
+    "Firebase and optional analytics",
+    "Firebase connects the game to the Puzzle Spark project. Google Analytics is off by default and only enabled if you choose Share usage analytics. When enabled, Google may receive an installation identifier, device details and level start/completion events, move and hint counts. No email, name or personal content is sent by the game; Analytics is not used for ad personalization. Turning it off stops new collection and resets local Analytics data, but does not automatically delete data already sent. Google policy: policies.google.com/privacy."
+   ],
+   [
+    "Ads in the test build",
+    "Puzzle Spark is intended for ages 13 and up. Google AdMob provides banners and optional videos for 3 hints. Ads are not required to play. The SDK may process IP addresses, device identifiers, diagnostics and ad interactions. The game requests non-personalized ads and applies teen protections. Privacy choices are checked before ads are requested; change them in Settings when available. Development builds use test ads only."
+   ],
+   [
+    "No tracking permission requested",
+    "This version does not request App Tracking Transparency permission or implement tracking across apps. Before commercial ads are enabled, privacy notices and consent choices must be updated for the actual SDK configuration and release regions."
+   ],
+   [
+    "Control your data",
+    "Use Settings → Reset data to remove all local progress and preferences. There is no account to delete. If you email support, your email address and message are used to respond to your request."
+   ],
+   [
+    "Third-party services and updates",
+    "How Google uses data: policies.google.com/privacy and policies.google.com/technologies/ads. If data handling changes, the in-app policy will be updated before the new feature is applied."
+   ]
+  ]
+ },
+ "terms": {
+  "vi": [
+   [
+    "Điều khoản sử dụng",
+    "Puzzle Spark là trò chơi giải đố giải trí của DVKapp. Khi sử dụng trò chơi, bạn đồng ý sử dụng hợp pháp và tôn trọng quyền của người khác. Liên hệ mọi thắc mắc: game@dvk.vn. Cập nhật 16/10/2026."
+   ],
+   [
+    "Cách sử dụng và nội dung",
+    "Bạn được chơi game trên thiết bị của mình cho mục đích cá nhân. Không được phân phối phần mềm độc hại, giả mạo nhà phát triển hoặc khai thác game để thực hiện hoạt động trái pháp luật. Ý tưởng giải đố Lights Out là cơ chế trò chơi phổ biến; mã nguồn và phần thể hiện riêng của Puzzle Spark thuộc các chủ thể có quyền liên quan."
+   ],
+   [
+    "Tiến độ, sao và phần thưởng",
+    "Sao, thành tích và chuỗi ngày là số liệu trong trò chơi, không phải tiền, tài sản, phần thưởng hiện vật hay công cụ quy đổi. Game không có cá cược, giao dịch tiền thật hoặc lời hứa về thu nhập. Thử thách mỗi ngày dựa trên ngày của thiết bị và không có bảng xếp hạng trực tuyến."
+   ],
+   [
+    "Chi phí và quảng cáo",
+    "Phiên bản hiện tại miễn phí, không có đăng ký hoặc mua hàng trong ứng dụng. Bản phát triển có thể hiển thị banner và quảng cáo nhận thưởng thử nghiệm; chơi game không yêu cầu nhấn quảng cáo. Dữ liệu di động có thể bị nhà mạng tính phí."
+   ],
+   [
+    "Lưu trữ và tính khả dụng",
+    "Tiến độ được lưu cục bộ. Hãy cân nhắc trước khi xóa dữ liệu hoặc gỡ app vì không có máy chủ khôi phục tiến độ. Chúng tôi cố gắng sửa lỗi và duy trì khả năng tương thích, nhưng không bảo đảm game không bao giờ gián đoạn. Điều khoản không loại trừ quyền bắt buộc của người tiêu dùng theo pháp luật áp dụng."
+   ],
+   [
+    "Hỗ trợ và cập nhật",
+    "Gửi lỗi hoặc góp ý tới game@dvk.vn. Không gửi mật khẩu hoặc thông tin nhạy cảm. Các tính năng, chính sách dữ liệu hoặc điều khoản có thể được cập nhật cùng phiên bản game; thay đổi quan trọng sẽ được thông báo phù hợp."
+   ]
+  ],
+  "en": [
+   [
+    "Terms of use",
+    "Puzzle Spark is a puzzle game by DVKapp. By using it, you agree to use it lawfully and respect others. Contact: game@dvk.vn. Updated 16 October 2026."
+   ],
+   [
+    "Use and content",
+    "The game is for personal use on your own device. Do not distribute malware, impersonate the developer or use the game for unlawful activity. Lights Out is a well-known puzzle concept; Puzzle Spark code and original presentation belong to their respective rights holders."
+   ],
+   [
+    "Progress, stars and rewards",
+    "Stars, achievements and streaks are game records, not money, assets, physical prizes or redeemable rewards. There is no betting, real-money trading or income promise. Daily challenges use the device date and have no online leaderboard."
+   ],
+   [
+    "Cost and ads",
+    "This version is free, without subscriptions or in-app purchases. Development builds may show test banner and rewarded ads; playing does not require clicking ads. Mobile data charges may apply."
+   ],
+   [
+    "Storage and availability",
+    "Progress is saved locally. Consider this before deleting data or uninstalling, as there is no server recovery. We aim to fix issues and maintain compatibility but cannot guarantee uninterrupted service. These terms do not remove mandatory consumer rights under applicable law."
+   ],
+   [
+    "Support and updates",
+    "Send bug reports or feedback to game@dvk.vn. Do not send passwords or sensitive information. Features, data policies and terms may be updated with game releases; important changes will be communicated appropriately."
+   ]
+  ]
+ },
+ "help": {
+  "vi": [
+   [
+    "01 • Mục tiêu",
+    "Tắt hết các ô sáng. Khi chạm một ô, ô đó và các ô chung cạnh phía trên, dưới, trái, phải sẽ đổi trạng thái. Các ô chéo không bị ảnh hưởng."
+   ],
+   [
+    "02 • Quan sát trước khi chạm",
+    "Một ô chạm hai lần sẽ quay về trạng thái cũ. Thứ tự chạm không làm thay đổi kết quả cuối nếu các ô được chạm có cùng số lần chẵn/lẻ. Mỗi màn đều được kiểm tra có lời giải."
+   ],
+   [
+    "03 • Sao và gợi ý",
+    "Mỗi màn có mục tiêu là số nước tối thiểu. Điểm đánh giá = tổng số lần chạm + số lần hoàn tác + 2 × số gợi ý. Đạt mục tiêu: 3 sao; vượt tối đa 3 điểm: 2 sao; còn lại: 1 sao. Mỗi ngày có 2 lượt gợi ý miễn phí không cộng dồn; hoàn tất quảng cáo tự nguyện nhận 3 lượt giữ lại. Chỉ cộng thưởng khi SDK xác nhận, không bảo đảm thời lượng quảng cáo cố định. Hoàn thành thử thách mỗi ngày nhận thêm 1 lượt ở ngày 1–2 của chuỗi, 2 lượt ở ngày 3–6, 3 lượt từ ngày 7. Mỗi ngày chỉ nhận thưởng một lần; đứt chuỗi bắt đầu lại từ ngày 1, lượt đã nhận vẫn được giữ. Chia sẻ ảnh thành tích qua bảng chia sẻ hệ thống, không tự đăng bài. Không bị giới hạn thời gian. Chơi lại để cải thiện thành tích, giữ kết quả tốt nhất."
+   ],
+   [
+    "04 • Lưu và tiếp tục",
+    "Game tự lưu nước đi khi bạn chạm, dùng gợi ý hoặc rời màn. Chọn Tiếp tục để trở lại màn đang chơi. Bạn có thể mở danh sách màn từ biểu tượng lưới trong màn chơi. Màn mới mở sau khi hoàn thành màn trước; tất cả các màn đã mở đều chơi lại được."
+   ],
+   [
+    "05 • Mỗi ngày và chơi tự do",
+    "Mỗi ngày có một bảng 4 × 4 theo ngày trên thiết bị. Hoàn thành để ghi nhận ngày đó và chuỗi ngày liên tiếp. Chơi tự do tạo một bảng mới ở kích thước bạn chọn, không ảnh hưởng tiến độ hành trình. Tiến độ chỉ lưu trên máy này."
+   ]
+  ],
+  "en": [
+   [
+    "01 • The goal",
+    "Turn off every light. Tapping a cell toggles that cell and its neighbors above, below, left and right. Diagonal neighbors do not change."
+   ],
+   [
+    "02 • Look before you tap",
+    "Tapping the same cell twice restores its previous state. The final board depends on which cells are tapped an odd number of times, not the order. Every level has a verified solution."
+   ],
+   [
+    "03 • Stars and hints",
+    "The target is the minimum number of moves. Rating score = taps + undos + 2 × hints. Meet the target for 3 stars; up to 3 extra points earns 2 stars; otherwise 1. You get 2 free hints per day without rollover. Completing an optional ad grants 3 saved hints only when the SDK confirms the reward; ad duration varies. Completing the daily puzzle awards 1 hint on streak days 1–2, 2 on days 3–6 and 3 from day 7. Rewards are once per date; a broken streak restarts at day 1, but earned credits stay. Achievement sharing uses the system share sheet and never posts automatically. There is no time limit. Replay to improve your best result."
+   ],
+   [
+    "04 • Save and continue",
+    "Moves are saved when you tap, use hints or leave a puzzle. Choose Continue to resume. Open the level list using the grid button. Complete a level to unlock the next; unlocked levels can be replayed."
+   ],
+   [
+    "05 • Daily and free play",
+    "A daily 4 × 4 puzzle follows the device date. Complete it to record the day and keep your streak. Free play creates a new board at your chosen size and does not affect journey progress. Progress is saved on this device only."
+   ]
+  ]
+ },
+ "block_privacy": {
+  "vi": [
+   [
+    "Quyền riêng tư của bạn",
+    "Block Puzzle 8x8: Neon Master được phát triển bởi DVKapp. Liên hệ: game@dvk.vn. Cập nhật ngày 18/10/2026. Trò chơi không yêu cầu đăng ký tài khoản, không thu thập họ tên, số điện thoại hoặc vị trí địa lý của bạn."
+   ],
+   [
+    "Tiến độ lưu an toàn trên thiết bị",
+    "Điểm kỷ lục (High Score), sao Cốt truyện (Story Saga), cấp độ danh vọng, chuỗi điểm danh 21 ngày, số xu và vật phẩm bảo bối được lưu trữ an toàn trong bộ nhớ cục bộ trên thiết bị của bạn. Thao tác gỡ cài đặt hoặc xóa bộ nhớ ứng dụng có thể làm mới tiến độ chơi."
+   ],
+   [
+    "Giao dịch mua hàng trong ứng dụng (IAP)",
+    "Các gói Mua xu và Gói Gỡ Quảng Cáo vĩnh viễn (Remove Ads) được xử lý trực tiếp và bảo mật tuyệt đối qua hạ tầng thanh toán của Apple App Store và Google Play. DVKapp không bao giờ thu thập, truy cập hoặc lưu trữ thông tin thẻ tín dụng hay tài khoản ngân hàng của người dùng."
+   ],
+   [
+    "Quảng cáo Google AdMob thân thiện",
+    "Trò chơi tích hợp Google Mobile Ads SDK để hiển thị biểu ngữ (Banner) cố định dưới logo và video quảng cáo tự nguyện nhận thưởng (Rewarded Video). Banner được bố trí theo tiêu chuẩn của Google, tuyệt đối không che khuất màn chơi hay gây bấm nhầm. Video thưởng là hoàn toàn tự nguyện."
+   ],
+   [
+    "Firebase Analytics & Crashlytics",
+    "Game sử dụng Firebase để theo dõi chẩn đoán lỗi giật lag, crash ứng dụng và thống kê tổng hợp tần suất vượt ải nhằm nâng cao chất lượng trải nghiệm. Dữ liệu hoàn toàn ẩn danh và tuân thủ chính sách bảo mật toàn cầu của Google: policies.google.com/privacy."
+   ],
+   [
+    "Quyền kiểm soát dữ liệu của người chơi",
+    "Bạn có toàn quyền kiểm soát dữ liệu: Trong mục Cài đặt của game, bạn có thể xóa hoặc đặt lại toàn bộ tiến độ chơi cục bộ bất cứ khi nào. Bạn cũng có thể liên hệ game@dvk.vn để được giải đáp mọi thắc mắc về quyền riêng tư."
+   ]
+  ],
+  "en": [
+   [
+    "Your Privacy",
+    "Block Puzzle 8x8: Neon Master is developed under DVKapp. Contact: game@dvk.vn. Updated 18 October 2026. No account registration, real name, phone number, or precise location is collected or required."
+   ],
+   [
+    "On-Device Local Progress & Storage",
+    "Your high scores, Story Saga stars, player levels, 21-day quest streak, coins, and booster inventory are stored locally and securely on your device. Uninstalling the app or resetting app storage will clear your local progress."
+   ],
+   [
+    "In-App Purchases (IAP)",
+    "Optional coin bundles and permanent No-Ads packages are securely authenticated and processed exclusively by Apple App Store and Google Play. DVKapp never accesses, processes, or stores payment card credentials."
+   ],
+   [
+    "Kid-Friendly Google AdMob Integration",
+    "The game utilizes Google Mobile Ads SDK for standard test/production banners placed safely under the logo to avoid accidental taps, as well as voluntary rewarded video ads. Players are never forced to watch ads during active puzzle gameplay."
+   ],
+   [
+    "Firebase Analytics & Diagnostics",
+    "Anonymous crash diagnostics and aggregated gameplay progression metrics are monitored via Firebase to ensure frame rate stability and eliminate bugs. All data handling complies with Google policies: policies.google.com/privacy."
+   ],
+   [
+    "Your Data Control Rights",
+    "You maintain complete control over your data. You may reset local progress directly in the Settings menu at any time. For support or privacy questions, contact game@dvk.vn."
+   ]
+  ]
+ },
+ "block_terms": {
+  "vi": [
+   [
+    "Điều khoản sử dụng",
+    "Block Puzzle 8x8: Neon Master là trò chơi giải đố rèn luyện trí tuệ do DVKapp phát triển. Bằng việc tải về hoặc trải nghiệm trò chơi, bạn đồng ý tuân thủ các điều khoản sử dụng này. Mọi thắc mắc xin liên hệ game@dvk.vn."
+   ],
+   [
+    "Cách sử dụng hợp pháp",
+    "Trò chơi được cấp quyền sử dụng phi thương mại cho mục đích giải trí cá nhân. Người chơi cam kết không can thiệp, dịch ngược mã nguồn (reverse engineer) hoặc sử dụng các công cụ gian lận làm sai lệch cơ chế tính điểm."
+   ],
+   [
+    "Xu ảo, Vật phẩm & Điểm số trong game",
+    "Số xu vàng, bảo bối (Hoàn tác, Đổi chiều, Búa phá hủy) và cúp thành tích là các đơn vị dữ liệu ảo phục vụ trải nghiệm trò chơi, không có giá trị quy đổi thành tiền mặt, tài sản hay hiện vật thực tế."
+   ],
+   [
+    "Gỡ quảng cáo & Mua hàng kỹ thuật số",
+    "Gói Gỡ Quảng Cáo có giá trị vĩnh viễn trên tài khoản Apple ID hoặc Google Play của bạn. Khi đổi thiết bị, bạn có thể sử dụng nút 'Khôi Phục Mua Hàng' (Restore Purchases) trong Cài đặt để lấy lại quyền lợi mà không mất thêm phí."
+   ],
+   [
+    "Hỗ trợ người dùng & Cập nhật",
+    "Nhà phát triển liên tục kiểm thử, tối ưu hóa giao diện và cập nhật các màn chơi Cốt truyện mới. Mọi thông tin phản hồi và hỗ trợ vui lòng gửi về hòm thư game@dvk.vn."
+   ]
+  ],
+  "en": [
+   [
+    "Terms of Use",
+    "Block Puzzle 8x8: Neon Master is an intellectual puzzle game created by DVKapp. By downloading or playing the game, you agree to these Terms of Use. For inquiries, email game@dvk.vn."
+   ],
+   [
+    "Lawful & Personal Use",
+    "You are granted a personal, non-exclusive license to enjoy the game on your device. You agree not to decompile, reverse-engineer, or use automated exploits to compromise scoring mechanics."
+   ],
+   [
+    "Virtual Coins, Boosters & Game Records",
+    "Coins, power-up boosters (Undo, Rotate, Hammer 3x3), trophies, and stars are virtual gameplay assets with no real-world monetary value and cannot be redeemed for fiat currency."
+   ],
+   [
+    "Remove Ads & Digital Purchases",
+    "The Remove Ads package provides permanent ad removal associated with your Apple ID or Google Play account. You can tap 'Restore Purchases' in Settings at any time to reinstate your purchase without extra cost."
+   ],
+   [
+    "Updates & Developer Support",
+    "We continuously refine puzzle mechanics, optimize tactile feedback, and release new Story Saga chapters. Send bug reports and suggestions to game@dvk.vn."
+   ]
+  ]
+ },
+ "block_help": {
+  "vi": [
+   [
+    "01 • Luật chơi 8x8 kinh điển",
+    "Kéo và thả các khối hình neon đầy màu sắc từ khay vào bảng lưới 8 × 8. Hãy lấp đầy một hàng ngang hoặc cột dọc để phá hủy các ô và giải phóng không gian cho các khối tiếp theo."
+   ],
+   [
+    "02 • Chuỗi Combo liên hoàn & Bão điểm",
+    "Phá hủy nhiều hàng hoặc cột trong cùng một nước đi, hoặc phá hủy liên tục ở các nước đi kế tiếp để kích hoạt Combo x2, x3... lên đến x10+ với hiệu ứng âm thanh cổ vũ tiếng Anh cực kỳ sôi động."
+   ],
+   [
+    "03 • 8 Chế độ game phong phú",
+    "Thỏa sức khám phá: Chơi Cổ Điển (vô tận không giới hạn giờ), Cốt Truyện Saga (20 ải thử thách mở khóa chủ đề Galaxy), Sự Kiện Trực Tuyến (đua cúp giới hạn giờ), Thử Thách Tháng (chinh phục 31 ngày), Nhiệm Vụ Hàng Ngày (chuỗi 21 ngày nhận thưởng), Bảng Xếp Hạng toàn cầu, Cửa Hàng Đổi Giao Diện và Hướng Dẫn Chi Tiết."
+   ],
+   [
+    "04 • Bộ 3 Bảo Bối Cứu Nguy & Xem Trước",
+    "Sử dụng bảo bối chiến thuật khi gặp thế cờ hiểm: Hoàn Tác (Undo nước đi vừa rồi), Đổi Chiều (Rotate xoay khối hình), Búa Phá Hủy (Hammer nổ tung vùng 3 × 3) và mở khóa Xem Trước 3 Khối Kế Tiếp để tính toán nước đi hoàn hảo."
+   ],
+   [
+    "05 • Trợ Năng Mù Màu ADA & Chơi Hoàn Toàn Offline",
+    "Hỗ trợ chế độ mù màu ADA với ký hiệu hình học trực quan, âm thanh xúc giác mượt mà và khả năng chơi offline 100% không cần kết nối mạng Wi-Fi hay 4G/5G."
+   ]
+  ],
+  "en": [
+   [
+    "01 • Classic 8x8 Grid Mechanics",
+    "Drag and drop vibrant candy-neon shapes from the tray onto the 8 × 8 grid. Complete full horizontal rows or vertical columns to blast blocks away and create room for upcoming pieces."
+   ],
+   [
+    "02 • Blazing Combo Streaks & Point Multipliers",
+    "Clear multiple rows or columns simultaneously or chain clears on consecutive moves to trigger high-octane multipliers (Combo x2, x3... up to x10+) paired with electrifying voice cheering."
+   ],
+   [
+    "03 • 8 Dynamic Game Modes",
+    "Explore 8 exciting modes: Classic Endless (pure relaxing puzzle), Story Saga (20 adventurous stages unlocking Galaxy Theme), Online Live Events (limited-time trophy tournament), Monthly Challenge (31-day trophy cup), Daily Quests & 21-Day Streak, Global Leaderboard, Visual Themes Shop, and Interactive Tutorial."
+   ],
+   [
+    "04 • Tactical Boosters & Next Queue Preview",
+    "Master tricky situations with power-up tools: Undo (revert your last placement), Rotate (change orientation of tray blocks), Hammer 3x3 (blast clear a 3 × 3 room), and Next Queue Preview to foresee 3 upcoming shapes."
+   ],
+   [
+    "05 • ADA Colorblind Accessibility & Pure Offline Play",
+    "Full ADA colorblind mode with geometric shape icons, tactile haptic feedback, and complete 100% offline play without requiring Wi-Fi or cellular data."
+   ]
+  ]
+ },
+ "candy_privacy": {
+  "en": [
+   [
+    "1. Overview & Developer Information",
+    "Smart Candy - Match 3 (Package: com.smartcandy.match3) is a casual puzzle game developed and published by WIN Entertainments and distributed under DVK (https://dvk.vn). Developer Contact: kietdovanapp@gmail.com / game@dvk.vn. Effective Date: October 20, 2026. We are deeply committed to safeguarding your privacy. Smart Candy - Match 3 is designed as an offline-first casual game. No account registration is required to enjoy the full game experience, and we do not collect personal identifiers such as your real name, email address, physical address, contact list, or biometric data."
+   ],
+   [
+    "2. Offline-First Architecture & On-Device Storage",
+    "Your gameplay data—including completed levels, star achievements, high scores, coin balances, lives, booster items, and audio preferences—is stored locally and securely on your device. Zero cloud registration or external server synchronization is needed. Because your save data is hosted entirely on your physical hardware, uninstalling the application or clearing application storage in Android system settings will permanently reset your local gameplay progress."
+   ],
+   [
+    "3. Google Play In-App Purchases (IAP)",
+    "Smart Candy - Match 3 offers optional in-app purchases for coin packs, extra moves, lives, and tactical booster items. All monetary transactions are processed, authorized, and secured exclusively by the Google Play Store via Google Play Billing Library (Version 8+). WIN Entertainments and DVK never access, capture, or store your credit card, debit card, bank credentials, or physical billing details. All financial purchases are governed strictly by the Google Play Terms of Service."
+   ],
+   [
+    "4. Advertising & Device Identifiers (Google AdMob & UMP)",
+    "To support ongoing maintenance and keep Smart Candy - Match 3 free to play, the game integrates Google Mobile Ads (AdMob, Publisher: pub-3636940103463538). In full accordance with our Google Play Data Safety declaration, Google Mobile Ads SDK and Google Play Services may collect and transmit: (a) Device or other IDs (such as Google Advertising ID / AAID); (b) Non-identifiable diagnostic metrics (ad impressions, performance, interaction events). All data is encrypted in transit using industry-standard HTTPS protocols. We integrate the Google User Messaging Platform (UMP) consent framework. Players in the European Economic Area (EEA), United Kingdom, and jurisdictions with privacy statutes can review, customize, or revoke consent for personalized advertising cookies and device identifiers at any time. You can also reset or delete your Google Advertising ID via Android Settings > Google > Ads."
+   ],
+   [
+    "5. Performance Analytics & Diagnostics",
+    "We utilize Firebase Analytics and Google Play Core telemetry to collect anonymous, aggregated technical metrics (such as framerate consistency, level pass rates, and crash stack traces). This data is used solely to resolve stability bugs, optimize game performance across various Android hardware configurations, and balance game stage difficulties."
+   ],
+   [
+    "6. Family Friendly & Children's Privacy (COPPA & GDPR-K)",
+    "Smart Candy - Match 3 is crafted as an accessible, family-friendly puzzle experience suitable for audiences of all ages. We comply with the Children's Online Privacy Protection Act (COPPA), GDPR-K, and Google Play Families Policy requirements. We do not knowingly collect personal information from children under the age of 13 (or under 16 in applicable European territories). Where required by law or platform policies, advertising requests are flagged for child-directed treatment (TFCD/TFUA), serving strictly contextual, non-targeted family-appropriate advertisements."
+   ],
+   [
+    "7. Data Retention & Your Privacy Rights (GDPR & CCPA)",
+    "Because we maintain no remote user databases or account systems, you retain autonomous control over your game data directly on your device. You may erase all locally stored data at any time via Android Settings > Apps > Smart Candy - Match 3 > Storage > Clear Data. Under GDPR, CCPA/CPRA, and relevant privacy legislation, you have the right to inquire about data processing practices or withdraw ad consent. For inquiries, contact our Data Protection desk at kietdovanapp@gmail.com or game@dvk.vn."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Tổng Quan & Thông Tin Nhà Phát Triển",
+    "Smart Candy - Match 3 (Package: com.smartcandy.match3) là trò chơi xếp hình kẹo ngọt giải trí được phát triển và phát hành bởi WIN Entertainments, thuộc hệ sinh thái trò chơi DVK (https://dvk.vn). Email liên hệ nhà phát triển: kietdovanapp@gmail.com / game@dvk.vn. Ngày cập nhật hiệu lực: 20 tháng 10 năm 2026. Chúng tôi tôn trọng tuyệt đối quyền riêng tư của người dùng. Smart Candy - Match 3 được thiết kế theo tiêu chí offline-first, không yêu cầu người dùng phải đăng ký tài khoản, không thu thập họ tên, địa chỉ email, số điện thoại, danh bạ hay dữ liệu cá nhân nhạy cảm."
+   ],
+   [
+    "2. Kiến Trúc Offline & Lưu Trữ Dữ Liệu Cục Bộ",
+    "Toàn bộ tiến trình chơi game của bạn—bao gồm cấp độ đã mở khóa, số sao đạt được, điểm số kỷ lục, số lượng xu vàng, mạng sống, vật phẩm bổ trợ (booster) và cài đặt âm thanh—được lưu trữ an toàn và cục bộ trực tiếp trên bộ nhớ thiết bị của bạn. Trò chơi có thể hoạt động hoàn toàn độc lập mà không cần kết nối mạng. Do dữ liệu được lưu trên phần cứng của bạn, việc gỡ cài đặt ứng dụng hoặc xóa dữ liệu ứng dụng trong cài đặt máy Android sẽ đặt lại tiến trình chơi về trạng thái ban đầu."
+   ],
+   [
+    "3. Giao Dịch Mua Vật Phẩm (Google Play Billing)",
+    "Smart Candy - Match 3 cung cấp các gói mua vật phẩm tùy chọn trong game (như gói xu, thêm lượt đi, hồi phục mạng và các combo kẹo đặc biệt). Mọi giao dịch tài chính đều được xử lý, xác thực và bảo mật 100% bởi hệ thống Google Play thông qua Google Play Billing Library (phiên bản 8+). WIN Entertainments và DVK không thu thập, không lưu trữ và không tiếp cận thông tin thẻ tín dụng, tài khoản ngân hàng hay địa chỉ thanh toán của bạn. Các giao dịch tuân thủ nghiêm ngặt Điều khoản dịch vụ của Google Play."
+   ],
+   [
+    "4. Quảng Cáo & Mã Nhận Dạng Thiết Bị (Google AdMob & UMP)",
+    "Để duy trì trò chơi hoàn toàn miễn phí cho mọi người, Smart Candy - Match 3 hiển thị quảng cáo từ mạng lưới Google Mobile Ads (AdMob, Publisher: pub-3636940103463538). Đúng như đã khai báo minh bạch trong mục An toàn Dữ liệu trên Google Play, SDK AdMob và dịch vụ Google Play có thể thu thập và truyền: (a) Mã nhận dạng thiết bị (chẳng hạn như Google Advertising ID / AAID); (b) Các thông số đo lường hiệu suất phi cá nhân (lượt hiển thị quảng cáo, tương tác). Toàn bộ dữ liệu được mã hóa trong quá trình truyền tải qua giao thức HTTPS. Chúng tôi tích hợp khung thu thập sự đồng ý Google User Messaging Platform (UMP), cho phép người dùng tại Khu vực Kinh tế Châu Âu (EEA), Vương quốc Anh và các khu vực có quy định riêng tư có thể chủ động chấp nhận, tùy chỉnh hoặc từ chối quảng cáo cá nhân hóa. Bạn cũng có thể đặt lại hoặc xóa Mã nhận dạng quảng cáo trong mục Cài đặt Android > Google > Quảng cáo."
+   ],
+   [
+    "5. Phân Tích Hiệu Năng & Báo Lỗi Ứng Dụng",
+    "Chúng tôi sử dụng Firebase Analytics và Google Play Core để thu thập các số liệu kỹ thuật tổng hợp ẩn danh (như tỉ lệ vượt màn, độ ổn định khung hình, báo cáo sự cố ứng dụng). Dữ liệu này chỉ phục vụ duy nhất mục đích khắc phục lỗi kỹ thuật, cân bằng độ khó của các màn chơi và tối ưu hóa trải nghiệm game trên nhiều dòng máy Android khác nhau."
+   ],
+   [
+    "6. Thân Thiện Gia Đình & Bảo Vệ Trẻ Em (COPPA & GDPR-K)",
+    "Smart Candy - Match 3 là trò chơi giải đố lành mạnh, phù hợp với mọi lứa tuổi trong gia đình. Chúng tôi tuân thủ đầy đủ Đạo luật bảo vệ quyền riêng tư của trẻ em trên mạng (COPPA), GDPR-K và Chính sách Gia đình của Google Play. Chúng tôi không chủ đích thu thập dữ liệu cá nhân của trẻ em dưới 13 tuổi (hoặc dưới 16 tuổi tại châu Âu). Khi có yêu cầu theo quy định, các yêu cầu quảng cáo được gắn nhãn xử lý dành riêng cho trẻ em (TFCD/TFUA) để chỉ phục vụ các quảng cáo theo ngữ cảnh an toàn, không theo dõi hành vi."
+   ],
+   [
+    "7. Lưu Trữ Dữ Liệu & Quyền Lợi Của Người Dùng (GDPR & CCPA)",
+    "Vì chúng tôi không lưu giữ tài khoản người dùng trên máy chủ đám mây, bạn nắm quyền kiểm soát tuyệt đối dữ liệu của mình trên thiết bị. Bạn có thể xóa toàn bộ dữ liệu game bất kỳ lúc nào bằng cách vào Cài đặt Android > Ứng dụng > Smart Candy - Match 3 > Lưu trữ > Xóa dữ liệu. Theo quy định GDPR, CCPA/CPRA và các luật bảo vệ người tiêu dùng, bạn có quyền tra cứu thông tin hoặc khiếu nại về quyền riêng tư. Vui lòng gửi email đến bộ phận bảo vệ dữ liệu của chúng tôi: kietdovanapp@gmail.com hoặc game@dvk.vn."
+   ]
+  ]
+ },
+ "candy_terms": {
+  "en": [
+   [
+    "1. Acceptance of Terms",
+    "By downloading, installing, or playing Smart Candy - Match 3, you agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please discontinue playing and uninstall the application. These terms constitute a legally binding agreement between you and WIN Entertainments / DVK."
+   ],
+   [
+    "2. License Grant & Permitted Use",
+    "We grant you a personal, revocable, non-exclusive, non-transferable, limited license to download, install, and play Smart Candy - Match 3 on personal Android devices solely for non-commercial, personal entertainment purposes in compliance with these terms."
+   ],
+   [
+    "3. Virtual Items, Boosters & In-Game Currency",
+    "The game features virtual currency (coins), extra lives, and tactical booster items (color bombs, striped candies, candy hammers). Virtual items are licensed, not sold, have zero real-world monetary value, and cannot be redeemed, transferred, or exchanged for fiat currency or physical goods outside the game."
+   ],
+   [
+    "4. Fair Play & Prohibited Conduct",
+    "You agree not to: (a) Modify, reverse engineer, decompile, or extract source code from the application; (b) Use automated bots, cheats, memory injectors, or exploits to bypass game mechanics; (c) Interfere with or disrupt ad networks or security mechanisms of the application."
+   ],
+   [
+    "5. Intellectual Property Rights",
+    "All game assets—including visual candy art, characters, audio tracks, sound effects, level design algorithms, brand names, and source code—are the proprietary intellectual property of WIN Entertainments and DVK, protected by domestic and international copyright laws."
+   ],
+   [
+    "6. Disclaimer of Warranties & Limitation of Liability",
+    "Smart Candy - Match 3 is provided on an 'AS IS' and 'AS AVAILABLE' basis without warranties of any kind. To the maximum extent permitted by applicable law, WIN Entertainments and DVK disclaim all liability for any indirect, incidental, or consequential damages resulting from your use of or inability to access the game."
+   ],
+   [
+    "7. Governing Law & Contact",
+    "These terms shall be governed by and construed in accordance with applicable laws. If you have questions regarding these Terms of Use or wish to submit feedback, contact our support team at kietdovanapp@gmail.com or game@dvk.vn."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Chấp Thuận Điều Khoản",
+    "Bằng việc tải xuống, cài đặt hoặc trải nghiệm trò chơi Smart Candy - Match 3, bạn xác nhận đồng ý tuân thủ toàn bộ các Điều khoản Sử dụng này cùng Chính sách Quyền riêng tư của chúng tôi. Nếu bạn không đồng ý với bất kỳ điều khoản nào, vui lòng ngừng chơi và gỡ cài đặt ứng dụng. Thỏa thuận này có giá trị pháp lý ràng buộc giữa người chơi và WIN Entertainments / DVK."
+   ],
+   [
+    "2. Cấp Phép & Quyền Sử Dụng Hợp Pháp",
+    "Chúng tôi cấp cho bạn quyền sử dụng cá nhân, có thể hủy bỏ, phi độc quyền, không thể chuyển nhượng để tải, cài đặt và chơi Smart Candy - Match 3 trên các thiết bị Android cá nhân với mục đích giải trí phi thương mại theo đúng quy định."
+   ],
+   [
+    "3. Vật Phẩm Ảo, Bảo Bối & Tiền Tệ Trong Game",
+    "Trò chơi có hệ thống tiền tệ ảo (xu vàng), mạng sống và các bảo bối trợ giúp (bom màu, kẹo sọc, búa kẹo). Các vật phẩm này được cấp quyền sử dụng trong game, không phải tài sản sở hữu thực tế, không có giá trị quy đổi ra tiền mặt hoặc tài sản ngoài đời thực và không thể chuyển nhượng cho người chơi khác."
+   ],
+   [
+    "4. Chơi Game Công Bằng & Hành Vi Bị Nghiêm Cấm",
+    "Người chơi cam kết không thực hiện các hành vi sau: (a) Chỉnh sửa, dịch ngược, phân tích mã nguồn hoặc can thiệp vào tệp nhị phân của ứng dụng; (b) Sử dụng phần mềm can thiệp (mod, hack, bot, auto) để gian lận cấp độ hoặc vật phẩm; (c) Can thiệp hoặc phá hoại hệ thống phân phối quảng cáo và bảo mật của trò chơi."
+   ],
+   [
+    "5. Quyền Sở Hữu Trí Tuệ",
+    "Toàn bộ tài nguyên trò chơi—bao gồm hình ảnh đồ họa kẹo ngọt, nhân vật, âm nhạc, hiệu ứng âm thanh, thiết kế bản đồ màn chơi, nhãn hiệu và mã nguồn lập trình—thuộc quyền sở hữu trí tuệ độc quyền của WIN Entertainments và DVK, được bảo hộ theo luật sở hữu trí tuệ Việt Nam và quốc tế."
+   ],
+   [
+    "6. Giới Hạn Trách Nhiệm & Miễn Trừ Bảo Đảm",
+    "Smart Candy - Match 3 được cung cấp theo nguyên tắc 'NGUYÊN TRẠNG' (AS IS). Trong phạm vi tối đa được pháp luật cho phép, WIN Entertainments và DVK không chịu trách nhiệm đối với bất kỳ tổn thất gián tiếp nào phát sinh từ quá trình tải, trải nghiệm hoặc gián đoạn dịch vụ trò chơi."
+   ],
+   [
+    "7. Luật Điều Chỉnh & Kênh Liên Hệ Hỗ Trợ",
+    "Các điều khoản này được diễn giải và điều chỉnh theo quy định pháp luật hiện hành. Nếu bạn có bất kỳ câu hỏi hoặc khiếu nại nào liên quan đến Điều khoản Sử dụng, vui lòng liên hệ đội ngũ hỗ trợ tại kietdovanapp@gmail.com hoặc game@dvk.vn."
+   ]
+  ]
+ },
+ "arrow_privacy": {
+  "en": [
+   [
+    "1. Who we are",
+    "Arrow Escape: Candy Puzzle (iOS/iPadOS: com.kietdovan.arrowPuzzle, Android: com.kietdovan.arrow_puzzle) is a puzzle game made by DVK. Questions about this policy: game@dvk.vn. This policy applies to the game; the dvk.vn website has its own privacy page."
+   ],
+   [
+    "2. No accounts, progress stays on your device",
+    "The game has no sign-up and no login. Your levels, stars, coins, boosters, stickers, hats, settings and the optional daily play-time limit are stored only on your device. We do not run servers that store player profiles. Deleting the app deletes this data."
+   ],
+   [
+    "3. Made for families, including children",
+    "The game is designed to be safe for children. We do not ask for or collect names, email addresses, photos, contacts or precise location. There is no chat and no free-text input. Purchases, store ratings and other grown-up actions are behind a parental gate (press and hold, then answer a multiplication question). We follow the US Children's Online Privacy Protection Act (COPPA), the Google Play Families policy and Apple's App Store guidelines."
+   ],
+   [
+    "4. Advertising (Google AdMob)",
+    "The free version shows ads from Google AdMob (publisher pub-3636940103463538). Every ad request is marked as child-directed and limited to general-audience (G) content, so ads are not personalized and are not based on your interests. The game does not ask for tracking permission on iOS and does not use the Android Advertising ID. Google may still process limited technical information (such as IP address, device type and app version) to deliver ads, limit how often an ad is shown and prevent fraud. Learn more at policies.google.com/technologies/ads and policies.google.com/privacy. The Remove Ads purchase turns off banner and between-level ads."
+   ],
+   [
+    "5. In-app purchases",
+    "Optional purchases (coins, Starter Pack, unlimited lives, Remove Ads) are processed by the Apple App Store or Google Play. We never see or store your payment details. Your store account and its parental controls (Ask to Buy, Family Link) also apply."
+   ],
+   [
+    "6. Crash reports and anonymous statistics",
+    "To fix bugs and balance difficulty, the game may use Firebase Crashlytics and Google Analytics for Firebase (Google). These collect technical, non-identifying information such as crash logs, device model, OS version and gameplay events (for example level started or completed). Advertising identifiers are not collected and the data is not used for advertising. The optional in-game feedback card (a face and a few tags, no typing) is recorded the same anonymous way."
+   ],
+   [
+    "7. Leaderboards",
+    "Leaderboards are optional and use Apple Game Center or Google Play Games. If you choose to connect, your platform nickname and scores are handled by Apple or Google under their privacy policies. We do not receive your account details."
+   ],
+   [
+    "8. Notifications",
+    "If you allow it, the game schedules local reminders on your device (for example when lives are full or a reward is ready). They are created on the device, contain no personal data, and can be turned off in the game's Settings or the system settings at any time."
+   ],
+   [
+    "9. Your choices and data deletion",
+    "Because we keep no player accounts, you can remove all game data by deleting the app. You can manage ad privacy choices from the game's Settings (Privacy, behind the parental gate). Parents can contact game@dvk.vn with any question; we will answer within 30 days."
+   ],
+   [
+    "10. Changes",
+    "If this policy changes, we will update this page and the effective date above before the change takes effect in the game."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Chúng tôi là ai",
+    "Arrow Escape: Candy Puzzle (iOS/iPadOS: com.kietdovan.arrowPuzzle, Android: com.kietdovan.arrow_puzzle) là trò chơi giải đố do DVK phát triển. Mọi câu hỏi về chính sách này: game@dvk.vn. Chính sách này áp dụng cho trò chơi; website dvk.vn có trang quyền riêng tư riêng."
+   ],
+   [
+    "2. Không tài khoản, tiến độ lưu trên máy",
+    "Trò chơi không cần đăng ký hay đăng nhập. Màn chơi, sao, xu, vật phẩm, sticker, mũ, cài đặt và giới hạn thời gian chơi (nếu bật) chỉ lưu trên thiết bị của bạn. Chúng tôi không có máy chủ lưu hồ sơ người chơi. Xoá ứng dụng là xoá toàn bộ dữ liệu này."
+   ],
+   [
+    "3. Dành cho gia đình, kể cả trẻ em",
+    "Trò chơi được thiết kế an toàn cho trẻ em. Chúng tôi không hỏi hay thu thập tên, email, ảnh, danh bạ hoặc vị trí chính xác. Không có trò chuyện và không có ô nhập chữ. Mua hàng, đánh giá trên store và các thao tác dành cho người lớn đều nằm sau cổng phụ huynh (nhấn giữ rồi trả lời một phép nhân). Chúng tôi tuân thủ luật COPPA của Hoa Kỳ, chính sách Gia đình của Google Play và hướng dẫn của App Store."
+   ],
+   [
+    "4. Quảng cáo (Google AdMob)",
+    "Bản miễn phí hiển thị quảng cáo của Google AdMob (nhà xuất bản pub-3636940103463538). Mọi yêu cầu quảng cáo đều được gắn cờ dành cho trẻ em và giới hạn nội dung cho mọi lứa tuổi (G), nên quảng cáo không cá nhân hoá, không dựa trên sở thích. Trò chơi không xin quyền theo dõi trên iOS và không dùng Advertising ID của Android. Google vẫn có thể xử lý một số thông tin kỹ thuật (như địa chỉ IP, loại thiết bị, phiên bản ứng dụng) để phân phối quảng cáo, giới hạn tần suất và chống gian lận. Xem thêm tại policies.google.com/technologies/ads và policies.google.com/privacy. Gói Remove Ads tắt quảng cáo banner và quảng cáo giữa các màn."
+   ],
+   [
+    "5. Mua hàng trong ứng dụng",
+    "Các gói mua tuỳ chọn (xu, Starter Pack, mạng không giới hạn, Remove Ads) do Apple App Store hoặc Google Play xử lý. Chúng tôi không bao giờ thấy hay lưu thông tin thanh toán của bạn. Kiểm soát của phụ huynh trên tài khoản store (Ask to Buy, Family Link) cũng được áp dụng."
+   ],
+   [
+    "6. Báo lỗi và thống kê ẩn danh",
+    "Để sửa lỗi và cân bằng độ khó, trò chơi có thể dùng Firebase Crashlytics và Google Analytics for Firebase (Google). Các dịch vụ này thu thông tin kỹ thuật không định danh như nhật ký lỗi, kiểu máy, phiên bản hệ điều hành và sự kiện chơi (ví dụ bắt đầu hay hoàn thành màn). Không thu mã định danh quảng cáo và dữ liệu không dùng cho quảng cáo. Thẻ góp ý trong game (chọn mặt cười và vài nhãn, không gõ chữ) cũng được ghi nhận ẩn danh như vậy."
+   ],
+   [
+    "7. Bảng xếp hạng",
+    "Bảng xếp hạng là tuỳ chọn, dùng Apple Game Center hoặc Google Play Games. Nếu bạn chọn kết nối, biệt danh và điểm số do Apple hoặc Google xử lý theo chính sách của họ. Chúng tôi không nhận thông tin tài khoản của bạn."
+   ],
+   [
+    "8. Thông báo",
+    "Nếu bạn cho phép, trò chơi đặt lời nhắc ngay trên thiết bị (ví dụ khi mạng đã đầy hoặc có quà). Lời nhắc tạo trên máy, không chứa dữ liệu cá nhân và có thể tắt bất cứ lúc nào trong Cài đặt của game hoặc của hệ thống."
+   ],
+   [
+    "9. Lựa chọn của bạn và xoá dữ liệu",
+    "Vì không có tài khoản người chơi, bạn có thể xoá toàn bộ dữ liệu bằng cách xoá ứng dụng. Bạn quản lý lựa chọn quyền riêng tư quảng cáo trong Cài đặt của game (mục Privacy, sau cổng phụ huynh). Phụ huynh có thể liên hệ game@dvk.vn; chúng tôi trả lời trong vòng 30 ngày."
+   ],
+   [
+    "10. Thay đổi",
+    "Khi chính sách thay đổi, chúng tôi cập nhật trang này và ngày hiệu lực phía trên trước khi thay đổi có hiệu lực trong trò chơi."
+   ]
+  ]
+ },
+ "arrow_terms": {
+  "en": [
+   [
+    "1. Using the game",
+    "Arrow Escape: Candy Puzzle is provided by DVK for personal, non-commercial entertainment. By playing you agree to these terms and to the terms of the Apple App Store or Google Play from which you installed it."
+   ],
+   [
+    "2. Virtual items",
+    "Coins, lives, boosters, trophies, stickers and hats are virtual items with no real-world money value. They cannot be exchanged for cash or transferred between players. They are stored on your device and may be lost if you delete the app."
+   ],
+   [
+    "3. Purchases",
+    "Purchases are optional, made through Apple or Google and protected by a parental gate. Prices are shown in the store in your local currency. Refunds are handled by Apple or Google under their refund policies. Remove Ads is a one-time purchase that can be restored with Restore in Settings."
+   ],
+   [
+    "4. Fair play",
+    "Please do not modify, hack or reverse engineer the game or use tools to cheat. We may change level design, rewards and events to keep the game fun and balanced."
+   ],
+   [
+    "5. Content and license",
+    "The game, its characters, art, music and voice lines belong to DVK and its licensors. You receive a limited, non-transferable license to play the game on your devices."
+   ],
+   [
+    "6. Availability",
+    "We work to keep the game running smoothly but cannot guarantee it will always be free of errors. Features such as ads, leaderboards or events may change or stop over time."
+   ],
+   [
+    "7. Contact",
+    "Questions or problems: game@dvk.vn."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Sử dụng trò chơi",
+    "Arrow Escape: Candy Puzzle do DVK cung cấp cho mục đích giải trí cá nhân, phi thương mại. Khi chơi, bạn đồng ý với các điều khoản này và điều khoản của Apple App Store hoặc Google Play nơi bạn cài đặt."
+   ],
+   [
+    "2. Vật phẩm ảo",
+    "Xu, mạng, vật phẩm hỗ trợ, cúp, sticker và mũ là vật phẩm ảo, không có giá trị tiền thật, không đổi ra tiền và không chuyển cho người khác. Chúng lưu trên thiết bị và có thể mất nếu bạn xoá ứng dụng."
+   ],
+   [
+    "3. Mua hàng",
+    "Mua hàng là tuỳ chọn, thực hiện qua Apple hoặc Google và được bảo vệ bằng cổng phụ huynh. Giá hiển thị trên store theo tiền tệ địa phương. Hoàn tiền do Apple hoặc Google xử lý theo chính sách của họ. Remove Ads là gói mua một lần, khôi phục được bằng nút Restore trong Cài đặt."
+   ],
+   [
+    "4. Chơi công bằng",
+    "Vui lòng không chỉnh sửa, hack, dịch ngược trò chơi hay dùng công cụ gian lận. Chúng tôi có thể điều chỉnh màn chơi, phần thưởng và sự kiện để trò chơi luôn vui và cân bằng."
+   ],
+   [
+    "5. Nội dung và bản quyền",
+    "Trò chơi, nhân vật, hình ảnh, âm nhạc và lồng tiếng thuộc về DVK và bên cấp phép. Bạn được cấp quyền giới hạn, không chuyển nhượng, để chơi trên thiết bị của mình."
+   ],
+   [
+    "6. Tính sẵn sàng",
+    "Chúng tôi cố gắng để trò chơi chạy ổn định nhưng không thể bảo đảm luôn không có lỗi. Các tính năng như quảng cáo, bảng xếp hạng hay sự kiện có thể thay đổi hoặc ngừng theo thời gian."
+   ],
+   [
+    "7. Liên hệ",
+    "Câu hỏi hoặc sự cố: game@dvk.vn."
+   ]
+  ]
+ },
+ "gumball_privacy": {
+  "en": [
+   [
+    "1. Who we are",
+    "Gumball Sort: Ball Sort Puzzle (iOS/iPadOS: com.winplaystudio.sortPuzzle, Android: com.winplaystudio.sort_puzzle) is a puzzle game made by WinPlay Studio (DVK). Questions about this policy: game@dvk.vn. This policy applies to the game; the dvk.vn website has its own privacy page."
+   ],
+   [
+    "2. No accounts, progress stays on your device",
+    "The game has no sign-up and no login. Your levels, stars, coins, boosters, candy jars, the level you are playing and your settings (music, sound, color symbols) are stored only on your device. We do not run servers that store player profiles. Deleting the app deletes this data."
+   ],
+   [
+    "3. Made for families, including children",
+    "The game is designed to be safe for children. We do not ask for or collect names, email addresses, photos, contacts, voice recordings or precise location. There is no chat and no free-text input. Purchases, links to websites and other grown-up actions are behind a parental gate. We follow the US Children's Online Privacy Protection Act (COPPA), the Google Play Families policy and Apple's App Store guidelines."
+   ],
+   [
+    "4. Advertising (Google AdMob)",
+    "The free version shows ads from Google AdMob (publisher pub-3636940103463538). Every ad request is marked as child-directed and limited to general-audience (G) content, so ads are not personalized and are not based on your interests. The game does not ask for tracking permission on iOS and does not use the Android Advertising ID. Google may still process limited technical information (such as IP address, device type and app version) to deliver ads, limit how often an ad is shown and prevent fraud. Learn more at policies.google.com/technologies/ads and policies.google.com/privacy. Optional reward videos are only shown when the player chooses them. The No Ads purchase turns off banner and between-level ads."
+   ],
+   [
+    "5. In-app purchases",
+    "Optional purchases (coin packs, bundles and No Ads) are processed by the Apple App Store or Google Play. We never see or store your payment details. Your store account and its parental controls (Ask to Buy, Family Link) also apply."
+   ],
+   [
+    "6. Crash reports and anonymous statistics",
+    "To fix bugs and balance difficulty, the game may use Firebase Crashlytics, Google Analytics for Firebase and Firebase Remote Config (Google). These collect technical, non-identifying information such as crash logs, device model, OS version and gameplay events (for example level started, completed or restarted, boosters used). Advertising identifiers are not collected and the data is not used for advertising. Remote Config only adjusts game settings such as how often between-level ads appear."
+   ],
+   [
+    "7. Leaderboards",
+    "Leaderboards are optional and use Apple Game Center or Google Play Games. They open only when you tap the trophy button. If you choose to connect, your platform nickname and scores are handled by Apple or Google under their privacy policies. We do not receive your account details."
+   ],
+   [
+    "8. Your choices and data deletion",
+    "Because we keep no player accounts, you can remove all game data by deleting the app. You can manage ad privacy choices from the game's Settings where available. Parents can contact game@dvk.vn with any question; we will answer within 30 days."
+   ],
+   [
+    "9. Changes",
+    "If this policy changes, we will update this page and the effective date above."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Chúng tôi là ai",
+    "Gumball Sort: Ball Sort Puzzle (iOS/iPadOS: com.winplaystudio.sortPuzzle, Android: com.winplaystudio.sort_puzzle) là game giải đố do WinPlay Studio (DVK) phát triển. Mọi câu hỏi về chính sách này: game@dvk.vn. Chính sách áp dụng cho game; website dvk.vn có trang quyền riêng tư riêng."
+   ],
+   [
+    "2. Không tài khoản, tiến độ lưu trên máy",
+    "Game không cần đăng ký hay đăng nhập. Màn chơi, sao, xu, vật phẩm hỗ trợ, hũ kẹo, ván đang chơi dở và cài đặt (nhạc, âm thanh, ký hiệu màu) chỉ lưu trên thiết bị của bạn. Chúng tôi không có máy chủ lưu hồ sơ người chơi. Xoá app là xoá toàn bộ dữ liệu này."
+   ],
+   [
+    "3. Dành cho gia đình, kể cả trẻ em",
+    "Game được thiết kế an toàn cho trẻ em. Chúng tôi không hỏi hay thu thập tên, email, ảnh, danh bạ, ghi âm giọng nói hay vị trí chính xác. Không có trò chuyện và không có ô nhập chữ tự do. Mua hàng, liên kết ra website và các thao tác dành cho người lớn đều có cổng phụ huynh. Chúng tôi tuân thủ Đạo luật bảo vệ quyền riêng tư trẻ em trực tuyến của Hoa Kỳ (COPPA), chính sách Gia đình của Google Play và hướng dẫn của App Store."
+   ],
+   [
+    "4. Quảng cáo (Google AdMob)",
+    "Bản miễn phí hiển thị quảng cáo Google AdMob (nhà xuất bản pub-3636940103463538). Mọi yêu cầu quảng cáo được đánh dấu dành cho trẻ em và giới hạn nội dung cho mọi lứa tuổi (G), nên quảng cáo không cá nhân hoá. Game không xin quyền theo dõi trên iOS và không dùng mã quảng cáo Android. Google vẫn có thể xử lý một số thông tin kỹ thuật (địa chỉ IP, loại thiết bị, phiên bản app) để phân phối quảng cáo, giới hạn tần suất và chống gian lận. Video thưởng chỉ hiện khi người chơi tự chọn. Gói No Ads tắt quảng cáo banner và quảng cáo giữa các màn."
+   ],
+   [
+    "5. Mua hàng trong ứng dụng",
+    "Các gói tuỳ chọn (xu, gói combo, No Ads) được xử lý qua Apple App Store hoặc Google Play. Chúng tôi không bao giờ thấy hay lưu thông tin thanh toán. Tài khoản cửa hàng và kiểm soát của phụ huynh (Ask to Buy, Family Link) vẫn áp dụng."
+   ],
+   [
+    "6. Báo lỗi và thống kê ẩn danh",
+    "Để sửa lỗi và cân bằng độ khó, game có thể dùng Firebase Crashlytics, Google Analytics for Firebase và Firebase Remote Config (Google). Các dịch vụ này thu thông tin kỹ thuật không định danh như nhật ký lỗi, mẫu máy, phiên bản hệ điều hành và sự kiện chơi (bắt đầu, hoàn thành, chơi lại màn, dùng vật phẩm). Không thu mã quảng cáo và dữ liệu không dùng cho quảng cáo. Remote Config chỉ điều chỉnh thông số game như tần suất quảng cáo giữa màn."
+   ],
+   [
+    "7. Bảng xếp hạng",
+    "Bảng xếp hạng là tuỳ chọn, dùng Apple Game Center hoặc Google Play Games, chỉ mở khi bạn chạm nút cúp. Nếu bạn kết nối, biệt danh và điểm số do Apple hoặc Google xử lý theo chính sách của họ. Chúng tôi không nhận thông tin tài khoản của bạn."
+   ],
+   [
+    "8. Lựa chọn của bạn và xoá dữ liệu",
+    "Vì không có tài khoản người chơi, bạn có thể xoá toàn bộ dữ liệu game bằng cách xoá app. Phụ huynh có thể liên hệ game@dvk.vn với mọi câu hỏi; chúng tôi trả lời trong vòng 30 ngày."
+   ],
+   [
+    "9. Thay đổi",
+    "Nếu chính sách thay đổi, chúng tôi sẽ cập nhật trang này và ngày hiệu lực ở trên."
+   ]
+  ]
+ },
+ "gumball_terms": {
+  "en": [
+   [
+    "1. Using the game",
+    "Gumball Sort: Ball Sort Puzzle is provided by WinPlay Studio (DVK) for personal, non-commercial entertainment. By playing you agree to these terms and to the terms of the Apple App Store or Google Play from which you installed it."
+   ],
+   [
+    "2. Virtual items",
+    "Coins, boosters (Undo, +1 Tube, Shuffle, Hint), stars, star chests and candy jars are virtual items with no real-world money value. They cannot be exchanged for cash or transferred between players. They are stored on your device and may be lost if you delete the app."
+   ],
+   [
+    "3. Purchases",
+    "Purchases are optional, made through Apple or Google and protected by a parental gate. Prices are shown in the store in your local currency. Refunds are handled by Apple or Google under their refund policies. No Ads is a one-time purchase that can be restored with Restore purchases in Settings; coin packs and bundles are consumable."
+   ],
+   [
+    "4. Fair play",
+    "Please do not modify, hack or reverse engineer the game or use tools to cheat. We may change level design, rewards and prices to keep the game fun and balanced."
+   ],
+   [
+    "5. Content and license",
+    "The game, its story, characters (Grandma Gumm and friends), art, music and voice lines belong to WinPlay Studio (DVK) and its licensors. You receive a limited, non-transferable license to play the game on your devices."
+   ],
+   [
+    "6. Availability",
+    "We work to keep the game running smoothly but cannot guarantee it will always be free of errors. Features such as ads, leaderboards or new chapters may change or stop over time."
+   ],
+   [
+    "7. Contact",
+    "Questions or problems: game@dvk.vn."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Sử dụng game",
+    "Gumball Sort: Ball Sort Puzzle do WinPlay Studio (DVK) cung cấp cho mục đích giải trí cá nhân, phi thương mại. Khi chơi, bạn đồng ý với các điều khoản này và điều khoản của Apple App Store hoặc Google Play nơi bạn cài game."
+   ],
+   [
+    "2. Vật phẩm ảo",
+    "Xu, vật phẩm hỗ trợ (Hoàn tác, +1 Ống, Xáo trộn, Gợi ý), sao, rương sao và hũ kẹo là vật phẩm ảo, không có giá trị tiền thật, không đổi được thành tiền và không chuyển cho người khác. Chúng lưu trên thiết bị và có thể mất khi xoá app."
+   ],
+   [
+    "3. Mua hàng",
+    "Mua hàng là tuỳ chọn, thực hiện qua Apple hoặc Google và có cổng phụ huynh. Giá hiển thị trong cửa hàng theo đơn vị tiền địa phương. Hoàn tiền do Apple hoặc Google xử lý theo chính sách của họ. No Ads là gói mua một lần, khôi phục được bằng Restore purchases trong Cài đặt; gói xu và gói combo là hàng tiêu hao."
+   ],
+   [
+    "4. Chơi công bằng",
+    "Vui lòng không sửa đổi, hack, dịch ngược game hay dùng công cụ gian lận. Chúng tôi có thể thay đổi thiết kế màn, phần thưởng và giá để game luôn vui và cân bằng."
+   ],
+   [
+    "5. Nội dung và giấy phép",
+    "Game, câu chuyện, nhân vật (Bà Gumm và các bạn), hình ảnh, âm nhạc và lồng tiếng thuộc về WinPlay Studio (DVK) và các bên cấp phép. Bạn được cấp giấy phép giới hạn, không chuyển nhượng để chơi game trên thiết bị của mình."
+   ],
+   [
+    "6. Tính sẵn có",
+    "Chúng tôi cố gắng để game chạy ổn định nhưng không thể bảo đảm luôn không có lỗi. Các tính năng như quảng cáo, bảng xếp hạng hay chương mới có thể thay đổi hoặc dừng theo thời gian."
+   ],
+   [
+    "7. Liên hệ",
+    "Câu hỏi hoặc sự cố: game@dvk.vn."
+   ]
+  ]
+ }
 }
