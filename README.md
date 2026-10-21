@@ -2,6 +2,18 @@
 
 Public static website for DVK and its apps/games. This repository contains website code and public policies only. The Flutter game source is kept in its separate private repository.
 
+## Sync between Macs with GitHub Desktop
+
+Repository: https://github.com/DVKapp/DVKapp.github.io — branch `main`.
+
+1. On the other Mac, install GitHub Desktop from https://desktop.github.com/ and sign in with an account that can write to this repository.
+2. Choose **File → Clone Repository → URL**, enter the repository URL above, and choose a local folder such as `~/Documents/GitHub/DVKapp.github.io`.
+3. Before editing on either Mac, click **Fetch origin**, then **Pull origin** if updates are available. Commit and **Push origin** when finished before switching Macs.
+4. Run `python3 build.py` after editing `content.json`, `build.py`, or `assets/`. Commit the generated `docs/` updates together with the source changes. `dist/` is a local preview and is intentionally ignored.
+5. To preview locally, run `python3 -m http.server 8877 --bind 127.0.0.1 --directory dist`, then open http://127.0.0.1:8877/.
+
+Python 3 is the only build dependency; no Node packages or private environment files are required. GitHub Pages serves the tracked `docs/` directory, and `docs/CNAME` must remain `dvk.vn`. Keep signing keys, passwords, private app source, and player data outside this public website repository.
+
 - `/`: DVK introduction and project directory.
 - `/puzzle-spark/`: Puzzle Spark; `/puzzle-spark/privacy/` and `/puzzle-spark/terms/` are app-specific policies.
 - `/privacy/`: website privacy information.
