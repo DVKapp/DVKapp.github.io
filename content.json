@@ -882,5 +882,161 @@
     "Câu hỏi hoặc sự cố: game@dvk.vn."
    ]
   ]
+ },
+ "plop_privacy": {
+  "en": [
+   [
+    "1. Who we are",
+    "Plop: Word Ladder Puzzle (iOS/iPadOS: com.winplaystudio.plopLadder, Android: com.winplaystudio.plop_ladder) is a word ladder puzzle game made by WinPlay Studio (DVK) for iPhone, iPad and Android. Questions about this policy: game@dvk.vn. This policy applies to the game; the dvk.vn website has its own privacy page."
+   ],
+   [
+    "2. No accounts, progress stays on your device",
+    "The game has no account and no sign-in. Your levels, stars, coins, hints, streaks, Plop flavors, settings and stats are stored only on your device. Deleting the app deletes this data. The only data that leaves your device is described below (ads and in-app purchases)."
+   ],
+   [
+    "3. Made for all ages, including young children",
+    "Plop is designed for all ages, including young children. We do not ask for or collect real names, email addresses, photos, contacts, voice recordings or location. There is no leaderboard, no chat and no user-generated content, and offensive words have been removed from the word list. All purchases, links to outside websites and sharing are behind a parental gate. We follow the US Children's Online Privacy Protection Act (COPPA), the Google Play Families policy and Apple's App Store guidelines."
+   ],
+   [
+    "4. No analytics or crash reports",
+    "The game does not send analytics or crash reports at launch, and we do not collect any analytics or crash data about you."
+   ],
+   [
+    "5. Advertising (Google AdMob)",
+    "The free version shows ads from Google AdMob. Ad requests are configured as child-directed and non-personalized. Google may process device information and IP address to serve and measure ads, as described in Google's policies at policies.google.com/technologies/ads and policies.google.com/privacy. The No Ads purchase removes ads."
+   ],
+   [
+    "6. Notifications",
+    "The game can send optional daily reminders. They are local notifications scheduled on the device itself and are off by default until the player or a parent turns them on. We do not use a push notification server. You can turn them off in the game or in your device settings at any time."
+   ],
+   [
+    "7. In-app purchases",
+    "Optional purchases (No Ads and hint packs) are processed by the Apple App Store or Google Play. We never see or store your payment details. Your store account and its parental controls (Ask to Buy, Family Link) also apply."
+   ],
+   [
+    "8. Sharing",
+    "The Daily Plop result can be shared as a Wordle-style grid that reveals no words. Sharing is behind a parental gate; we do not receive what you share."
+   ],
+   [
+    "9. Your choices and data deletion",
+    "You can remove all game data by uninstalling the app. Parents can contact game@dvk.vn with any question; we will answer within 30 days."
+   ],
+   [
+    "10. Changes and contact",
+    "If this policy changes, we will update this page and the effective date above. Contact: game@dvk.vn."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Chúng tôi là ai",
+    "Plop: Word Ladder Puzzle (iOS/iPadOS: com.winplaystudio.plopLadder, Android: com.winplaystudio.plop_ladder) là game giải đố bậc thang chữ do WinPlay Studio (DVK) phát triển cho iPhone, iPad và Android. Mọi câu hỏi về chính sách này: game@dvk.vn. Chính sách áp dụng cho game; website dvk.vn có trang quyền riêng tư riêng."
+   ],
+   [
+    "2. Không tài khoản, tiến độ lưu trên máy",
+    "Game không có tài khoản và không cần đăng nhập. Màn chơi, sao, xu, gợi ý, chuỗi ngày chơi, vị Plop, cài đặt và thống kê chỉ được lưu trên thiết bị của bạn. Xoá app là xoá dữ liệu này. Dữ liệu duy nhất rời khỏi thiết bị được mô tả bên dưới (quảng cáo và mua hàng trong ứng dụng)."
+   ],
+   [
+    "3. Dành cho mọi lứa tuổi, kể cả trẻ nhỏ",
+    "Plop được thiết kế cho mọi lứa tuổi, kể cả trẻ nhỏ. Chúng tôi không yêu cầu hay thu thập tên thật, email, ảnh, danh bạ, giọng nói hay vị trí. Game không có bảng xếp hạng, không có trò chuyện và không có nội dung do người dùng tạo; các từ xúc phạm đã được loại khỏi bộ từ. Mọi giao dịch mua, liên kết ra website bên ngoài và việc chia sẻ đều nằm sau cổng phụ huynh. Chúng tôi tuân thủ Đạo luật Bảo vệ Quyền riêng tư Trực tuyến của Trẻ em Hoa Kỳ (COPPA), chính sách Gia đình của Google Play và hướng dẫn của Apple App Store."
+   ],
+   [
+    "4. Không thống kê, không báo cáo lỗi",
+    "Game không gửi dữ liệu thống kê hay báo cáo lỗi khi khởi động, và chúng tôi không thu thập dữ liệu thống kê hay báo cáo lỗi nào về bạn."
+   ],
+   [
+    "5. Quảng cáo (Google AdMob)",
+    "Bản miễn phí hiển thị quảng cáo của Google AdMob. Yêu cầu quảng cáo được cấu hình hướng tới trẻ em và không cá nhân hoá. Google có thể xử lý thông tin thiết bị và địa chỉ IP để phân phối và đo lường quảng cáo, theo chính sách của Google tại policies.google.com/technologies/ads và policies.google.com/privacy. Gói Gỡ quảng cáo sẽ tắt quảng cáo."
+   ],
+   [
+    "6. Thông báo",
+    "Game có thể gửi lời nhắc hằng ngày tùy chọn. Đây là thông báo cục bộ được lên lịch ngay trên thiết bị và mặc định tắt cho tới khi người chơi hoặc phụ huynh bật lên. Chúng tôi không dùng máy chủ gửi thông báo đẩy. Bạn có thể tắt chúng trong game hoặc trong cài đặt thiết bị bất cứ lúc nào."
+   ],
+   [
+    "7. Mua hàng trong ứng dụng",
+    "Các gói mua tùy chọn (Gỡ quảng cáo và gói gợi ý) được xử lý bởi Apple App Store hoặc Google Play. Chúng tôi không bao giờ thấy hay lưu thông tin thanh toán của bạn. Tài khoản cửa hàng và các công cụ kiểm soát của phụ huynh (Ask to Buy, Family Link) cũng được áp dụng."
+   ],
+   [
+    "8. Chia sẻ",
+    "Kết quả Daily Plop có thể được chia sẻ dưới dạng lưới kiểu Wordle, không để lộ từ nào. Việc chia sẻ nằm sau cổng phụ huynh; chúng tôi không nhận nội dung bạn chia sẻ."
+   ],
+   [
+    "9. Lựa chọn của bạn và xoá dữ liệu",
+    "Bạn có thể xoá toàn bộ dữ liệu game bằng cách gỡ cài đặt app. Phụ huynh có thể liên hệ game@dvk.vn với bất kỳ câu hỏi nào; chúng tôi sẽ trả lời trong vòng 30 ngày."
+   ],
+   [
+    "10. Thay đổi và liên hệ",
+    "Nếu chính sách này thay đổi, chúng tôi sẽ cập nhật trang này và ngày hiệu lực ở trên. Liên hệ: game@dvk.vn."
+   ]
+  ]
+ },
+ "plop_terms": {
+  "en": [
+   [
+    "1. Using the game",
+    "Plop: Word Ladder Puzzle is provided by WinPlay Studio (DVK) for personal, non-commercial entertainment. By playing you agree to these terms and to the terms of the Apple App Store or Google Play from which you installed it."
+   ],
+   [
+    "2. Virtual items",
+    "Coins, hints, stars, gifts and Plop flavors are virtual items with no cash value. They cannot be exchanged for money or transferred between players. They are stored on your device and may be lost if you delete the app."
+   ],
+   [
+    "3. Purchases",
+    "Purchases are optional, made through Apple or Google and protected by a parental gate. No Ads (plop.remove_ads) is a one-time, non-consumable purchase; the 10-hint (plop.hints_10) and 30-hint (plop.hints_30) packs are consumable. You can restore No Ads with Restore purchases in the shop. Prices are shown in the store in your local currency, and refunds are handled by Apple or Google under their refund policies."
+   ],
+   [
+    "4. Fair play",
+    "Please do not modify, hack or reverse engineer the game or use tools to cheat. We may change levels, rewards and prices to keep the game fun and balanced."
+   ],
+   [
+    "5. Content and license",
+    "The game, its puzzles, the Plop character, art, music and voice lines belong to WinPlay Studio (DVK) and its licensors. You receive a limited, non-transferable license to play the game on your devices."
+   ],
+   [
+    "6. Credits",
+    "Words are checked against the ENABLE word list (public domain). Word selection uses FrequencyWords (CC BY-SA 4.0). The game uses the Fredoka font (SIL Open Font License)."
+   ],
+   [
+    "7. Availability",
+    "We work to keep the game running smoothly but cannot guarantee it will always be free of errors. Features such as ads, the Daily Plop or new levels may change or stop over time."
+   ],
+   [
+    "8. Contact",
+    "Questions or problems: game@dvk.vn."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Sử dụng game",
+    "Plop: Word Ladder Puzzle do WinPlay Studio (DVK) cung cấp cho mục đích giải trí cá nhân, phi thương mại. Khi chơi, bạn đồng ý với các điều khoản này và điều khoản của Apple App Store hoặc Google Play nơi bạn cài đặt game."
+   ],
+   [
+    "2. Vật phẩm ảo",
+    "Xu, gợi ý, sao, quà và các vị Plop là vật phẩm ảo, không có giá trị quy đổi ra tiền. Chúng không thể đổi ra tiền mặt hay chuyển cho người chơi khác. Chúng được lưu trên thiết bị và có thể mất nếu bạn xoá app."
+   ],
+   [
+    "3. Mua hàng",
+    "Việc mua hàng là tùy chọn, thực hiện qua Apple hoặc Google và được bảo vệ bằng cổng phụ huynh. Gỡ quảng cáo (plop.remove_ads) là gói mua một lần, không tiêu hao; gói 10 gợi ý (plop.hints_10) và 30 gợi ý (plop.hints_30) là vật phẩm tiêu hao. Bạn có thể khôi phục gói Gỡ quảng cáo bằng nút Khôi phục giao dịch trong cửa hàng của game. Giá hiển thị trong cửa hàng theo đơn vị tiền tệ địa phương, và hoàn tiền do Apple hoặc Google xử lý theo chính sách của họ."
+   ],
+   [
+    "4. Chơi công bằng",
+    "Vui lòng không chỉnh sửa, hack, dịch ngược game hay dùng công cụ gian lận. Chúng tôi có thể thay đổi màn chơi, phần thưởng và giá để game luôn vui và cân bằng."
+   ],
+   [
+    "5. Nội dung và giấy phép",
+    "Game, các câu đố, nhân vật Plop, hình ảnh, âm nhạc và lời thoại thuộc về WinPlay Studio (DVK) và các bên cấp phép. Bạn được cấp giấy phép giới hạn, không chuyển nhượng để chơi game trên thiết bị của mình."
+   ],
+   [
+    "6. Ghi công",
+    "Từ được kiểm tra theo bộ từ ENABLE (phạm vi công cộng). Việc chọn từ dùng FrequencyWords (CC BY-SA 4.0). Game dùng phông chữ Fredoka (giấy phép SIL Open Font License)."
+   ],
+   [
+    "7. Tính sẵn sàng",
+    "Chúng tôi cố gắng để game chạy ổn định nhưng không thể đảm bảo luôn không có lỗi. Các tính năng như quảng cáo, Daily Plop hay màn chơi mới có thể thay đổi hoặc dừng theo thời gian."
+   ],
+   [
+    "8. Liên hệ",
+    "Câu hỏi hoặc sự cố: game@dvk.vn."
+   ]
+  ]
  }
 }

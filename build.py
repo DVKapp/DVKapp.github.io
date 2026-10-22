@@ -41,6 +41,9 @@ PATHS = {
     'kitty_game': '/kitty-corners/',
     'kitty_privacy': '/kitty-corners/privacy/',
     'kitty_terms': '/kitty-corners/terms/',
+    'plop_game': '/plop/',
+    'plop_privacy': '/plop/privacy/',
+    'plop_terms': '/plop/terms/',
 }
 
 SEO = {
@@ -66,6 +69,9 @@ SEO = {
         'kitty_game': ('Kitty Corners: Cat Puzzle — Cozy Cat Logic Game | DVK', 'Kitty Corners: Cat Puzzle for iPhone, iPad and Android. Place one cat in every row, column and colored home across 500 levels, 5 play modes, no guessing.'),
         'kitty_privacy': ('Kitty Corners: Cat Puzzle Privacy Policy | DVK', 'Privacy policy for Kitty Corners: Cat Puzzle. No accounts, on-device progress, child-directed AdMob ads, optional anonymous leaderboard, parental gate.'),
         'kitty_terms': ('Kitty Corners: Cat Puzzle Terms of Use | DVK', 'Terms of use for Kitty Corners: Cat Puzzle: virtual coins and hints, in-app purchases, leaderboards and fair play.'),
+        'plop_game': ('Plop: Word Ladder Puzzle — Change One Letter Word Game | DVK', 'Plop: Word Ladder Puzzle for iPhone, iPad and Android. Change one letter at a time to climb from the start word to the goal word. 400 levels, Daily Plop, family-friendly words.'),
+        'plop_privacy': ('Plop: Word Ladder Puzzle Privacy Policy | DVK', 'Privacy policy for Plop: Word Ladder Puzzle. No accounts, progress kept on your device, child-directed non-personalized AdMob ads, parental gate.'),
+        'plop_terms': ('Plop: Word Ladder Puzzle Terms of Use | DVK', 'Terms of use for Plop: Word Ladder Puzzle: virtual coins and hints, in-app purchases, fair play and word list credits.'),
         'candy_terms': ('Smart Candy: Match 3 Terms of Use | DVK', 'Official terms of use for Smart Candy: Match 3. Rules on virtual items, booster inventory, fair play, and Google Play licensing.'),
     },
     'vi': {
@@ -90,6 +96,9 @@ SEO = {
         'kitty_game': ('Kitty Corners: Cat Puzzle — Game Giải Đố Logic Mèo | DVK', 'Kitty Corners: Cat Puzzle cho iPhone, iPad và Android. Đặt một chú mèo vào mỗi hàng, cột và ngôi nhà màu qua 500 màn, 5 chế độ chơi, không cần đoán.'),
         'kitty_privacy': ('Chính sách Quyền riêng tư Kitty Corners: Cat Puzzle | DVK', 'Chính sách quyền riêng tư Kitty Corners: Cat Puzzle: không tài khoản, lưu tiến độ trên máy, quảng cáo AdMob chế độ trẻ em, bảng xếp hạng ẩn danh tùy chọn.'),
         'kitty_terms': ('Điều khoản Sử dụng Kitty Corners: Cat Puzzle | DVK', 'Điều khoản sử dụng Kitty Corners: Cat Puzzle: xu và gợi ý ảo, mua hàng trong ứng dụng, bảng xếp hạng và chơi công bằng.'),
+        'plop_game': ('Plop: Word Ladder Puzzle — Game Bậc Thang Chữ Tiếng Anh | DVK', 'Plop: Word Ladder Puzzle cho iPhone, iPad và Android. Đổi từng chữ cái một để leo từ từ bắt đầu lên từ đích. 400 màn, Daily Plop, bộ từ thân thiện với gia đình.'),
+        'plop_privacy': ('Chính sách Quyền riêng tư Plop: Word Ladder Puzzle | DVK', 'Chính sách quyền riêng tư Plop: Word Ladder Puzzle: không tài khoản, tiến độ lưu trên máy, quảng cáo AdMob chế độ trẻ em không cá nhân hoá, cổng phụ huynh.'),
+        'plop_terms': ('Điều khoản Sử dụng Plop: Word Ladder Puzzle | DVK', 'Điều khoản sử dụng Plop: Word Ladder Puzzle: xu và gợi ý ảo, mua hàng trong ứng dụng, chơi công bằng và ghi công bộ từ.'),
         'candy_terms': ('Điều khoản Sử dụng Smart Candy: Match 3 | DVK', 'Điều khoản sử dụng chính thức cho Smart Candy: Match 3: Quy định bảo bối, tiền tệ trong game, gói vật phẩm và bản quyền phát hành.'),
     }
 }
@@ -137,6 +146,10 @@ TEXT = {
         'kitty_privacylead': 'How Kitty Corners handles data: no accounts, progress kept on your device, child-directed ads, an optional anonymous leaderboard and a parental gate.',
         'kitty_termstitle': 'Kitty Corners: Cat Puzzle Terms of Use',
         'kitty_termslead': 'Rules for virtual coins, hints, in-app purchases, leaderboards and fair play in Kitty Corners: Cat Puzzle.',
+        'plop_privacytitle': 'Plop: Word Ladder Puzzle Privacy Policy',
+        'plop_privacylead': 'How Plop handles data: no accounts, progress kept on your device, child-directed non-personalized ads and a parental gate.',
+        'plop_termstitle': 'Plop: Word Ladder Puzzle Terms of Use',
+        'plop_termslead': 'Rules for virtual coins, hints, in-app purchases and fair play in Plop: Word Ladder Puzzle, plus word list credits.',
         'privacytitle': 'Your privacy, in plain words.',
         'privacylead': 'This policy describes the current Puzzle Spark preview and this website.',
         'termstitle': 'Terms of use',
@@ -195,6 +208,10 @@ TEXT = {
         'kitty_privacylead': 'Cách Kitty Corners xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, quảng cáo chế độ trẻ em, bảng xếp hạng ẩn danh tùy chọn và cổng phụ huynh.',
         'kitty_termstitle': 'Điều Khoản Sử Dụng Kitty Corners: Cat Puzzle',
         'kitty_termslead': 'Quy định về xu ảo, gợi ý, mua hàng trong ứng dụng, bảng xếp hạng và chơi công bằng trong Kitty Corners: Cat Puzzle.',
+        'plop_privacytitle': 'Chính Sách Quyền Riêng Tư Plop: Word Ladder Puzzle',
+        'plop_privacylead': 'Cách Plop xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, quảng cáo chế độ trẻ em không cá nhân hoá và cổng phụ huynh.',
+        'plop_termstitle': 'Điều Khoản Sử Dụng Plop: Word Ladder Puzzle',
+        'plop_termslead': 'Quy định về xu ảo, gợi ý, mua hàng trong ứng dụng, chơi công bằng và ghi công bộ từ trong Plop: Word Ladder Puzzle.',
         'privacytitle': 'Quyền riêng tư, trình bày rõ ràng.',
         'privacylead': 'Chính sách mô tả bản thử nghiệm Puzzle Spark hiện tại và website này.',
         'termstitle': 'Điều khoản sử dụng',
@@ -311,7 +328,7 @@ def grid(t):
 def shell(kind, lang, body, title):
     t = TEXT[lang]
     path = PATHS[kind]
-    theme = 'arrow' if 'arrow' in kind else 'gumball' if 'gumball' in kind else 'kitty' if 'kitty' in kind else 'candy' if 'candy' in kind else 'block-puzzle' if ('block' in kind or kind == 'home') else 'puzzle-spark' if kind in ['game', 'privacy', 'terms'] else 'dvk'
+    theme = 'arrow' if 'arrow' in kind else 'gumball' if 'gumball' in kind else 'kitty' if 'kitty' in kind else 'plop' if 'plop' in kind else 'candy' if 'candy' in kind else 'block-puzzle' if ('block' in kind or kind == 'home') else 'puzzle-spark' if kind in ['game', 'privacy', 'terms'] else 'dvk'
     other = 'vi' if lang == 'en' else 'en'
     canonical = BASE + url(path, lang)
     nav = ''.join(
@@ -337,6 +354,9 @@ def shell(kind, lang, body, title):
     elif theme == 'kitty':
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Kitty Corners</span>' if kind == 'kitty_game' else '<a href="' + url(PATHS['kitty_game'], lang) + '">Kitty Corners</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
+    elif theme == 'plop':
+        crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
+        crumbs += ('<span aria-current="page">Plop</span>' if kind == 'plop_game' else '<a href="' + url(PATHS['plop_game'], lang) + '">Plop</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
     elif theme == 'candy':
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Smart Candy</span>' if kind == 'candy_game' else '<a href="' + url(PATHS['candy_game'], lang) + '">Smart Candy</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
@@ -344,9 +364,9 @@ def shell(kind, lang, body, title):
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Puzzle Spark</span>' if kind == 'game' else '<a href="' + url(PATHS['game'], lang) + '">Puzzle Spark</a><span>/</span><span aria-current="page">' + esc(t[kind]) + '</span>') + '</nav>'
 
-    logo = '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-puzzle-icon.png' if theme == 'block-puzzle' else '/assets/spark.svg' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
-    ogimage = '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-preview-home.png' if theme == 'block-puzzle' else '/assets/puzzle-spark-icon.png' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
-    theme_color = '#ff2e93' if theme in ('arrow', 'gumball') else '#3fa9f5' if theme == 'kitty' else '#d81b60' if theme == 'candy' else '#090d1a' if theme == 'block-puzzle' else '#173e30' if theme == 'puzzle-spark' else '#152642'
+    logo = '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-puzzle-icon.png' if theme == 'block-puzzle' else '/assets/spark.svg' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
+    ogimage = '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-preview-home.png' if theme == 'block-puzzle' else '/assets/puzzle-spark-icon.png' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
+    theme_color = '#ff2e93' if theme in ('arrow', 'gumball') else '#3fa9f5' if theme == 'kitty' else '#45b8ff' if theme == 'plop' else '#d81b60' if theme == 'candy' else '#090d1a' if theme == 'block-puzzle' else '#173e30' if theme == 'puzzle-spark' else '#152642'
 
     return f'''<!doctype html>
 <html lang="{lang}"><head><meta charset="utf-8"><meta name="google-site-verification" content="VCgA69MCS2iiEJBLr5-Sl772K8mIju2FWOCB73ZwFCE"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(desc)}"><meta name="theme-color" content="{theme_color}"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="{canonical}"><link rel="alternate" hreflang="en" href="{BASE + path}"><link rel="alternate" hreflang="vi" href="{BASE + url(path, 'vi')}"><link rel="alternate" hreflang="x-default" href="{BASE + path}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{canonical}"><meta property="og:type" content="website"><meta property="og:site_name" content="DVK"><meta property="og:locale" content="{'vi_VN' if lang == 'vi' else 'en_US'}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(desc)}"><meta property="og:image" content="{BASE}{ogimage}"><link rel="icon" type="image/png" href="{logo}"><link rel="stylesheet" href="/assets/site.css">{schema}</head><body data-theme="{theme}"><a class="skip" href="#main">{'Skip to content' if lang == 'en' else 'Đến nội dung'}</a><header><a class="brand" href="{url('/', lang)}" aria-label="DVK home"><img src="/assets/dvk-mark.svg" alt="" width="34" height="34">DVK</a><nav aria-label="{'Main navigation' if lang == 'en' else 'Điều hướng chính'}">{nav}<a class="language" href="{url(path, other)}" lang="{other}" hreflang="{other}">{esc(t['lang'])}</a></nav></header><main id="main">{crumbs}{body}</main><footer><div><a class="brand" href="{url('/', lang)}">DVK</a><p>{esc(t['foot'])}</p><a href="mailto:game@dvk.vn">game@dvk.vn</a></div><div class="footer-links">{footer}</div><small>© 2026 DVK · Apps & Games</small></footer></body></html>'''
@@ -956,6 +976,33 @@ def kitty_game(lang):
     shop = 'Mua hàng tùy chọn: Gỡ quảng cáo ($3.99), gói 10 gợi ý và 30 gợi ý. Mọi giao dịch mua, liên kết ra ngoài và việc tham gia bảng xếp hạng đều nằm sau cổng phụ huynh.' if vi else 'Optional purchases: No Ads ($3.99), 10 hints and 30 hints. All purchases, outside links and joining the leaderboard are behind a parental gate.'
     return f'''<section class="page-head game-page-head"><div><p class="eyebrow">WINPLAY STUDIO · KITTY CORNERS</p><h1>{title}</h1><p class="lead">{esc(intro)}</p><div style="display:flex; gap:12px; flex-wrap:wrap; margin:24px 0;"><span class="pill">iOS · iPadOS · Android</span><span class="pill">{'Sắp ra mắt' if vi else 'Coming soon'}</span></div><div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:28px;"><a class="button" href="{url(PATHS['kitty_privacy'], lang)}">{'Chính sách quyền riêng tư →' if vi else 'Privacy Policy →'}</a><a class="button" href="{url(PATHS['kitty_terms'], lang)}" style="background:#3b2560; color:#fff;">{'Điều khoản sử dụng' if vi else 'Terms of Use'}</a></div></div><div style="display:grid; place-items:center;"><img src="/assets/kitty-corners-icon.png" alt="Kitty Corners icon" width="220" height="220" style="border-radius:44px; box-shadow:0 20px 40px rgba(63,169,245,0.28); border:3px solid #fff;"></div></section><section style="padding: 20px 48px 60px;"><h2 style="color:#3b2560; margin-bottom:28px;">{'Tính năng' if vi else 'Features'}</h2><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:20px;">{cards}</div><h2 style="color:#3b2560; margin:48px 0 28px;">{'5 chế độ chơi' if vi else '5 play modes'}</h2><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:20px;">{mode_cards}</div><p class="quiet" style="margin-top:32px;">{esc(shop)}</p></section>'''
 
+def plop_legal(kind, lang):
+    t = TEXT[lang]
+    data_key = 'plop_privacy' if 'privacy' in kind else 'plop_terms'
+    title_key = 'plop_privacytitle' if 'privacy' in kind else 'plop_termstitle'
+    lead_key = 'plop_privacylead' if 'privacy' in kind else 'plop_termslead'
+    sections = ''.join('<section id="section-' + str(i + 1) + '"><h2>' + esc(a) + '</h2>' + paragraph(b) + '</section>' for i, (a, b) in enumerate(DATA[data_key][lang]))
+    eff = 'Hiệu lực: 23/10/2026' if lang == 'vi' else 'Effective: October 23, 2026'
+    return f'''<section class="page-head legal-head"><p class="eyebrow">PLOP · {esc(eff)}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WinPlay Studio · DVK · game@dvk.vn</p></section><div class="legal-body">{sections}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
+
+def plop_game(lang):
+    vi = lang == 'vi'
+    title = 'Plop: Word Ladder Puzzle'
+    intro = 'Game bậc thang chữ tiếng Anh vui nhộn! Đổi từng chữ cái một để leo từ từ bắt đầu lên từ đích, và mỗi bước đều phải là một từ tiếng Anh có thật. Về đích với ít bước nhất (par) để nhận 3 sao. Chơi cùng Plop, chú bánh xoáy hoạt hình đáng yêu, trên iPhone, iPad và Android.' if vi else 'A cheerful word ladder puzzle! Change one letter at a time to climb from the start word to the goal word, and every step must be a real English word. Reach the goal in the fewest steps (par) for 3 stars. Play with Plop, a cute cartoon swirl, on iPhone, iPad and Android.'
+    feats = [
+        ('🪜 400 màn, 20 thế giới' if vi else '🪜 400 levels, 20 worlds', 'Các màn được kiểm tra thủ công với từ 3, 4 và 5 chữ cái, màn trùm mỗi 10 màn, sau đó là màn chơi tạo tự động không giới hạn.' if vi else 'Hand-checked levels with 3-, 4- and 5-letter words, a boss level every 10 levels, then endless generated levels.'),
+        ('💩 Daily Plop' if vi else '💩 Daily Plop', 'Mỗi ngày một câu đố chung cho mọi người, từ đích luôn là POOP. Giữ chuỗi ngày chơi và chia sẻ kết quả kiểu Wordle mà không lộ từ nào.' if vi else 'One shared puzzle a day whose goal is always POOP. Keep your streak and share a Wordle-style result with no words revealed.'),
+        ('🍦 9 vị Plop' if vi else '🍦 9 Plop flavors', 'Dùng sao kiếm được để mở khoá 9 màu vị cho Plop.' if vi else 'Earn stars to unlock 9 flavor colors for Plop.'),
+        ('💡 Gợi ý từng bước' if vi else '💡 Step-by-step hints', 'Bí thì xin gợi ý cho bước tiếp theo.' if vi else 'Stuck? Get a hint for the next step.'),
+        ('🧒 Chế độ Dễ cho bé' if vi else '🧒 Easy mode for little kids', 'Chữ cái cần đổi phát sáng, và các phím tạo ra từ có thật được làm nổi bật.' if vi else 'The letter to change glows, and keys that make real words light up.'),
+        ('🎁 Quà mỗi 2 giờ' if vi else '🎁 Free gift every 2 hours', 'Quay lại nhận quà miễn phí, cùng lời nhắc hằng ngày tùy chọn (mặc định tắt).' if vi else 'Come back for a free gift, plus optional daily reminders (off by default).'),
+        ('🎵 Lồng tiếng & nhạc hoạt hình' if vi else '🎵 Voiced guide & cartoon music', 'Lời dẫn lồng tiếng và nhạc nền vui nhộn.' if vi else 'A voiced guide and cheerful cartoon music.'),
+        ('👨‍👩‍👧 An toàn cho gia đình' if vi else '👨‍👩‍👧 Family friendly', 'Bộ từ đã loại bỏ từ xúc phạm, không tài khoản, quảng cáo chế độ trẻ em, cổng phụ huynh cho mua hàng, liên kết và chia sẻ.' if vi else 'Offensive words removed from the word list, no accounts, child-directed ads and a parental gate for purchases, links and sharing.'),
+    ]
+    cards = ''.join(f'<div class="detail-row" style="padding:22px; border-radius:22px; background:#fff; border:1px solid #cdeaff;"><h3 style="margin:0 0 8px;">{esc(a)}</h3><p style="margin:0;">{esc(b)}</p></div>' for a, b in feats)
+    shop = 'Mua hàng tùy chọn: Gỡ quảng cáo, gói 10 gợi ý và 30 gợi ý. Mọi giao dịch mua, liên kết ra ngoài và việc chia sẻ đều nằm sau cổng phụ huynh.' if vi else 'Optional purchases: No Ads, 10 hints and 30 hints. All purchases, outside links and sharing are behind a parental gate.'
+    return f'''<section class="page-head game-page-head"><div><p class="eyebrow">WINPLAY STUDIO · PLOP</p><h1>{title}</h1><p class="lead">{esc(intro)}</p><div style="display:flex; gap:12px; flex-wrap:wrap; margin:24px 0;"><span class="pill">iOS · iPadOS · Android</span><span class="pill">{'Sắp ra mắt' if vi else 'Coming soon'}</span></div><div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:28px;"><a class="button" href="{url(PATHS['plop_privacy'], lang)}">{'Chính sách quyền riêng tư →' if vi else 'Privacy Policy →'}</a><a class="button" href="{url(PATHS['plop_terms'], lang)}" style="background:#4b2378; color:#fff;">{'Điều khoản sử dụng' if vi else 'Terms of Use'}</a></div></div><div style="display:grid; place-items:center;"><img src="/assets/plop-icon.png" alt="Plop icon" width="220" height="220" style="border-radius:44px; box-shadow:0 20px 40px rgba(69,184,255,0.28); border:3px solid #fff;"></div></section><section style="padding: 20px 48px 60px;"><h2 style="color:#4b2378; margin-bottom:28px;">{'Tính năng' if vi else 'Features'}</h2><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:20px;">{cards}</div><p class="quiet" style="margin-top:32px;">{esc(shop)}</p></section>'''
+
 def arrow_game(lang):
     vi = lang == 'vi'
     title = 'Arrow Escape: Candy Puzzle'
@@ -1051,7 +1098,7 @@ def siteprivacy(lang):
     vi = lang == 'vi'
     title = 'Quyền riêng tư trên dvk.vn' if vi else 'Privacy on dvk.vn'
     intro = 'Chính sách dành cho website giới thiệu DVK. Mỗi ứng dụng có chính sách dữ liệu riêng.' if vi else 'Privacy information for the DVK website. Each app has its own data policy.'
-    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['arrow_privacy'], lang) + '"><strong>Arrow Escape: Candy Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['gumball_privacy'], lang) + '"><strong>Gumball Sort: Ball Sort Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['kitty_privacy'], lang) + '"><strong>Kitty Corners: Cat Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
+    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['arrow_privacy'], lang) + '"><strong>Arrow Escape: Candy Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['gumball_privacy'], lang) + '"><strong>Gumball Sort: Ball Sort Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['kitty_privacy'], lang) + '"><strong>Kitty Corners: Cat Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['plop_privacy'], lang) + '"><strong>Plop: Word Ladder Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
 
 def support(lang):
     t = TEXT[lang]
@@ -1091,6 +1138,12 @@ for lang in ['en', 'vi']:
         elif kind == 'kitty_privacy' or kind == 'kitty_terms':
             body = kitty_legal(kind, lang)
             title = TEXT[lang][('kitty_privacytitle' if kind == 'kitty_privacy' else 'kitty_termstitle')]
+        elif kind == 'plop_game':
+            body = plop_game(lang)
+            title = 'Plop: Word Ladder Puzzle'
+        elif kind == 'plop_privacy' or kind == 'plop_terms':
+            body = plop_legal(kind, lang)
+            title = TEXT[lang][('plop_privacytitle' if kind == 'plop_privacy' else 'plop_termstitle')]
         elif kind == 'candy_game':
             body = candy_game(lang)
             title = 'Smart Candy: Match 3 — Game Xếp Kẹo Ngọt Ngào' if lang == 'vi' else 'Smart Candy: Match 3 — Sweet Adventure Puzzle'
