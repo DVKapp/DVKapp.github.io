@@ -318,124 +318,124 @@
  "candy_privacy": {
   "en": [
    [
-    "1. Overview & Developer Information",
-    "Smart Candy - Match 3 (Package: com.smartcandy.match3) is a casual puzzle game developed and published by WIN Entertainments and distributed under DVK (https://dvk.vn). Developer Contact: kietdovanapp@gmail.com / game@dvk.vn. Effective Date: October 20, 2026. We are deeply committed to safeguarding your privacy. Smart Candy - Match 3 is designed as an offline-first casual game. No account registration is required to enjoy the full game experience, and we do not collect personal identifiers such as your real name, email address, physical address, contact list, or biometric data."
+    "1. Who operates the game",
+    "Smart Candy - Match 3 (Android package com.smartcandy.match3) is provided by WIN Entertainments / DVK. This policy applies to the Android game, including its advertising, purchases and Google services. Updated: 23 October 2026. Contact: game@dvk.vn or kietdovanapp@gmail.com. The official policy is maintained at https://dvk.vn/smart-candy/privacy/."
    ],
    [
-    "2. Offline-First Architecture & On-Device Storage",
-    "Your gameplay data—including completed levels, star achievements, high scores, coin balances, lives, booster items, and audio preferences—is stored locally and securely on your device. Zero cloud registration or external server synchronization is needed. Because your save data is hosted entirely on your physical hardware, uninstalling the application or clearing application storage in Android system settings will permanently reset your local gameplay progress."
+    "2. Progress saved on your device",
+    "You do not need to create a player account to play. Levels, stars, scores, coins, lives, boosters and preferences are saved on your device. Clearing app storage or uninstalling can remove this progress. Android device backup may also apply according to your device settings; we do not promise cloud recovery of game progress. Advertising, purchases and Google services use an internet connection even though the puzzle gameplay can work offline."
    ],
    [
-    "3. Google Play In-App Purchases (IAP)",
-    "Smart Candy - Match 3 offers optional in-app purchases for coin packs, extra moves, lives, and tactical booster items. All monetary transactions are processed, authorized, and secured exclusively by the Google Play Store via Google Play Billing Library (Version 8+). WIN Entertainments and DVK never access, capture, or store your credit card, debit card, bank credentials, or physical billing details. All financial purchases are governed strictly by the Google Play Terms of Service."
+    "3. Advertising and information processed by Google",
+    "The game includes Google Mobile Ads (AdMob). The SDK may collect and share your IP address (which can indicate an approximate location), advertising or other device identifiers, app/ad interactions, and diagnostic information such as performance and error reports. Google uses this information to serve and measure ads, provide analytics, and prevent fraud. These identifiers and technical records are not necessarily anonymous. We do not request access to precise device location, contacts, photos or your microphone for gameplay. Google explains its processing at policies.google.com/privacy and policies.google.com/technologies/ads."
    ],
    [
-    "4. Advertising & Device Identifiers (Google AdMob & UMP)",
-    "To support ongoing maintenance and keep Smart Candy - Match 3 free to play, the game integrates Google Mobile Ads (AdMob, Publisher: pub-3636940103463538). In full accordance with our Google Play Data Safety declaration, Google Mobile Ads SDK and Google Play Services may collect and transmit: (a) Device or other IDs (such as Google Advertising ID / AAID); (b) Non-identifiable diagnostic metrics (ad impressions, performance, interaction events). All data is encrypted in transit using industry-standard HTTPS protocols. We integrate the Google User Messaging Platform (UMP) consent framework. Players in the European Economic Area (EEA), United Kingdom, and jurisdictions with privacy statutes can review, customize, or revoke consent for personalized advertising cookies and device identifiers at any time. You can also reset or delete your Google Advertising ID via Android Settings > Google > Ads."
+    "4. Consent and advertising choices",
+    "Where required, Google User Messaging Platform presents a consent message with choices to consent, decline or manage options. In the updated Android game, open Privacy & Terms and select Ad privacy choices when that option is available to review the applicable consent form. You can continue puzzle gameplay if an ad is unavailable or you decline optional consent. Android settings also let you manage or delete your advertising ID and control app permissions. Changing an ad choice does not itself delete information already processed by Google."
    ],
    [
-    "5. Performance Analytics & Diagnostics",
-    "We utilize Firebase Analytics and Google Play Core telemetry to collect anonymous, aggregated technical metrics (such as framerate consistency, level pass rates, and crash stack traces). This data is used solely to resolve stability bugs, optimize game performance across various Android hardware configurations, and balance game stage difficulties."
+    "5. Firebase and notifications",
+    "The Android app includes Firebase Analytics and Firebase Cloud Messaging. Google may process installation identifiers, app instance identifiers, device/app details, usage events and diagnostics for analytics and service operation. Messaging uses an installation identifier and registration token to route notifications. You can control notification permission in Android settings; disabling notifications does not by itself delete analytics or installation records. For service details and retention, see https://firebase.google.com/support/privacy."
    ],
    [
-    "6. Family Friendly & Children's Privacy (COPPA & GDPR-K)",
-    "Smart Candy - Match 3 is crafted as an accessible, family-friendly puzzle experience suitable for audiences of all ages. We comply with the Children's Online Privacy Protection Act (COPPA), GDPR-K, and Google Play Families Policy requirements. We do not knowingly collect personal information from children under the age of 13 (or under 16 in applicable European territories). Where required by law or platform policies, advertising requests are flagged for child-directed treatment (TFCD/TFUA), serving strictly contextual, non-targeted family-appropriate advertisements."
+    "6. Purchases and support",
+    "Optional in-app purchases are processed by Google Play Billing. The app receives purchase status, product information and purchase tokens or receipts needed to deliver or restore supported purchases. We do not receive your full payment card or bank credentials. Google processes payment information under its own policies. If you email support, we receive your email address, message and any diagnostic details you choose to provide. Do not send passwords or payment card details."
    ],
    [
-    "7. Data Retention & Your Privacy Rights (GDPR & CCPA)",
-    "Because we maintain no remote user databases or account systems, you retain autonomous control over your game data directly on your device. You may erase all locally stored data at any time via Android Settings > Apps > Smart Candy - Match 3 > Storage > Clear Data. Under GDPR, CCPA/CPRA, and relevant privacy legislation, you have the right to inquire about data processing practices or withdraw ad consent. For inquiries, contact our Data Protection desk at kietdovanapp@gmail.com or game@dvk.vn."
+    "7. Retention, deletion and your rights",
+    "Local saves remain until removed from your device, subject to device backup settings. Google services retain data according to their service settings and privacy policies; clearing game storage does not guarantee deletion of records already held by those services. Depending on applicable law, you may request access, correction, deletion or object to certain processing by contacting game@dvk.vn. Describe your request and the app name; we may need proportionate information to identify records. We cannot identify every advertising record from a player name because the game has no player account. Support messages are retained only as needed to handle the request and applicable recordkeeping obligations."
+   ],
+   [
+    "8. Children, security and updates",
+    "The game contains advertising and optional purchases. Parents and guardians should supervise use, purchases and Android privacy settings. We do not ask children to enter a name or contact information through gameplay. Contact game@dvk.vn if you believe a child has provided personal information and request appropriate action. Data sent by the Google SDKs uses encrypted transport; no system can guarantee absolute security. Providers may process information in other countries under their published safeguards. Changes to this policy will appear on this page with an updated date; material changes will be communicated as appropriate."
    ]
   ],
   "vi": [
    [
-    "1. Tổng Quan & Thông Tin Nhà Phát Triển",
-    "Smart Candy - Match 3 (Package: com.smartcandy.match3) là trò chơi xếp hình kẹo ngọt giải trí được phát triển và phát hành bởi WIN Entertainments, thuộc hệ sinh thái trò chơi DVK (https://dvk.vn). Email liên hệ nhà phát triển: kietdovanapp@gmail.com / game@dvk.vn. Ngày cập nhật hiệu lực: 20 tháng 10 năm 2026. Chúng tôi tôn trọng tuyệt đối quyền riêng tư của người dùng. Smart Candy - Match 3 được thiết kế theo tiêu chí offline-first, không yêu cầu người dùng phải đăng ký tài khoản, không thu thập họ tên, địa chỉ email, số điện thoại, danh bạ hay dữ liệu cá nhân nhạy cảm."
+    "1. Đơn vị cung cấp trò chơi",
+    "Smart Candy - Match 3 (gói Android com.smartcandy.match3) do WIN Entertainments / DVK cung cấp. Chính sách áp dụng cho game Android, quảng cáo, giao dịch mua hàng và các dịch vụ Google tích hợp. Cập nhật: 23/10/2026. Liên hệ: game@dvk.vn hoặc kietdovanapp@gmail.com. Chính sách chính thức được quản lý tập trung tại https://dvk.vn/smart-candy/privacy/."
    ],
    [
-    "2. Kiến Trúc Offline & Lưu Trữ Dữ Liệu Cục Bộ",
-    "Toàn bộ tiến trình chơi game của bạn—bao gồm cấp độ đã mở khóa, số sao đạt được, điểm số kỷ lục, số lượng xu vàng, mạng sống, vật phẩm bổ trợ (booster) và cài đặt âm thanh—được lưu trữ an toàn và cục bộ trực tiếp trên bộ nhớ thiết bị của bạn. Trò chơi có thể hoạt động hoàn toàn độc lập mà không cần kết nối mạng. Do dữ liệu được lưu trên phần cứng của bạn, việc gỡ cài đặt ứng dụng hoặc xóa dữ liệu ứng dụng trong cài đặt máy Android sẽ đặt lại tiến trình chơi về trạng thái ban đầu."
+    "2. Tiến trình lưu trên thiết bị",
+    "Bạn không cần tạo tài khoản người chơi. Màn chơi, sao, điểm, xu, mạng, vật phẩm và tùy chọn được lưu trên thiết bị. Xóa bộ nhớ ứng dụng hoặc gỡ cài đặt có thể làm mất tiến trình. Android có thể sao lưu theo cài đặt thiết bị; chúng tôi không cam kết khôi phục tiến trình từ đám mây. Phần giải đố có thể chơi ngoại tuyến, nhưng quảng cáo, mua hàng và dịch vụ Google sử dụng kết nối internet."
    ],
    [
-    "3. Giao Dịch Mua Vật Phẩm (Google Play Billing)",
-    "Smart Candy - Match 3 cung cấp các gói mua vật phẩm tùy chọn trong game (như gói xu, thêm lượt đi, hồi phục mạng và các combo kẹo đặc biệt). Mọi giao dịch tài chính đều được xử lý, xác thực và bảo mật 100% bởi hệ thống Google Play thông qua Google Play Billing Library (phiên bản 8+). WIN Entertainments và DVK không thu thập, không lưu trữ và không tiếp cận thông tin thẻ tín dụng, tài khoản ngân hàng hay địa chỉ thanh toán của bạn. Các giao dịch tuân thủ nghiêm ngặt Điều khoản dịch vụ của Google Play."
+    "3. Quảng cáo và dữ liệu Google xử lý",
+    "Game tích hợp Google Mobile Ads (AdMob). SDK có thể thu thập và chia sẻ địa chỉ IP (có thể suy ra vị trí gần đúng), mã quảng cáo hoặc mã thiết bị khác, tương tác với ứng dụng/quảng cáo và thông tin chẩn đoán như hiệu suất, lỗi. Google sử dụng dữ liệu để phân phối, đo lường quảng cáo, phân tích và chống gian lận. Các mã và bản ghi kỹ thuật này không nhất thiết là dữ liệu ẩn danh. Game không yêu cầu quyền vị trí chính xác, danh bạ, ảnh hay micro để chơi. Thông tin của Google: policies.google.com/privacy và policies.google.com/technologies/ads."
    ],
    [
-    "4. Quảng Cáo & Mã Nhận Dạng Thiết Bị (Google AdMob & UMP)",
-    "Để duy trì trò chơi hoàn toàn miễn phí cho mọi người, Smart Candy - Match 3 hiển thị quảng cáo từ mạng lưới Google Mobile Ads (AdMob, Publisher: pub-3636940103463538). Đúng như đã khai báo minh bạch trong mục An toàn Dữ liệu trên Google Play, SDK AdMob và dịch vụ Google Play có thể thu thập và truyền: (a) Mã nhận dạng thiết bị (chẳng hạn như Google Advertising ID / AAID); (b) Các thông số đo lường hiệu suất phi cá nhân (lượt hiển thị quảng cáo, tương tác). Toàn bộ dữ liệu được mã hóa trong quá trình truyền tải qua giao thức HTTPS. Chúng tôi tích hợp khung thu thập sự đồng ý Google User Messaging Platform (UMP), cho phép người dùng tại Khu vực Kinh tế Châu Âu (EEA), Vương quốc Anh và các khu vực có quy định riêng tư có thể chủ động chấp nhận, tùy chỉnh hoặc từ chối quảng cáo cá nhân hóa. Bạn cũng có thể đặt lại hoặc xóa Mã nhận dạng quảng cáo trong mục Cài đặt Android > Google > Quảng cáo."
+    "4. Sự đồng ý và lựa chọn quảng cáo",
+    "Khi cần, Google User Messaging Platform hiển thị biểu mẫu với lựa chọn đồng ý, không đồng ý hoặc quản lý tùy chọn. Trong bản Android cập nhật, mở Privacy & Terms rồi chọn Ad privacy choices khi lựa chọn này khả dụng để xem lại biểu mẫu áp dụng. Bạn vẫn có thể chơi giải đố khi quảng cáo không có hoặc từ chối sự đồng ý tùy chọn. Cài đặt Android cho phép quản lý hoặc xóa mã quảng cáo và kiểm soát quyền ứng dụng. Đổi lựa chọn quảng cáo không tự xóa dữ liệu Google đã xử lý."
    ],
    [
-    "5. Phân Tích Hiệu Năng & Báo Lỗi Ứng Dụng",
-    "Chúng tôi sử dụng Firebase Analytics và Google Play Core để thu thập các số liệu kỹ thuật tổng hợp ẩn danh (như tỉ lệ vượt màn, độ ổn định khung hình, báo cáo sự cố ứng dụng). Dữ liệu này chỉ phục vụ duy nhất mục đích khắc phục lỗi kỹ thuật, cân bằng độ khó của các màn chơi và tối ưu hóa trải nghiệm game trên nhiều dòng máy Android khác nhau."
+    "5. Firebase và thông báo",
+    "Ứng dụng Android có Firebase Analytics và Firebase Cloud Messaging. Google có thể xử lý mã cài đặt, mã phiên bản ứng dụng, thông tin thiết bị/ứng dụng, sự kiện sử dụng và dữ liệu chẩn đoán để phân tích, vận hành dịch vụ. Messaging dùng mã cài đặt và token đăng ký để chuyển thông báo tới thiết bị. Bạn có thể kiểm soát quyền thông báo trong cài đặt Android; tắt thông báo không tự xóa dữ liệu phân tích hoặc mã cài đặt. Chi tiết xử lý và lưu giữ: https://firebase.google.com/support/privacy."
    ],
    [
-    "6. Thân Thiện Gia Đình & Bảo Vệ Trẻ Em (COPPA & GDPR-K)",
-    "Smart Candy - Match 3 là trò chơi giải đố lành mạnh, phù hợp với mọi lứa tuổi trong gia đình. Chúng tôi tuân thủ đầy đủ Đạo luật bảo vệ quyền riêng tư của trẻ em trên mạng (COPPA), GDPR-K và Chính sách Gia đình của Google Play. Chúng tôi không chủ đích thu thập dữ liệu cá nhân của trẻ em dưới 13 tuổi (hoặc dưới 16 tuổi tại châu Âu). Khi có yêu cầu theo quy định, các yêu cầu quảng cáo được gắn nhãn xử lý dành riêng cho trẻ em (TFCD/TFUA) để chỉ phục vụ các quảng cáo theo ngữ cảnh an toàn, không theo dõi hành vi."
+    "6. Mua hàng và hỗ trợ",
+    "Giao dịch tùy chọn được xử lý qua Google Play Billing. Game nhận trạng thái mua, thông tin sản phẩm và token hoặc biên nhận cần thiết để cấp hay khôi phục giao dịch được hỗ trợ. Chúng tôi không nhận đầy đủ thông tin thẻ hoặc tài khoản ngân hàng. Google xử lý thanh toán theo chính sách của Google. Khi bạn gửi email hỗ trợ, chúng tôi nhận địa chỉ email, nội dung và thông tin chẩn đoán bạn chủ động gửi. Không gửi mật khẩu hoặc thông tin thẻ thanh toán."
    ],
    [
-    "7. Lưu Trữ Dữ Liệu & Quyền Lợi Của Người Dùng (GDPR & CCPA)",
-    "Vì chúng tôi không lưu giữ tài khoản người dùng trên máy chủ đám mây, bạn nắm quyền kiểm soát tuyệt đối dữ liệu của mình trên thiết bị. Bạn có thể xóa toàn bộ dữ liệu game bất kỳ lúc nào bằng cách vào Cài đặt Android > Ứng dụng > Smart Candy - Match 3 > Lưu trữ > Xóa dữ liệu. Theo quy định GDPR, CCPA/CPRA và các luật bảo vệ người tiêu dùng, bạn có quyền tra cứu thông tin hoặc khiếu nại về quyền riêng tư. Vui lòng gửi email đến bộ phận bảo vệ dữ liệu của chúng tôi: kietdovanapp@gmail.com hoặc game@dvk.vn."
+    "7. Lưu giữ, xóa dữ liệu và quyền của bạn",
+    "Dữ liệu lưu cục bộ tồn tại tới khi bị xóa trên thiết bị, tùy cài đặt sao lưu. Dịch vụ Google lưu dữ liệu theo cấu hình và chính sách của từng dịch vụ; xóa dữ liệu game không bảo đảm xóa các bản ghi đã gửi cho Google. Tùy pháp luật áp dụng, bạn có thể yêu cầu truy cập, sửa, xóa hoặc phản đối một số hoạt động xử lý qua game@dvk.vn. Hãy nêu tên game và yêu cầu; chúng tôi có thể cần thông tin phù hợp để xác định bản ghi. Game không có tài khoản nên không thể tìm mọi bản ghi quảng cáo chỉ bằng tên người chơi. Email hỗ trợ chỉ được giữ trong thời gian cần giải quyết yêu cầu và đáp ứng nghĩa vụ lưu hồ sơ áp dụng."
+   ],
+   [
+    "8. Trẻ em, bảo mật và cập nhật",
+    "Game có quảng cáo và mua hàng tùy chọn. Cha mẹ, người giám hộ nên giám sát việc sử dụng, giao dịch và cài đặt riêng tư Android. Game không yêu cầu trẻ nhập tên hoặc thông tin liên hệ trong quá trình chơi. Liên hệ game@dvk.vn nếu bạn cho rằng trẻ đã cung cấp dữ liệu cá nhân và cần xử lý. SDK Google dùng kết nối mã hóa khi truyền dữ liệu; không hệ thống nào bảo đảm an toàn tuyệt đối. Nhà cung cấp có thể xử lý dữ liệu ở quốc gia khác theo biện pháp bảo vệ công bố. Thay đổi chính sách được ghi trên trang này cùng ngày cập nhật; thay đổi quan trọng được thông báo theo cách phù hợp."
    ]
   ]
  },
  "candy_terms": {
   "en": [
    [
-    "1. Acceptance of Terms",
-    "By downloading, installing, or playing Smart Candy - Match 3, you agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please discontinue playing and uninstall the application. These terms constitute a legally binding agreement between you and WIN Entertainments / DVK."
+    "1. Scope and contact",
+    "These terms cover Smart Candy - Match 3 for Android (com.smartcandy.match3), provided by WIN Entertainments / DVK. Updated: 23 October 2026. Official terms: https://dvk.vn/smart-candy/terms/. Privacy policy: https://dvk.vn/smart-candy/privacy/. Contact game@dvk.vn for support. Use the game in accordance with these terms and applicable law."
    ],
    [
-    "2. License Grant & Permitted Use",
-    "We grant you a personal, revocable, non-exclusive, non-transferable, limited license to download, install, and play Smart Candy - Match 3 on personal Android devices solely for non-commercial, personal entertainment purposes in compliance with these terms."
+    "2. Playing and fair use",
+    "You may install and play the game for personal entertainment. Do not use it to distribute malware, interfere with services, exploit payment or reward systems, or access another person's information. Do not copy or distribute protected game assets without permission, except where applicable law permits. Parents or guardians should supervise minors and authorize purchases when required."
    ],
    [
-    "3. Virtual Items, Boosters & In-Game Currency",
-    "The game features virtual currency (coins), extra lives, and tactical booster items (color bombs, striped candies, candy hammers). Virtual items are licensed, not sold, have zero real-world monetary value, and cannot be redeemed, transferred, or exchanged for fiat currency or physical goods outside the game."
+    "3. Coins, lives, boosters and rewards",
+    "Virtual items are used only within the game. They are not money, have no cash redemption value and cannot be traded for real-world goods through the game. Availability and game rules may change with updates, subject to applicable consumer rights. Rewarded ads are optional: a reward is granted when the advertising SDK confirms the required viewing condition, not merely when an ad is opened or closed. Ads may be unavailable because of connectivity, consent or ad supply."
    ],
    [
-    "4. Fair Play & Prohibited Conduct",
-    "You agree not to: (a) Modify, reverse engineer, decompile, or extract source code from the application; (b) Use automated bots, cheats, memory injectors, or exploits to bypass game mechanics; (c) Interfere with or disrupt ad networks or security mechanisms of the application."
+    "4. Purchases and refunds",
+    "Prices and currency are shown by Google Play before purchase. Do not complete a purchase unless its final price and product are clear. Google Play processes payment and provides purchase records. Refund requests are handled under Google Play's applicable policies and your statutory rights; these terms do not impose a blanket no-refund rule. Consumable items may not be restorable after use or loss of local data. Contact support with the product and order reference if delivery fails; never send card details or passwords."
    ],
    [
-    "5. Intellectual Property Rights",
-    "All game assets—including visual candy art, characters, audio tracks, sound effects, level design algorithms, brand names, and source code—are the proprietary intellectual property of WIN Entertainments and DVK, protected by domestic and international copyright laws."
+    "5. Progress and availability",
+    "Progress is stored locally and may be lost if app data is cleared, the game is uninstalled or a device is lost. Device backup is controlled by Android settings and is not a guaranteed game recovery service. Network features, ads and purchases require connectivity and third-party availability. We aim to fix defects but do not promise uninterrupted availability or compatibility with every device."
    ],
    [
-    "6. Disclaimer of Warranties & Limitation of Liability",
-    "Smart Candy - Match 3 is provided on an 'AS IS' and 'AS AVAILABLE' basis without warranties of any kind. To the maximum extent permitted by applicable law, WIN Entertainments and DVK disclaim all liability for any indirect, incidental, or consequential damages resulting from your use of or inability to access the game."
-   ],
-   [
-    "7. Governing Law & Contact",
-    "These terms shall be governed by and construed in accordance with applicable laws. If you have questions regarding these Terms of Use or wish to submit feedback, contact our support team at kietdovanapp@gmail.com or game@dvk.vn."
+    "6. Updates, rights and help",
+    "We may update the game and these terms to reflect feature, security or service changes. The current version and date are published here; significant changes will be communicated appropriately. Nothing in these terms excludes rights or remedies that cannot lawfully be excluded under applicable consumer law. You may stop using the game at any time. For bugs, purchase delivery or privacy requests, contact game@dvk.vn."
    ]
   ],
   "vi": [
    [
-    "1. Chấp Thuận Điều Khoản",
-    "Bằng việc tải xuống, cài đặt hoặc trải nghiệm trò chơi Smart Candy - Match 3, bạn xác nhận đồng ý tuân thủ toàn bộ các Điều khoản Sử dụng này cùng Chính sách Quyền riêng tư của chúng tôi. Nếu bạn không đồng ý với bất kỳ điều khoản nào, vui lòng ngừng chơi và gỡ cài đặt ứng dụng. Thỏa thuận này có giá trị pháp lý ràng buộc giữa người chơi và WIN Entertainments / DVK."
+    "1. Phạm vi và liên hệ",
+    "Điều khoản áp dụng cho Smart Candy - Match 3 trên Android (com.smartcandy.match3), do WIN Entertainments / DVK cung cấp. Cập nhật: 23/10/2026. Điều khoản chính thức: https://dvk.vn/smart-candy/terms/. Chính sách riêng tư: https://dvk.vn/smart-candy/privacy/. Liên hệ hỗ trợ: game@dvk.vn. Sử dụng game theo điều khoản và pháp luật áp dụng."
    ],
    [
-    "2. Cấp Phép & Quyền Sử Dụng Hợp Pháp",
-    "Chúng tôi cấp cho bạn quyền sử dụng cá nhân, có thể hủy bỏ, phi độc quyền, không thể chuyển nhượng để tải, cài đặt và chơi Smart Candy - Match 3 trên các thiết bị Android cá nhân với mục đích giải trí phi thương mại theo đúng quy định."
+    "2. Chơi game và sử dụng hợp lệ",
+    "Bạn được cài và chơi game cho mục đích giải trí cá nhân. Không phân phối mã độc, cản trở dịch vụ, lợi dụng hệ thống thanh toán/phần thưởng hay truy cập dữ liệu của người khác. Không sao chép, phân phối tài sản game được bảo hộ khi chưa có quyền, trừ trường hợp pháp luật cho phép. Cha mẹ hoặc người giám hộ cần giám sát trẻ và cho phép giao dịch khi được yêu cầu."
    ],
    [
-    "3. Vật Phẩm Ảo, Bảo Bối & Tiền Tệ Trong Game",
-    "Trò chơi có hệ thống tiền tệ ảo (xu vàng), mạng sống và các bảo bối trợ giúp (bom màu, kẹo sọc, búa kẹo). Các vật phẩm này được cấp quyền sử dụng trong game, không phải tài sản sở hữu thực tế, không có giá trị quy đổi ra tiền mặt hoặc tài sản ngoài đời thực và không thể chuyển nhượng cho người chơi khác."
+    "3. Xu, mạng, vật phẩm và phần thưởng",
+    "Vật phẩm ảo chỉ dùng trong game, không phải tiền, không có giá trị đổi tiền mặt và không được trao đổi thành hàng hóa ngoài đời thông qua game. Tính năng và luật chơi có thể thay đổi theo bản cập nhật, phù hợp quyền người tiêu dùng. Xem quảng cáo nhận thưởng là tùy chọn; chỉ cấp thưởng khi SDK xác nhận đã đạt điều kiện xem, không cấp chỉ vì mở hoặc đóng quảng cáo. Quảng cáo có thể không có do kết nối, lựa chọn riêng tư hoặc nguồn cung."
    ],
    [
-    "4. Chơi Game Công Bằng & Hành Vi Bị Nghiêm Cấm",
-    "Người chơi cam kết không thực hiện các hành vi sau: (a) Chỉnh sửa, dịch ngược, phân tích mã nguồn hoặc can thiệp vào tệp nhị phân của ứng dụng; (b) Sử dụng phần mềm can thiệp (mod, hack, bot, auto) để gian lận cấp độ hoặc vật phẩm; (c) Can thiệp hoặc phá hoại hệ thống phân phối quảng cáo và bảo mật của trò chơi."
+    "4. Mua hàng và hoàn tiền",
+    "Google Play hiển thị giá và tiền tệ trước khi mua. Không xác nhận giao dịch nếu sản phẩm và giá cuối cùng chưa rõ. Google Play xử lý thanh toán và cung cấp hồ sơ mua hàng. Yêu cầu hoàn tiền tuân theo chính sách Google Play và quyền luật định; điều khoản này không áp dụng quy tắc cấm hoàn tiền tuyệt đối. Vật phẩm tiêu hao có thể không khôi phục được sau khi dùng hoặc mất dữ liệu cục bộ. Nếu cấp hàng lỗi, gửi tên sản phẩm và mã đơn cho hỗ trợ; không gửi thông tin thẻ hay mật khẩu."
    ],
    [
-    "5. Quyền Sở Hữu Trí Tuệ",
-    "Toàn bộ tài nguyên trò chơi—bao gồm hình ảnh đồ họa kẹo ngọt, nhân vật, âm nhạc, hiệu ứng âm thanh, thiết kế bản đồ màn chơi, nhãn hiệu và mã nguồn lập trình—thuộc quyền sở hữu trí tuệ độc quyền của WIN Entertainments và DVK, được bảo hộ theo luật sở hữu trí tuệ Việt Nam và quốc tế."
+    "5. Tiến trình và khả năng sử dụng",
+    "Tiến trình lưu cục bộ có thể mất khi xóa dữ liệu, gỡ game hoặc mất thiết bị. Sao lưu thiết bị do Android quản lý, không phải dịch vụ bảo đảm khôi phục game. Tính năng mạng, quảng cáo và mua hàng phụ thuộc kết nối, dịch vụ bên thứ ba. Chúng tôi cố gắng sửa lỗi nhưng không cam kết dịch vụ không gián đoạn hoặc tương thích với mọi thiết bị."
    ],
    [
-    "6. Giới Hạn Trách Nhiệm & Miễn Trừ Bảo Đảm",
-    "Smart Candy - Match 3 được cung cấp theo nguyên tắc 'NGUYÊN TRẠNG' (AS IS). Trong phạm vi tối đa được pháp luật cho phép, WIN Entertainments và DVK không chịu trách nhiệm đối với bất kỳ tổn thất gián tiếp nào phát sinh từ quá trình tải, trải nghiệm hoặc gián đoạn dịch vụ trò chơi."
-   ],
-   [
-    "7. Luật Điều Chỉnh & Kênh Liên Hệ Hỗ Trợ",
-    "Các điều khoản này được diễn giải và điều chỉnh theo quy định pháp luật hiện hành. Nếu bạn có bất kỳ câu hỏi hoặc khiếu nại nào liên quan đến Điều khoản Sử dụng, vui lòng liên hệ đội ngũ hỗ trợ tại kietdovanapp@gmail.com hoặc game@dvk.vn."
+    "6. Cập nhật, quyền lợi và trợ giúp",
+    "Chúng tôi có thể cập nhật game và điều khoản để phản ánh thay đổi tính năng, bảo mật, dịch vụ. Phiên bản và ngày hiện hành được công bố tại đây; thay đổi quan trọng được thông báo phù hợp. Không nội dung nào loại bỏ quyền hoặc biện pháp bảo vệ người tiêu dùng không được phép loại trừ theo luật áp dụng. Bạn có thể dừng sử dụng bất kỳ lúc nào. Báo lỗi, vấn đề cấp hàng hoặc yêu cầu riêng tư: game@dvk.vn."
    ]
   ]
  },

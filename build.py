@@ -53,7 +53,7 @@ SEO = {
         'block_privacy': ('Block Puzzle 8x8 Privacy Policy | DVK', 'Official privacy policy for Block Puzzle 8x8: Neon Master. Details on on-device data storage, in-app purchases, and Google AdMob integration.'),
         'block_terms': ('Block Puzzle 8x8 Terms of Use | DVK', 'Official terms of use for Block Puzzle 8x8: Neon Master. Rules on virtual coins, boosters, permanent No-Ads package, and fair play.'),
         'candy_game': ('Smart Candy: Match 3 — Sweet Puzzle Adventure | DVK', 'Play Smart Candy: Match 3, the colorful sweet puzzle adventure. 100+ stages, striped candies, color bombs, daily rewards, and pure offline play on Android.'),
-        'candy_privacy': ('Smart Candy: Match 3 Privacy Policy | DVK', 'Official privacy policy for Smart Candy: Match 3 (com.smartcandy.match3). Details on on-device data storage, Google Play Billing 8+, AdMob advertising, and COPPA/GDPR compliance.'),
+        'candy_privacy': ('Smart Candy: Match 3 Privacy Policy | DVK', 'Official privacy policy for Smart Candy: Match 3 (com.smartcandy.match3). Details on local saves, advertising identifiers, Firebase, consent choices, purchases and privacy requests.'),
         'arrow_game': ('Arrow Escape: Candy Puzzle — Tap Arrows Brain Game | DVK', 'Arrow Escape: Candy Puzzle for iPhone, iPad and Android. Tap arrows to set them free in 600 cute logic levels with boosters, stickers and family-safe play.'),
         'arrow_privacy': ('Arrow Escape: Candy Puzzle Privacy Policy | DVK', 'Privacy policy for Arrow Escape: Candy Puzzle. No accounts, on-device progress, child-directed non-personalized AdMob ads, parental gate for purchases.'),
         'arrow_terms': ('Arrow Escape: Candy Puzzle Terms of Use | DVK', 'Terms of use for Arrow Escape: Candy Puzzle: virtual coins, boosters, in-app purchases and fair play.'),
@@ -74,7 +74,7 @@ SEO = {
         'block_privacy': ('Chính sách Quyền riêng tư Block Puzzle 8x8 | DVK', 'Chính sách bảo mật chính thức cho Block Puzzle 8x8: Neon Master: Lưu trữ tiến độ cục bộ, thanh toán IAP an toàn, quảng cáo thân thiện.'),
         'block_terms': ('Điều khoản Sử dụng Block Puzzle 8x8 | DVK', 'Điều khoản sử dụng Block Puzzle 8x8: Neon Master: Quy định xu vàng, bảo bối cứu nguy, gói gỡ quảng cáo vĩnh viễn và hỗ trợ người chơi.'),
         'candy_game': ('Smart Candy: Match 3 — Game Xếp Kẹo Ngọt Ngào & Thử Thách Đỉnh Cao | DVK', 'Khám phá Smart Candy: Match 3. Hơn 100 màn xếp kẹo đầy màu sắc, combo kẹo sọc, bom cầu vồng, phần thưởng hằng ngày và chế độ chơi offline 100% không cần Wi-Fi.'),
-        'candy_privacy': ('Chính sách Quyền riêng tư Smart Candy: Match 3 | DVK', 'Chính sách bảo mật chính thức cho Smart Candy: Match 3 (com.smartcandy.match3). Quy định lưu tiến trình cục bộ, thanh toán Google Play Billing, quảng cáo AdMob và tuân thủ an toàn dữ liệu trẻ em.'),
+        'candy_privacy': ('Chính sách Quyền riêng tư Smart Candy: Match 3 | DVK', 'Chính sách bảo mật chính thức cho Smart Candy: Match 3 (com.smartcandy.match3). Quy định lưu tiến trình cục bộ, thanh toán Google Play Billing, quảng cáo AdMob, Firebase, lựa chọn riêng tư và yêu cầu xóa dữ liệu.'),
         'arrow_game': ('Arrow Escape: Candy Puzzle — Game Giải Đố Mũi Tên | DVK', 'Arrow Escape: Candy Puzzle cho iPhone, iPad và Android. Chạm mũi tên để giải phóng chúng qua 600 màn chơi dễ thương, an toàn cho cả gia đình.'),
         'arrow_privacy': ('Chính sách Quyền riêng tư Arrow Escape: Candy Puzzle | DVK', 'Chính sách quyền riêng tư Arrow Escape: Candy Puzzle: không tài khoản, lưu tiến độ trên máy, quảng cáo AdMob chế độ trẻ em, cổng phụ huynh khi mua hàng.'),
         'arrow_terms': ('Điều khoản Sử dụng Arrow Escape: Candy Puzzle | DVK', 'Điều khoản sử dụng Arrow Escape: Candy Puzzle: xu ảo, vật phẩm hỗ trợ, mua hàng trong ứng dụng và chơi công bằng.'),
@@ -302,7 +302,7 @@ def shell(kind, lang, body, title):
         for k, n in zip(['catalog', 'siteprivacy', 'support'], [('Trò chơi' if lang == 'vi' else 'Games'), t['privacy'], t['support']])
     )
     footer = ''.join(
-        f'<a href="{url(PATHS[k], lang)}">{esc(t["privacy"] if k == "siteprivacy" else t[k])}</a>'
+        f'<a href="{url(PATHS[("candy_privacy" if k == "siteprivacy" else "candy_terms" if k == "terms" else k) if theme == "candy" else k], lang)}">{esc(t["privacy"] if k == "siteprivacy" else t[k])}</a>'
         for k in ['siteprivacy', 'terms', 'support']
     )
     title, desc = SEO[lang][kind]
@@ -922,7 +922,7 @@ def candy_legal(kind, lang):
 
     sections = ''.join('<section id="section-' + str(i + 1) + '"><h2>' + esc(a) + '</h2>' + paragraph(b) + '</section>' for i, (a, b) in enumerate(DATA[data_key][lang]))
     web = '<section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section>' if 'privacy' in kind else ''
-    return f'''<section class="page-head legal-head"><p class="eyebrow">SMART CANDY · {esc(t['legalnote'])}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WIN Entertainments · DVK</p></section><div class="legal-body">{sections}{web}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
+    return f'''<section class="page-head legal-head"><p class="eyebrow">SMART CANDY · {'Updated 23 October 2026' if lang == 'en' else 'Cập nhật 23/10/2026'}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WIN Entertainments · DVK</p></section><div class="legal-body"><nav aria-label="Policy links"><a href="{url(PATHS['candy_privacy'], lang)}">{esc(t['privacy'])}</a> · <a href="{url(PATHS['candy_terms'], lang)}">{esc(t['terms'])}</a></nav>{sections}{web}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
 
 def candy_game(lang):
     t = TEXT[lang]
