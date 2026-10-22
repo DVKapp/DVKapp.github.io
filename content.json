@@ -891,7 +891,7 @@
    ],
    [
     "2. No accounts, progress stays on your device",
-    "The game has no account and no sign-in. Your levels, stars, coins, hints, streaks, Plop flavors, settings and stats are stored only on your device. Deleting the app deletes this data. The only data that leaves your device is described below (ads and in-app purchases)."
+    "The game has no account and no sign-in. Your levels, stars, coins, hints, streaks, Plop flavors, settings and stats are stored only on your device. Deleting the app deletes this data. The only data that leaves your device is described below (ads, in-app purchases and word audio downloads)."
    ],
    [
     "3. Made for all ages, including young children",
@@ -918,11 +918,15 @@
     "The Daily Plop result can be shared as a Wordle-style grid that reveals no words. Sharing is behind a parental gate; we do not receive what you share."
    ],
    [
-    "9. Your choices and data deletion",
+    "9. Word audio downloads",
+    "When you tap \"Hear it\" on a word card, the game may download a short audio clip of the word's meaning from our website dvk.vn (hosted on GitHub Pages). This is a plain file download: no account, identifier or personal data is sent by the game, although, like any web request, the hosting service receives your device's IP address to deliver the file. Without an internet connection the meaning is read by your device's built-in voice instead."
+   ],
+   [
+    "10. Your choices and data deletion",
     "You can remove all game data by uninstalling the app. Parents can contact game@dvk.vn with any question; we will answer within 30 days."
    ],
    [
-    "10. Changes and contact",
+    "11. Changes and contact",
     "If this policy changes, we will update this page and the effective date above. Contact: game@dvk.vn."
    ]
   ],
@@ -933,7 +937,7 @@
    ],
    [
     "2. Không tài khoản, tiến độ lưu trên máy",
-    "Game không có tài khoản và không cần đăng nhập. Màn chơi, sao, xu, gợi ý, chuỗi ngày chơi, vị Plop, cài đặt và thống kê chỉ được lưu trên thiết bị của bạn. Xoá app là xoá dữ liệu này. Dữ liệu duy nhất rời khỏi thiết bị được mô tả bên dưới (quảng cáo và mua hàng trong ứng dụng)."
+    "Game không có tài khoản và không cần đăng nhập. Màn chơi, sao, xu, gợi ý, chuỗi ngày chơi, vị Plop, cài đặt và thống kê chỉ được lưu trên thiết bị của bạn. Xoá app là xoá dữ liệu này. Dữ liệu duy nhất rời khỏi thiết bị được mô tả bên dưới (quảng cáo, mua hàng trong ứng dụng và tải âm thanh đọc nghĩa của từ)."
    ],
    [
     "3. Dành cho mọi lứa tuổi, kể cả trẻ nhỏ",
@@ -960,11 +964,15 @@
     "Kết quả Daily Plop có thể được chia sẻ dưới dạng lưới kiểu Wordle, không để lộ từ nào. Việc chia sẻ nằm sau cổng phụ huynh; chúng tôi không nhận nội dung bạn chia sẻ."
    ],
    [
-    "9. Lựa chọn của bạn và xoá dữ liệu",
+    "9. Tải âm thanh đọc nghĩa của từ",
+    "Khi bạn bấm \"Hear it\" trên thẻ nghĩa, game có thể tải một đoạn âm thanh ngắn đọc nghĩa của từ từ website dvk.vn (lưu trữ trên GitHub Pages). Đây chỉ là tải một tệp: game không gửi tài khoản, mã định danh hay dữ liệu cá nhân nào; dịch vụ lưu trữ, như mọi yêu cầu web, nhận địa chỉ IP của thiết bị để gửi tệp. Khi không có mạng, nghĩa sẽ được đọc bằng giọng có sẵn của máy."
+   ],
+   [
+    "10. Lựa chọn của bạn và xoá dữ liệu",
     "Bạn có thể xoá toàn bộ dữ liệu game bằng cách gỡ cài đặt app. Phụ huynh có thể liên hệ game@dvk.vn với bất kỳ câu hỏi nào; chúng tôi sẽ trả lời trong vòng 30 ngày."
    ],
    [
-    "10. Thay đổi và liên hệ",
+    "11. Thay đổi và liên hệ",
     "Nếu chính sách này thay đổi, chúng tôi sẽ cập nhật trang này và ngày hiệu lực ở trên. Liên hệ: game@dvk.vn."
    ]
   ]
