@@ -93,3 +93,14 @@ body[data-theme="gumball"] .detail-row,body[data-theme="gumball"] .help details,
 body[data-theme="gumball"] .contact-card{background:#fff0f8;border:1px solid #ffd6ea}
 body[data-theme="gumball"] .button{background:linear-gradient(135deg, #ff2e93 0%, #9b3dff 100%);color:#ffffff;font-weight:700}
 body[data-theme="gumball"] .button:hover{background:linear-gradient(135deg, #e01f80 0%, #8a2ef0 100%);color:#ffffff}
+body[data-theme="kitty"]{--paper:#f3faff;--ink:#3b2560;--muted:#55607a;--line:#cfe8fb;--lime:#bfe3fd;--forest:#3fa9f5;--gold:#ffb703;background:var(--paper);color:var(--ink)}
+body[data-theme="kitty"] header,body[data-theme="kitty"] footer{background:#eaf6ff;border-color:#cfe8fb;color:#55607a}
+body[data-theme="kitty"] header .brand,body[data-theme="kitty"] footer .brand{color:#3b2560}
+body[data-theme="kitty"] header a:hover,body[data-theme="kitty"] footer a:hover{color:#1f7fd0}
+body[data-theme="kitty"] header .language{border-color:#cfe8fb;color:#3b2560}
+body[data-theme="kitty"] .pill{background:#e0f1fe;color:#1a6fb8;border:1px solid #cfe8fb}
+body[data-theme="kitty"] .detail-row p,body[data-theme="kitty"] .help p,body[data-theme="kitty"] .lead,body[data-theme="kitty"] .quiet{color:#55607a}
+body[data-theme="kitty"] .detail-row,body[data-theme="kitty"] .help details,body[data-theme="kitty"] .legal-body section,body[data-theme="kitty"] .legal-head,body[data-theme="kitty"] .breadcrumbs{border-color:#cfe8fb}
+body[data-theme="kitty"] .contact-card{background:#eaf6ff;border:1px solid #cfe8fb}
+body[data-theme="kitty"] .button{background:linear-gradient(135deg, #3fa9f5 0%, #1f7fd0 100%);color:#ffffff;font-weight:700}
+body[data-theme="kitty"] .button:hover{background:linear-gradient(135deg, #2b95e3 0%, #176bb3 100%);color:#ffffff}

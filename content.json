@@ -726,5 +726,161 @@
     "Câu hỏi hoặc sự cố: game@dvk.vn."
    ]
   ]
+ },
+ "kitty_privacy": {
+  "en": [
+   [
+    "1. Who we are",
+    "Kitty Corners: Cat Puzzle (iOS/iPadOS: com.winplaystudio.kittyCorners, Android: com.winplaystudio.kitty_corners) is a cat logic puzzle game made by WinPlay Studio (DVK) for iPhone, iPad and Android. Questions about this policy: game@dvk.vn. This policy applies to the game; the dvk.vn website has its own privacy page."
+   ],
+   [
+    "2. No accounts, progress stays on your device",
+    "The game has no account and no sign-up. Your levels, coins, hints, trophies, streaks, cat outfits and settings are stored on your device. Deleting the app deletes this data. The only data that leaves your device is described below (ads, Firebase and the optional leaderboard)."
+   ],
+   [
+    "3. Made for all ages, including young children",
+    "Kitty Corners is designed for all ages, including young children. We do not ask for or collect real names, email addresses, photos, contacts, voice recordings or precise location. There is no chat and no free-text input. All purchases, links to outside websites and joining the leaderboard are behind a parental gate. We follow the US Children's Online Privacy Protection Act (COPPA), the Google Play Families policy and Apple's App Store guidelines."
+   ],
+   [
+    "4. Advertising (Google AdMob)",
+    "The free version shows ads from Google AdMob. Every ad request is marked as child-directed (COPPA) and as under the age of consent (TFUA), and limited to general-audience (G) content, so ads are not personalized. The game does not show the App Tracking Transparency prompt on iOS and does not request the Android advertising ID permission. Google may still process limited technical information (such as IP address, device type and app version) to deliver ads, limit how often an ad is shown and prevent fraud. Learn more at policies.google.com/technologies/ads and policies.google.com/privacy. The No Ads purchase removes ads."
+   ],
+   [
+    "5. Analytics and crash reports (Google Firebase)",
+    "To fix bugs and tune difficulty, the game uses Google Analytics for Firebase and Firebase Crashlytics. Analytics records gameplay events such as a level being started or won; collection is turned off in debug (developer) builds. Crashlytics sends crash and diagnostic reports, such as the error, device model and OS version. This data is not used for advertising."
+   ],
+   [
+    "6. Optional leaderboard",
+    "The weekly and monthly leaderboards are optional, and joining is behind a parental gate. If you join, the game uses Firebase Anonymous Authentication and Cloud Firestore (Google) to store a random anonymous user ID, a preset cat name chosen from a list (no free text), your score for the week or month, and your cat's look (fur color and hat). No real names are collected and there is no chat. Boards run per week and per month. To ask for your leaderboard entry to be deleted, email game@dvk.vn."
+   ],
+   [
+    "7. Notifications",
+    "The game can send local reminders about the daily puzzle, your streak and free gifts. They are off until the player or a parent turns them on. Reminders are scheduled on the device itself; we do not use a push notification server. No notifications are shown between 21:00 and 9:00. You can turn them off in the game or in your device settings at any time."
+   ],
+   [
+    "8. In-app purchases",
+    "Optional purchases (No Ads, 10 hints and 30 hints) are processed by the Apple App Store or Google Play. We do not receive or store your payment details. Your store account and its parental controls (Ask to Buy, Family Link) also apply."
+   ],
+   [
+    "9. Your choices and data deletion",
+    "You can remove all game data stored on your device by deleting the app. You can leave the leaderboard out entirely by never joining it, and you can ask us to delete a leaderboard entry by emailing game@dvk.vn. Parents can contact game@dvk.vn with any question; we will answer within 30 days."
+   ],
+   [
+    "10. Changes and contact",
+    "If this policy changes, we will update this page and the effective date above. Contact: game@dvk.vn."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Chúng tôi là ai",
+    "Kitty Corners: Cat Puzzle (iOS/iPadOS: com.winplaystudio.kittyCorners, Android: com.winplaystudio.kitty_corners) là game giải đố logic về mèo do WinPlay Studio (DVK) phát triển cho iPhone, iPad và Android. Mọi câu hỏi về chính sách này: game@dvk.vn. Chính sách áp dụng cho game; website dvk.vn có trang quyền riêng tư riêng."
+   ],
+   [
+    "2. Không tài khoản, tiến độ lưu trên máy",
+    "Game không có tài khoản và không cần đăng ký. Màn chơi, xu, gợi ý, cúp, chuỗi ngày chơi, trang phục mèo và cài đặt được lưu trên thiết bị của bạn. Xoá app là xoá dữ liệu này. Dữ liệu duy nhất rời khỏi thiết bị được mô tả bên dưới (quảng cáo, Firebase và bảng xếp hạng tùy chọn)."
+   ],
+   [
+    "3. Dành cho mọi lứa tuổi, kể cả trẻ nhỏ",
+    "Kitty Corners được thiết kế cho mọi lứa tuổi, kể cả trẻ nhỏ. Chúng tôi không yêu cầu hay thu thập tên thật, email, ảnh, danh bạ, giọng nói hay vị trí chính xác. Game không có trò chuyện và không có ô nhập chữ tự do. Mọi giao dịch mua, liên kết ra website bên ngoài và việc tham gia bảng xếp hạng đều nằm sau cổng phụ huynh. Chúng tôi tuân thủ Đạo luật Bảo vệ Quyền riêng tư Trực tuyến của Trẻ em Hoa Kỳ (COPPA), chính sách Gia đình của Google Play và hướng dẫn của Apple App Store."
+   ],
+   [
+    "4. Quảng cáo (Google AdMob)",
+    "Bản miễn phí hiển thị quảng cáo của Google AdMob. Mọi yêu cầu quảng cáo đều được đánh dấu là hướng tới trẻ em (COPPA) và dưới độ tuổi đồng ý (TFUA), chỉ hiển thị nội dung phù hợp mọi lứa tuổi (G), nên quảng cáo không được cá nhân hoá. Game không hiển thị yêu cầu cấp quyền theo dõi (App Tracking Transparency) trên iOS và không xin quyền mã quảng cáo (advertising ID) trên Android. Google vẫn có thể xử lý một số thông tin kỹ thuật hạn chế (như địa chỉ IP, loại thiết bị, phiên bản app) để phân phối quảng cáo, giới hạn tần suất và chống gian lận. Tìm hiểu thêm tại policies.google.com/technologies/ads và policies.google.com/privacy. Gói Gỡ quảng cáo sẽ tắt quảng cáo."
+   ],
+   [
+    "5. Thống kê và báo cáo lỗi (Google Firebase)",
+    "Để sửa lỗi và cân chỉnh độ khó, game dùng Google Analytics for Firebase và Firebase Crashlytics. Analytics ghi lại các sự kiện chơi game như bắt đầu hoặc thắng một màn; việc thu thập bị tắt trong bản debug (bản dành cho nhà phát triển). Crashlytics gửi báo cáo sự cố và chẩn đoán, như lỗi, mẫu máy và phiên bản hệ điều hành. Dữ liệu này không dùng cho quảng cáo."
+   ],
+   [
+    "6. Bảng xếp hạng tùy chọn",
+    "Bảng xếp hạng tuần và tháng là tùy chọn, và việc tham gia nằm sau cổng phụ huynh. Nếu tham gia, game dùng Firebase Anonymous Authentication và Cloud Firestore (Google) để lưu một mã người dùng ẩn danh ngẫu nhiên, một tên mèo chọn sẵn từ danh sách (không nhập chữ tự do), điểm của bạn trong tuần hoặc tháng, và ngoại hình chú mèo (màu lông và mũ). Không thu thập tên thật và không có trò chuyện. Bảng được tính theo từng tuần và từng tháng. Để yêu cầu xoá mục của bạn trên bảng xếp hạng, hãy gửi email tới game@dvk.vn."
+   ],
+   [
+    "7. Thông báo",
+    "Game có thể gửi lời nhắc cục bộ về câu đố hằng ngày, chuỗi ngày chơi và quà miễn phí. Thông báo tắt cho tới khi người chơi hoặc phụ huynh bật lên. Lời nhắc được lên lịch ngay trên thiết bị; chúng tôi không dùng máy chủ gửi thông báo đẩy. Không có thông báo nào từ 21:00 đến 9:00. Bạn có thể tắt chúng trong game hoặc trong cài đặt thiết bị bất cứ lúc nào."
+   ],
+   [
+    "8. Mua hàng trong ứng dụng",
+    "Các gói mua tùy chọn (Gỡ quảng cáo, 10 gợi ý và 30 gợi ý) được xử lý bởi Apple App Store hoặc Google Play. Chúng tôi không nhận và không lưu thông tin thanh toán của bạn. Tài khoản cửa hàng và các công cụ kiểm soát của phụ huynh (Ask to Buy, Family Link) cũng được áp dụng."
+   ],
+   [
+    "9. Lựa chọn của bạn và xoá dữ liệu",
+    "Bạn có thể xoá toàn bộ dữ liệu game trên thiết bị bằng cách xoá app. Bạn có thể không tham gia bảng xếp hạng, và có thể yêu cầu xoá mục trên bảng xếp hạng bằng cách gửi email tới game@dvk.vn. Phụ huynh có thể liên hệ game@dvk.vn với bất kỳ câu hỏi nào; chúng tôi sẽ trả lời trong vòng 30 ngày."
+   ],
+   [
+    "10. Thay đổi và liên hệ",
+    "Nếu chính sách này thay đổi, chúng tôi sẽ cập nhật trang này và ngày hiệu lực ở trên. Liên hệ: game@dvk.vn."
+   ]
+  ]
+ },
+ "kitty_terms": {
+  "en": [
+   [
+    "1. Using the game",
+    "Kitty Corners: Cat Puzzle is provided by WinPlay Studio (DVK) for personal, non-commercial entertainment. By playing you agree to these terms and to the terms of the Apple App Store or Google Play from which you installed it."
+   ],
+   [
+    "2. Virtual items",
+    "Coins, hints, gifts, trophies and cat outfits (fur colors and hats) are virtual items with no real-world money value. They cannot be exchanged for cash or transferred between players. They are stored on your device and may be lost if you delete the app."
+   ],
+   [
+    "3. Purchases",
+    "Purchases are optional, made through Apple or Google and protected by a parental gate. Prices are shown in the store in your local currency. Refunds are handled by Apple or Google under their refund policies. No Ads is a one-time purchase that can be restored with Restore purchases in the shop; the 10-hint and 30-hint packs are consumable."
+   ],
+   [
+    "4. Leaderboards",
+    "The weekly and monthly leaderboards are optional and joining is behind a parental gate. Players appear only with a preset cat name and their cat's look. Boards can be reset at the start of each week or month, and we may remove entries that look like cheating."
+   ],
+   [
+    "5. Fair play",
+    "Please do not modify, hack or reverse engineer the game or use tools to cheat. We may change levels, rewards and prices to keep the game fun and balanced."
+   ],
+   [
+    "6. Content and license",
+    "The game, its puzzles, characters (including Kitty), art, music and voice lines belong to WinPlay Studio (DVK) and its licensors. You receive a limited, non-transferable license to play the game on your devices."
+   ],
+   [
+    "7. Availability",
+    "We work to keep the game running smoothly but cannot guarantee it will always be free of errors. Features such as ads, leaderboards, the daily puzzle or new levels may change or stop over time."
+   ],
+   [
+    "8. Contact",
+    "Questions or problems: game@dvk.vn."
+   ]
+  ],
+  "vi": [
+   [
+    "1. Sử dụng game",
+    "Kitty Corners: Cat Puzzle do WinPlay Studio (DVK) cung cấp cho mục đích giải trí cá nhân, phi thương mại. Khi chơi, bạn đồng ý với các điều khoản này và điều khoản của Apple App Store hoặc Google Play nơi bạn cài đặt game."
+   ],
+   [
+    "2. Vật phẩm ảo",
+    "Xu, gợi ý, quà, cúp và trang phục mèo (màu lông và mũ) là vật phẩm ảo, không có giá trị tiền thật. Chúng không thể đổi ra tiền mặt hay chuyển cho người chơi khác. Chúng được lưu trên thiết bị và có thể mất nếu bạn xoá app."
+   ],
+   [
+    "3. Mua hàng",
+    "Việc mua hàng là tùy chọn, thực hiện qua Apple hoặc Google và được bảo vệ bằng cổng phụ huynh. Giá hiển thị trong cửa hàng theo đơn vị tiền tệ địa phương. Hoàn tiền do Apple hoặc Google xử lý theo chính sách của họ. Gỡ quảng cáo là gói mua một lần, có thể khôi phục bằng nút Khôi phục giao dịch trong cửa hàng của game; gói 10 gợi ý và 30 gợi ý là vật phẩm tiêu hao."
+   ],
+   [
+    "4. Bảng xếp hạng",
+    "Bảng xếp hạng tuần và tháng là tùy chọn, và việc tham gia nằm sau cổng phụ huynh. Người chơi chỉ hiển thị bằng tên mèo chọn sẵn và ngoại hình chú mèo. Bảng có thể được đặt lại vào đầu mỗi tuần hoặc mỗi tháng, và chúng tôi có thể xoá các mục có dấu hiệu gian lận."
+   ],
+   [
+    "5. Chơi công bằng",
+    "Vui lòng không chỉnh sửa, hack, dịch ngược game hay dùng công cụ gian lận. Chúng tôi có thể thay đổi màn chơi, phần thưởng và giá để game luôn vui và cân bằng."
+   ],
+   [
+    "6. Nội dung và giấy phép",
+    "Game, các câu đố, nhân vật (bao gồm Kitty), hình ảnh, âm nhạc và lời thoại thuộc về WinPlay Studio (DVK) và các bên cấp phép. Bạn được cấp giấy phép giới hạn, không chuyển nhượng để chơi game trên thiết bị của mình."
+   ],
+   [
+    "7. Tính sẵn sàng",
+    "Chúng tôi cố gắng để game chạy ổn định nhưng không thể đảm bảo luôn không có lỗi. Các tính năng như quảng cáo, bảng xếp hạng, câu đố hằng ngày hay màn chơi mới có thể thay đổi hoặc dừng theo thời gian."
+   ],
+   [
+    "8. Liên hệ",
+    "Câu hỏi hoặc sự cố: game@dvk.vn."
+   ]
+  ]
  }
 }
