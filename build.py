@@ -50,6 +50,9 @@ PATHS = {
     'snowy_game': '/snowy-doors/',
     'snowy_privacy': '/snowy-doors/privacy/',
     'snowy_terms': '/snowy-doors/terms/',
+    'munch_game': '/munch-parade/',
+    'munch_privacy': '/munch-parade/privacy/',
+    'munch_terms': '/munch-parade/terms/',
 }
 
 SEO = {
@@ -82,6 +85,9 @@ SEO = {
         'snowy_game': ('Snowy Doors: Advent Calendar — Family Advent Calendar Game | DVK', 'Snowy Doors: Advent Calendar for iPhone, iPad and Android. Tear the gift paper to open a door every day, play a mini-game with Pip the baby reindeer and light up your own snowy village.'),
         'snowy_privacy': ('Snowy Doors: Advent Calendar Privacy Policy | DVK', 'Privacy policy for Snowy Doors: Advent Calendar. No accounts, progress kept on your device, no analytics, optional child-directed reward videos, parental gate.'),
         'snowy_terms': ('Snowy Doors: Advent Calendar Terms of Use | DVK', 'Terms of use for Snowy Doors: Advent Calendar: daily doors, virtual decorations, Decor Shop packs, in-app purchases and fair play.'),
+        'munch_game': ('Munch Parade: Animal Feast — Family Animal Feeding Puzzle | DVK', 'Munch Parade: Animal Feast for iPhone, iPad and Android. Tap a wagon and watch baby animals munch a picnic feast away, find the surprise toy inside and learn who eats what.'),
+        'munch_privacy': ('Munch Parade: Animal Feast Privacy Policy | DVK', 'Privacy policy for Munch Parade: Animal Feast. No accounts, progress kept on your device, no analytics, no ads in this version, parental gate.'),
+        'munch_terms': ('Munch Parade: Animal Feast Terms of Use | DVK', 'Terms of use for Munch Parade: Animal Feast: feasts, parade tickets, surprise toys, daily gifts and fair play.'),
         'racer_terms': ('Times Table Racer: Math Kids Terms of Use | DVK', 'Terms of use for Times Table Racer: Math Kids: virtual bolts and Nitro, in-app purchases, learning content and fair play.'),
         'plop_terms': ('Plop: Word Ladder Puzzle Terms of Use | DVK', 'Terms of use for Plop: Word Ladder Puzzle: virtual coins and hints, in-app purchases, fair play and word list credits.'),
         'candy_terms': ('Smart Candy: Match 3 Terms of Use | DVK', 'Official terms of use for Smart Candy: Match 3. Rules on virtual items, booster inventory, fair play, and Google Play licensing.'),
@@ -115,6 +121,9 @@ SEO = {
         'snowy_game': ('Snowy Doors: Advent Calendar — Game Lịch Advent Cho Cả Nhà | DVK', 'Snowy Doors: Advent Calendar cho iPhone, iPad và Android. Xé giấy quà mở một cửa mỗi ngày, chơi trò nhỏ cùng tuần lộc con Pip và thắp sáng làng tuyết của riêng bé.'),
         'snowy_privacy': ('Chính sách Quyền riêng tư Snowy Doors: Advent Calendar | DVK', 'Chính sách quyền riêng tư Snowy Doors: Advent Calendar: không tài khoản, tiến độ lưu trên máy, không phân tích, video thưởng tuỳ chọn chế độ trẻ em, cổng phụ huynh.'),
         'snowy_terms': ('Điều khoản Sử dụng Snowy Doors: Advent Calendar | DVK', 'Điều khoản sử dụng Snowy Doors: Advent Calendar: cửa mỗi ngày, đồ trang trí ảo, gói Decor Shop, mua hàng trong ứng dụng và chơi công bằng.'),
+        'munch_game': ('Munch Parade: Animal Feast — Game Cho Thú Ăn Cho Cả Nhà | DVK', 'Munch Parade: Animal Feast cho iPhone, iPad và Android. Chạm toa để đoàn thú con ăn sạch mâm tiệc picnic, tìm đồ chơi bất ngờ bên trong và học thú nào ăn gì.'),
+        'munch_privacy': ('Chính sách Quyền riêng tư Munch Parade: Animal Feast | DVK', 'Chính sách quyền riêng tư Munch Parade: Animal Feast: không tài khoản, tiến độ lưu trên máy, không phân tích, phiên bản này không có quảng cáo, cổng phụ huynh.'),
+        'munch_terms': ('Điều khoản Sử dụng Munch Parade: Animal Feast | DVK', 'Điều khoản sử dụng Munch Parade: Animal Feast: bữa tiệc, vé diễu hành, đồ chơi bất ngờ, quà mỗi ngày và chơi công bằng.'),
         'racer_terms': ('Điều khoản Sử dụng Times Table Racer: Math Kids | DVK', 'Điều khoản sử dụng Times Table Racer: Math Kids: Bolts và Nitro ảo, mua hàng trong ứng dụng, nội dung học tập và chơi công bằng.'),
         'plop_terms': ('Điều khoản Sử dụng Plop: Word Ladder Puzzle | DVK', 'Điều khoản sử dụng Plop: Word Ladder Puzzle: xu và gợi ý ảo, mua hàng trong ứng dụng, chơi công bằng và ghi công bộ từ.'),
         'candy_terms': ('Điều khoản Sử dụng Smart Candy: Match 3 | DVK', 'Điều khoản sử dụng chính thức cho Smart Candy: Match 3: Quy định bảo bối, tiền tệ trong game, gói vật phẩm và bản quyền phát hành.'),
@@ -176,6 +185,10 @@ TEXT = {
         'snowy_privacylead': 'How Snowy Doors handles data: no accounts, progress kept on your device, no analytics, optional child-directed reward videos and a parental gate.',
         'snowy_termstitle': 'Snowy Doors: Advent Calendar Terms of Use',
         'snowy_termslead': 'Rules for daily doors, virtual decorations, Decor Shop packs, in-app purchases and fair play in Snowy Doors: Advent Calendar.',
+        'munch_privacytitle': 'Munch Parade: Animal Feast Privacy Policy',
+        'munch_privacylead': 'How Munch Parade handles data: no accounts, progress kept on your device, no analytics, no ads in this version and a parental gate.',
+        'munch_termstitle': 'Munch Parade: Animal Feast Terms of Use',
+        'munch_termslead': 'Rules for feasts, parade tickets, surprise toys, daily gifts and fair play in Munch Parade: Animal Feast.',
         'privacytitle': 'Your privacy, in plain words.',
         'privacylead': 'This policy describes the current Puzzle Spark preview and this website.',
         'termstitle': 'Terms of use',
@@ -246,6 +259,10 @@ TEXT = {
         'snowy_privacylead': 'Cách Snowy Doors xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, không phân tích, video thưởng tuỳ chọn chế độ trẻ em và cổng phụ huynh.',
         'snowy_termstitle': 'Điều Khoản Sử Dụng Snowy Doors: Advent Calendar',
         'snowy_termslead': 'Quy định về cửa mỗi ngày, đồ trang trí ảo, gói Decor Shop, mua hàng trong ứng dụng và chơi công bằng trong Snowy Doors: Advent Calendar.',
+        'munch_privacytitle': 'Chính Sách Quyền Riêng Tư Munch Parade: Animal Feast',
+        'munch_privacylead': 'Cách Munch Parade xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, không phân tích, phiên bản này không có quảng cáo và có cổng phụ huynh.',
+        'munch_termstitle': 'Điều Khoản Sử Dụng Munch Parade: Animal Feast',
+        'munch_termslead': 'Quy định về bữa tiệc, vé diễu hành, đồ chơi bất ngờ, quà mỗi ngày và chơi công bằng trong Munch Parade: Animal Feast.',
         'privacytitle': 'Quyền riêng tư, trình bày rõ ràng.',
         'privacylead': 'Chính sách mô tả bản thử nghiệm Puzzle Spark hiện tại và website này.',
         'termstitle': 'Điều khoản sử dụng',
@@ -362,7 +379,7 @@ def grid(t):
 def shell(kind, lang, body, title):
     t = TEXT[lang]
     path = PATHS[kind]
-    theme = 'snowy' if kind.startswith('snowy') else 'racer' if kind.startswith('racer') else 'arrow' if 'arrow' in kind else 'gumball' if 'gumball' in kind else 'kitty' if 'kitty' in kind else 'plop' if 'plop' in kind else 'candy' if 'candy' in kind else 'block-puzzle' if ('block' in kind or kind == 'home') else 'puzzle-spark' if kind in ['game', 'privacy', 'terms'] else 'dvk'
+    theme = 'munch' if kind.startswith('munch') else 'snowy' if kind.startswith('snowy') else 'racer' if kind.startswith('racer') else 'arrow' if 'arrow' in kind else 'gumball' if 'gumball' in kind else 'kitty' if 'kitty' in kind else 'plop' if 'plop' in kind else 'candy' if 'candy' in kind else 'block-puzzle' if ('block' in kind or kind == 'home') else 'puzzle-spark' if kind in ['game', 'privacy', 'terms'] else 'dvk'
     other = 'vi' if lang == 'en' else 'en'
     canonical = BASE + url(path, lang)
     nav = ''.join(
@@ -388,6 +405,9 @@ def shell(kind, lang, body, title):
     elif theme == 'kitty':
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Kitty Corners</span>' if kind == 'kitty_game' else '<a href="' + url(PATHS['kitty_game'], lang) + '">Kitty Corners</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
+    elif theme == 'munch':
+        crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
+        crumbs += ('<span aria-current="page">Munch Parade</span>' if kind == 'munch_game' else '<a href="' + url(PATHS['munch_game'], lang) + '">Munch Parade</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
     elif theme == 'snowy':
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Snowy Doors</span>' if kind == 'snowy_game' else '<a href="' + url(PATHS['snowy_game'], lang) + '">Snowy Doors</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
@@ -404,9 +424,9 @@ def shell(kind, lang, body, title):
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Puzzle Spark</span>' if kind == 'game' else '<a href="' + url(PATHS['game'], lang) + '">Puzzle Spark</a><span>/</span><span aria-current="page">' + esc(t[kind]) + '</span>') + '</nav>'
 
-    logo = '/assets/snowy-doors-icon.png' if theme == 'snowy' else '/assets/times-table-racer-icon.png' if theme == 'racer' else '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-puzzle-icon.png' if theme == 'block-puzzle' else '/assets/spark.svg' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
-    ogimage = '/assets/snowy-doors-icon.png' if theme == 'snowy' else '/assets/times-table-racer-icon.png' if theme == 'racer' else '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-preview-home.png' if theme == 'block-puzzle' else '/assets/puzzle-spark-icon.png' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
-    theme_color = '#1b2a4e' if theme == 'snowy' else '#e8402f' if theme == 'racer' else '#ff2e93' if theme in ('arrow', 'gumball') else '#3fa9f5' if theme == 'kitty' else '#45b8ff' if theme == 'plop' else '#d81b60' if theme == 'candy' else '#090d1a' if theme == 'block-puzzle' else '#173e30' if theme == 'puzzle-spark' else '#152642'
+    logo = '/assets/munch-parade-icon.png' if theme == 'munch' else '/assets/snowy-doors-icon.png' if theme == 'snowy' else '/assets/times-table-racer-icon.png' if theme == 'racer' else '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-puzzle-icon.png' if theme == 'block-puzzle' else '/assets/spark.svg' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
+    ogimage = '/assets/munch-parade-icon.png' if theme == 'munch' else '/assets/snowy-doors-icon.png' if theme == 'snowy' else '/assets/times-table-racer-icon.png' if theme == 'racer' else '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-preview-home.png' if theme == 'block-puzzle' else '/assets/puzzle-spark-icon.png' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
+    theme_color = '#e2394b' if theme == 'munch' else '#1b2a4e' if theme == 'snowy' else '#e8402f' if theme == 'racer' else '#ff2e93' if theme in ('arrow', 'gumball') else '#3fa9f5' if theme == 'kitty' else '#45b8ff' if theme == 'plop' else '#d81b60' if theme == 'candy' else '#090d1a' if theme == 'block-puzzle' else '#173e30' if theme == 'puzzle-spark' else '#152642'
 
     return f'''<!doctype html>
 <html lang="{lang}"><head><meta charset="utf-8"><meta name="google-site-verification" content="VCgA69MCS2iiEJBLr5-Sl772K8mIju2FWOCB73ZwFCE"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(desc)}"><meta name="theme-color" content="{theme_color}"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="{canonical}"><link rel="alternate" hreflang="en" href="{BASE + path}"><link rel="alternate" hreflang="vi" href="{BASE + url(path, 'vi')}"><link rel="alternate" hreflang="x-default" href="{BASE + path}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{canonical}"><meta property="og:type" content="website"><meta property="og:site_name" content="DVK"><meta property="og:locale" content="{'vi_VN' if lang == 'vi' else 'en_US'}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(desc)}"><meta property="og:image" content="{BASE}{ogimage}"><link rel="icon" type="image/png" href="{logo}"><link rel="stylesheet" href="/assets/site.css">{schema}</head><body data-theme="{theme}"><a class="skip" href="#main">{'Skip to content' if lang == 'en' else 'Đến nội dung'}</a><header><a class="brand" href="{url('/', lang)}" aria-label="DVK home"><img src="/assets/dvk-mark.svg" alt="" width="34" height="34">DVK</a><nav aria-label="{'Main navigation' if lang == 'en' else 'Điều hướng chính'}">{nav}<a class="language" href="{url(path, other)}" lang="{other}" hreflang="{other}">{esc(t['lang'])}</a></nav></header><main id="main">{crumbs}{body}</main><footer><div><a class="brand" href="{url('/', lang)}">DVK</a><p>{esc(t['foot'])}</p><a href="mailto:game@dvk.vn">game@dvk.vn</a></div><div class="footer-links">{footer}</div><small>© 2026 DVK · Apps & Games</small></footer></body></html>'''
@@ -1034,6 +1054,31 @@ def snowy_legal(kind, lang):
     eff = 'Hiệu lực: 25/10/2026' if lang == 'vi' else 'Effective: October 25, 2026'
     return f'''<section class="page-head legal-head"><p class="eyebrow">SNOWY DOORS · {esc(eff)}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WinPlay Studio · DVK · game@dvk.vn</p></section><div class="legal-body">{sections}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
 
+def munch_legal(kind, lang):
+    t = TEXT[lang]
+    data_key = 'munch_privacy' if 'privacy' in kind else 'munch_terms'
+    title_key = 'munch_privacytitle' if 'privacy' in kind else 'munch_termstitle'
+    lead_key = 'munch_privacylead' if 'privacy' in kind else 'munch_termslead'
+    sections = ''.join('<section id="section-' + str(i + 1) + '"><h2>' + esc(a) + '</h2>' + paragraph(b) + '</section>' for i, (a, b) in enumerate(DATA[data_key][lang]))
+    eff = 'Hiệu lực: 25/10/2026' if lang == 'vi' else 'Effective: October 25, 2026'
+    return f'''<section class="page-head legal-head"><p class="eyebrow">MUNCH PARADE · {esc(eff)}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WinPlay Studio · DVK · game@dvk.vn</p></section><div class="legal-body">{sections}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
+
+def munch_game(lang):
+    vi = lang == 'vi'
+    title = 'Munch Parade: Animal Feast'
+    intro = 'Bữa tiệc picnic cho đoàn thú con! Bé chạm một toa xe, các bạn thú nhảy xuống ăn những món cùng màu trên mâm: hà mã ăn dưa hấu, koala ăn lá bạch đàn, hồng hạc ăn tôm. Ăn sạch mâm thì lộ ra một món đồ chơi bất ngờ. Hattie, hà mã lùn trưởng đoàn diễu hành, luôn ở bên để chỉ cách chơi và cổ vũ.' if vi else 'A picnic feast for a parade of baby animals! Tap a wagon and the animals hop out to munch the matching food on the tray: hippos eat watermelon, koalas eat eucalyptus, flamingos eat shrimp. Clear the whole tray to find the surprise toy hidden inside. Hattie the pygmy hippo leads the parade, explains every feast and cheers you on.'
+    feats = [
+        ('🍉 300 bữa tiệc' if vi else '🍉 300 feasts', 'Mỗi màn là một bức tranh ghép từ món ăn thật: tim, cá, thuyền, bướm, đoàn tàu... Mọi màn đều được máy kiểm tra là giải được.' if vi else 'Every feast is a picture made of real foods: hearts, fish, boats, butterflies, trains and more. Every level is checked by a solver to be winnable.'),
+        ('🦛 Hattie dẫn đường' if vi else '🦛 Hattie leads the way', 'Giọng nói vui tươi chỉ luật chơi, khen khi thắng, giúp đỡ khi kẹt với Help Paw miễn phí.' if vi else 'A cheerful voice explains the rules, cheers every win and helps when you are stuck with a free Help Paw.'),
+        ('🧸 30 đồ chơi bất ngờ' if vi else '🧸 30 surprise toys', 'Mỗi mâm giấu một đồ chơi; sưu tập đủ Toy Box bằng cách chơi và vé diễu hành.' if vi else 'Every feast hides a toy. Fill your Toy Box by playing and with parade tickets.'),
+        ('📖 Thú nào ăn gì?' if vi else '📖 Who eats what?', 'Học sự thật về 6 loài thú thật: hà mã lùn, đười ươi, gà con, koala, hồng hạc và sóc đỏ.' if vi else 'Learn real facts about six animals: pygmy hippo, orangutan, chick, koala, flamingo and red squirrel.'),
+        ('🎁 Quà mỗi ngày' if vi else '🎁 Daily gifts', 'Quà miễn phí mỗi 2 giờ và thưởng chuỗi ngày chơi. Không hẹn giờ, không mất mạng.' if vi else 'A free gift every 2 hours and a daily streak bonus. No timers and no lives.'),
+        ('👨‍👩‍👧 An toàn cho trẻ em' if vi else '👨‍👩‍👧 Safe for kids', 'Không tài khoản, không chat, không phân tích, không quảng cáo. Cổng phụ huynh cho liên kết và nhắc nhở. Chơi được khi không có mạng.' if vi else 'No accounts, no chat, no analytics and no ads. A parental gate guards links and reminders. Works offline.'),
+    ]
+    cards = ''.join(f'<div class="detail-row" style="padding:22px; border-radius:22px; background:#fff; border:1px solid #f6d6c2;"><h3 style="margin:0 0 8px;">{esc(a)}</h3><p style="margin:0;">{esc(b)}</p></div>' for a, b in feats)
+    note = 'Phiên bản này không có quảng cáo và không có mua hàng trong ứng dụng. Nếu sau này có, chúng tôi sẽ cập nhật chính sách và mọi giao dịch sẽ nằm sau cổng phụ huynh.' if vi else 'This version has no ads and no in-app purchases. If that ever changes, we will update our policies first, and any purchase will sit behind a parental gate.'
+    return f'''<section class="page-head game-page-head"><div><p class="eyebrow">WINPLAY STUDIO · MUNCH PARADE</p><h1>{title}</h1><p class="lead">{esc(intro)}</p><div style="display:flex; gap:12px; flex-wrap:wrap; margin:24px 0;"><span class="pill">iOS · iPadOS · Android</span><span class="pill">{'Sắp ra mắt' if vi else 'Coming soon'}</span></div><div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:28px;"><a class="button" href="{url(PATHS['munch_privacy'], lang)}">{'Chính sách quyền riêng tư →' if vi else 'Privacy Policy →'}</a><a class="button" href="{url(PATHS['munch_terms'], lang)}" style="background:#7a4a22; color:#fff;">{'Điều khoản sử dụng' if vi else 'Terms of Use'}</a></div></div><div style="display:grid; place-items:center;"><img src="/assets/munch-parade-icon.png" alt="Munch Parade icon" width="220" height="220" style="border-radius:44px; box-shadow:0 20px 40px rgba(122,74,34,0.3); border:3px solid #fff;"></div></section><section style="padding: 20px 48px 60px;"><h2 style="color:#7a4a22; margin-bottom:28px;">{'Tính năng' if vi else 'Features'}</h2><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:20px;">{cards}</div><p class="quiet" style="margin-top:32px;">{esc(note)}</p></section>'''
+
 def snowy_game(lang):
     vi = lang == 'vi'
     title = 'Snowy Doors: Advent Calendar'
@@ -1190,7 +1235,7 @@ def siteprivacy(lang):
     vi = lang == 'vi'
     title = 'Quyền riêng tư trên dvk.vn' if vi else 'Privacy on dvk.vn'
     intro = 'Chính sách dành cho website giới thiệu DVK. Mỗi ứng dụng có chính sách dữ liệu riêng.' if vi else 'Privacy information for the DVK website. Each app has its own data policy.'
-    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['arrow_privacy'], lang) + '"><strong>Arrow Escape: Candy Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['gumball_privacy'], lang) + '"><strong>Gumball Sort: Ball Sort Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['kitty_privacy'], lang) + '"><strong>Kitty Corners: Cat Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['plop_privacy'], lang) + '"><strong>Plop: Word Ladder Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['racer_privacy'], lang) + '"><strong>Times Table Racer: Math Kids</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['snowy_privacy'], lang) + '"><strong>Snowy Doors: Advent Calendar</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
+    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['arrow_privacy'], lang) + '"><strong>Arrow Escape: Candy Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['gumball_privacy'], lang) + '"><strong>Gumball Sort: Ball Sort Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['kitty_privacy'], lang) + '"><strong>Kitty Corners: Cat Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['plop_privacy'], lang) + '"><strong>Plop: Word Ladder Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['racer_privacy'], lang) + '"><strong>Times Table Racer: Math Kids</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['snowy_privacy'], lang) + '"><strong>Snowy Doors: Advent Calendar</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['munch_privacy'], lang) + '"><strong>Munch Parade: Animal Feast</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
 
 def support(lang):
     t = TEXT[lang]
@@ -1230,6 +1275,12 @@ for lang in ['en', 'vi']:
         elif kind == 'kitty_privacy' or kind == 'kitty_terms':
             body = kitty_legal(kind, lang)
             title = TEXT[lang][('kitty_privacytitle' if kind == 'kitty_privacy' else 'kitty_termstitle')]
+        elif kind == 'munch_game':
+            body = munch_game(lang)
+            title = 'Munch Parade: Animal Feast'
+        elif kind == 'munch_privacy' or kind == 'munch_terms':
+            body = munch_legal(kind, lang)
+            title = TEXT[lang][('munch_privacytitle' if kind == 'munch_privacy' else 'munch_termstitle')]
         elif kind == 'snowy_game':
             body = snowy_game(lang)
             title = 'Snowy Doors: Advent Calendar'
