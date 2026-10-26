@@ -53,6 +53,9 @@ PATHS = {
     'munch_game': '/munch-parade/',
     'munch_privacy': '/munch-parade/privacy/',
     'munch_terms': '/munch-parade/terms/',
+    'color_game': '/color-sorting/',
+    'color_privacy': '/color-sorting/privacy/',
+    'color_terms': '/color-sorting/terms/',
 }
 
 SEO = {
@@ -91,6 +94,9 @@ SEO = {
         'racer_terms': ('Times Table Racer: Math Kids Terms of Use | DVK', 'Terms of use for Times Table Racer: Math Kids: virtual bolts and Nitro, in-app purchases, learning content and fair play.'),
         'plop_terms': ('Plop: Word Ladder Puzzle Terms of Use | DVK', 'Terms of use for Plop: Word Ladder Puzzle: virtual coins and hints, in-app purchases, fair play and word list credits.'),
         'candy_terms': ('Smart Candy: Match 3 Terms of Use | DVK', 'Official terms of use for Smart Candy: Match 3. Rules on virtual items, booster inventory, fair play, and Google Play licensing.'),
+        'color_game': ('Color Sorting Puzzle — Water Color Pouring Brain Game | DVK', 'Play Color Sorting Puzzle (com.colorsorting.puzzle) on Android. Pour water between tubes until each bottle holds a single color across 429 handcrafted solvable levels.'),
+        'color_privacy': ('Color Sorting Puzzle Privacy Policy | DVK', 'Official privacy policy for Color Sorting Puzzle (com.colorsorting.puzzle). Details on local saves, advertising identifiers, consent choices, purchases and privacy requests.'),
+        'color_terms': ('Color Sorting Puzzle Terms of Use | DVK', 'Official terms of use for Color Sorting Puzzle (com.colorsorting.puzzle). Rules on virtual coins, extra tubes, hints, fair play, and Google Play licensing.'),
     },
     'vi': {
         'home': ('Block Puzzle 8x8: Neon Master — Game Xếp Hình 8x8 & Cốt Truyện | DVK', 'Khám phá Block Puzzle 8x8: Neon Master. 8 chế độ game kẹo neon đỉnh cao, 20 ải Cốt truyện, giải đấu trực tuyến, bảo bối cứu nguy, hướng dẫn chơi và chế độ offline 100% trên iOS & Android.'),
@@ -127,6 +133,9 @@ SEO = {
         'racer_terms': ('Điều khoản Sử dụng Times Table Racer: Math Kids | DVK', 'Điều khoản sử dụng Times Table Racer: Math Kids: Bolts và Nitro ảo, mua hàng trong ứng dụng, nội dung học tập và chơi công bằng.'),
         'plop_terms': ('Điều khoản Sử dụng Plop: Word Ladder Puzzle | DVK', 'Điều khoản sử dụng Plop: Word Ladder Puzzle: xu và gợi ý ảo, mua hàng trong ứng dụng, chơi công bằng và ghi công bộ từ.'),
         'candy_terms': ('Điều khoản Sử dụng Smart Candy: Match 3 | DVK', 'Điều khoản sử dụng chính thức cho Smart Candy: Match 3: Quy định bảo bối, tiền tệ trong game, gói vật phẩm và bản quyền phát hành.'),
+        'color_game': ('Color Sorting Puzzle — Game Rót Nước Phân Loại Màu | DVK', 'Trải nghiệm Color Sorting Puzzle (com.colorsorting.puzzle) trên Android. Rót nước màu giữa các ống nghiệm qua 429 màn chơi giải đố thư giãn, chơi offline 100%.'),
+        'color_privacy': ('Chính sách Quyền riêng tư Color Sorting Puzzle | DVK', 'Chính sách bảo mật chính thức cho Color Sorting Puzzle (com.colorsorting.puzzle): lưu tiến độ cục bộ, quảng cáo AdMob, lựa chọn đồng ý UMP và thanh toán Google Play Billing.'),
+        'color_terms': ('Điều khoản Sử dụng Color Sorting Puzzle | DVK', 'Điều khoản sử dụng chính thức cho Color Sorting Puzzle (com.colorsorting.puzzle): xu ảo, thêm ống, gợi ý, mua hàng trong ứng dụng và bản quyền phát hành.'),
     }
 }
 
@@ -189,6 +198,10 @@ TEXT = {
         'munch_privacylead': 'How Munch Parade handles data: no accounts, progress kept on your device, no analytics, no ads in this version and a parental gate.',
         'munch_termstitle': 'Munch Parade: Animal Feast Terms of Use',
         'munch_termslead': 'Rules for feasts, parade tickets, surprise toys, daily gifts and fair play in Munch Parade: Animal Feast.',
+        'color_privacytitle': 'Color Sorting Puzzle Privacy Policy',
+        'color_privacylead': 'Official privacy policy for Color Sorting Puzzle (com.colorsorting.puzzle). Clear transparency on local saves, in-app purchases, consent choices, and Google AdMob integration.',
+        'color_termstitle': 'Color Sorting Puzzle Terms of Use',
+        'color_termslead': 'Terms of use, virtual coins, tube/hint boosters, and licensing rules for Color Sorting Puzzle.',
         'privacytitle': 'Your privacy, in plain words.',
         'privacylead': 'This policy describes the current Puzzle Spark preview and this website.',
         'termstitle': 'Terms of use',
@@ -263,6 +276,10 @@ TEXT = {
         'munch_privacylead': 'Cách Munch Parade xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, không phân tích, phiên bản này không có quảng cáo và có cổng phụ huynh.',
         'munch_termstitle': 'Điều Khoản Sử Dụng Munch Parade: Animal Feast',
         'munch_termslead': 'Quy định về bữa tiệc, vé diễu hành, đồ chơi bất ngờ, quà mỗi ngày và chơi công bằng trong Munch Parade: Animal Feast.',
+        'color_privacytitle': 'Chính Sách Quyền Riêng Tư Color Sorting Puzzle',
+        'color_privacylead': 'Chính sách bảo mật chính thức cho Color Sorting Puzzle (com.colorsorting.puzzle). Minh bạch về lưu trữ tiến độ cục bộ, mua hàng qua Google Play, lựa chọn quyền riêng tư và quảng cáo AdMob.',
+        'color_termstitle': 'Điều Khoản Sử Dụng Color Sorting Puzzle',
+        'color_termslead': 'Quy định sử dụng, tiền tệ ảo, thêm ống/gợi ý và bản quyền phát hành cho Color Sorting Puzzle.',
         'privacytitle': 'Quyền riêng tư, trình bày rõ ràng.',
         'privacylead': 'Chính sách mô tả bản thử nghiệm Puzzle Spark hiện tại và website này.',
         'termstitle': 'Điều khoản sử dụng',
@@ -379,7 +396,7 @@ def grid(t):
 def shell(kind, lang, body, title):
     t = TEXT[lang]
     path = PATHS[kind]
-    theme = 'munch' if kind.startswith('munch') else 'snowy' if kind.startswith('snowy') else 'racer' if kind.startswith('racer') else 'arrow' if 'arrow' in kind else 'gumball' if 'gumball' in kind else 'kitty' if 'kitty' in kind else 'plop' if 'plop' in kind else 'candy' if 'candy' in kind else 'block-puzzle' if ('block' in kind or kind == 'home') else 'puzzle-spark' if kind in ['game', 'privacy', 'terms'] else 'dvk'
+    theme = 'munch' if kind.startswith('munch') else 'snowy' if kind.startswith('snowy') else 'racer' if kind.startswith('racer') else 'arrow' if 'arrow' in kind else 'gumball' if 'gumball' in kind else 'kitty' if 'kitty' in kind else 'plop' if 'plop' in kind else 'color' if 'color' in kind else 'candy' if 'candy' in kind else 'block-puzzle' if ('block' in kind or kind == 'home') else 'puzzle-spark' if kind in ['game', 'privacy', 'terms'] else 'dvk'
     other = 'vi' if lang == 'en' else 'en'
     canonical = BASE + url(path, lang)
     nav = ''.join(
@@ -387,7 +404,7 @@ def shell(kind, lang, body, title):
         for k, n in zip(['catalog', 'siteprivacy', 'support'], [('Trò chơi' if lang == 'vi' else 'Games'), t['privacy'], t['support']])
     )
     footer = ''.join(
-        f'<a href="{url(PATHS[("candy_privacy" if k == "siteprivacy" else "candy_terms" if k == "terms" else k) if theme == "candy" else k], lang)}">{esc(t["privacy"] if k == "siteprivacy" else t[k])}</a>'
+        f'<a href="{url(PATHS[("candy_privacy" if k == "siteprivacy" else "candy_terms" if k == "terms" else k) if theme == "candy" else ("color_privacy" if k == "siteprivacy" else "color_terms" if k == "terms" else k) if theme == "color" else k], lang)}">{esc(t["privacy"] if k == "siteprivacy" else t[k])}</a>'
         for k in ['siteprivacy', 'terms', 'support']
     )
     title, desc = SEO[lang][kind]
@@ -417,6 +434,9 @@ def shell(kind, lang, body, title):
     elif theme == 'plop':
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Plop</span>' if kind == 'plop_game' else '<a href="' + url(PATHS['plop_game'], lang) + '">Plop</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
+    elif theme == 'color':
+        crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
+        crumbs += ('<span aria-current="page">Color Sorting Puzzle</span>' if kind == 'color_game' else '<a href="' + url(PATHS['color_game'], lang) + '">Color Sorting Puzzle</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
     elif theme == 'candy':
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Smart Candy</span>' if kind == 'candy_game' else '<a href="' + url(PATHS['candy_game'], lang) + '">Smart Candy</a><span>/</span><span aria-current="page">' + esc(t['privacy'] if 'privacy' in kind else t['terms']) + '</span>') + '</nav>'
@@ -424,9 +444,9 @@ def shell(kind, lang, body, title):
         crumbs = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="' + url('/', lang) + '">DVK</a><span>/</span><a href="' + url(PATHS['catalog'], lang) + '">' + ('Trò chơi' if lang == 'vi' else 'Games') + '</a><span>/</span>'
         crumbs += ('<span aria-current="page">Puzzle Spark</span>' if kind == 'game' else '<a href="' + url(PATHS['game'], lang) + '">Puzzle Spark</a><span>/</span><span aria-current="page">' + esc(t[kind]) + '</span>') + '</nav>'
 
-    logo = '/assets/munch-parade-icon.png' if theme == 'munch' else '/assets/snowy-doors-icon.png' if theme == 'snowy' else '/assets/times-table-racer-icon.png' if theme == 'racer' else '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-puzzle-icon.png' if theme == 'block-puzzle' else '/assets/spark.svg' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
-    ogimage = '/assets/munch-parade-icon.png' if theme == 'munch' else '/assets/snowy-doors-icon.png' if theme == 'snowy' else '/assets/times-table-racer-icon.png' if theme == 'racer' else '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-preview-home.png' if theme == 'block-puzzle' else '/assets/puzzle-spark-icon.png' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
-    theme_color = '#e2394b' if theme == 'munch' else '#1b2a4e' if theme == 'snowy' else '#e8402f' if theme == 'racer' else '#ff2e93' if theme in ('arrow', 'gumball') else '#3fa9f5' if theme == 'kitty' else '#45b8ff' if theme == 'plop' else '#d81b60' if theme == 'candy' else '#090d1a' if theme == 'block-puzzle' else '#173e30' if theme == 'puzzle-spark' else '#152642'
+    logo = '/assets/munch-parade-icon.png' if theme == 'munch' else '/assets/snowy-doors-icon.png' if theme == 'snowy' else '/assets/times-table-racer-icon.png' if theme == 'racer' else '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/color-sorting-icon.png' if theme == 'color' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-puzzle-icon.png' if theme == 'block-puzzle' else '/assets/spark.svg' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
+    ogimage = '/assets/munch-parade-icon.png' if theme == 'munch' else '/assets/snowy-doors-icon.png' if theme == 'snowy' else '/assets/times-table-racer-icon.png' if theme == 'racer' else '/assets/arrow-escape-icon.png' if theme == 'arrow' else '/assets/gumball-sort-icon.png' if theme == 'gumball' else '/assets/kitty-corners-icon.png' if theme == 'kitty' else '/assets/plop-icon.png' if theme == 'plop' else '/assets/color-sorting-icon.png' if theme == 'color' else '/assets/smart-candy-icon.png' if theme == 'candy' else '/assets/block-preview-home.png' if theme == 'block-puzzle' else '/assets/puzzle-spark-icon.png' if theme == 'puzzle-spark' else '/assets/dvk-mark.svg'
+    theme_color = '#e2394b' if theme == 'munch' else '#1b2a4e' if theme == 'snowy' else '#e8402f' if theme == 'racer' else '#ff2e93' if theme in ('arrow', 'gumball') else '#3fa9f5' if theme == 'kitty' else '#45b8ff' if theme == 'plop' else '#0284c7' if theme == 'color' else '#d81b60' if theme == 'candy' else '#090d1a' if theme == 'block-puzzle' else '#173e30' if theme == 'puzzle-spark' else '#152642'
 
     return f'''<!doctype html>
 <html lang="{lang}"><head><meta charset="utf-8"><meta name="google-site-verification" content="VCgA69MCS2iiEJBLr5-Sl772K8mIju2FWOCB73ZwFCE"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(desc)}"><meta name="theme-color" content="{theme_color}"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="{canonical}"><link rel="alternate" hreflang="en" href="{BASE + path}"><link rel="alternate" hreflang="vi" href="{BASE + url(path, 'vi')}"><link rel="alternate" hreflang="x-default" href="{BASE + path}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{canonical}"><meta property="og:type" content="website"><meta property="og:site_name" content="DVK"><meta property="og:locale" content="{'vi_VN' if lang == 'vi' else 'en_US'}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(desc)}"><meta property="og:image" content="{BASE}{ogimage}"><link rel="icon" type="image/png" href="{logo}"><link rel="stylesheet" href="/assets/site.css">{schema}</head><body data-theme="{theme}"><a class="skip" href="#main">{'Skip to content' if lang == 'en' else 'Đến nội dung'}</a><header><a class="brand" href="{url('/', lang)}" aria-label="DVK home"><img src="/assets/dvk-mark.svg" alt="" width="34" height="34">DVK</a><nav aria-label="{'Main navigation' if lang == 'en' else 'Điều hướng chính'}">{nav}<a class="language" href="{url(path, other)}" lang="{other}" hreflang="{other}">{esc(t['lang'])}</a></nav></header><main id="main">{crumbs}{body}</main><footer><div><a class="brand" href="{url('/', lang)}">DVK</a><p>{esc(t['foot'])}</p><a href="mailto:game@dvk.vn">game@dvk.vn</a></div><div class="footer-links">{footer}</div><small>© 2026 DVK · Apps & Games</small></footer></body></html>'''
@@ -1153,6 +1173,61 @@ def arrow_game(lang):
     cards = ''.join(f'<div class="feature-card" style="background:#fff; border:1px solid #ffd6ea; padding:24px; border-radius:18px;"><h3 style="margin:0 0 12px; color:#ff2e93;">{esc(h)}</h3><p style="margin:0; line-height:1.7; color:#7a4b6a;">{esc(d)}</p></div>' for h, d in features)
     return f'''<section class="page-head game-page-head"><div><p class="eyebrow">DVK · ARROW ESCAPE</p><h1>{title}</h1><p class="lead">{intro}</p><div style="display:flex; gap:12px; flex-wrap:wrap; margin:24px 0;"><span class="pill">iOS · iPadOS · Android</span><span class="pill">{'Sắp ra mắt' if vi else 'Coming soon'}</span></div><div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:28px;"><a class="button" href="{url(PATHS['arrow_privacy'], lang)}">{'Chính sách quyền riêng tư →' if vi else 'Privacy Policy →'}</a><a class="button" href="{url(PATHS['arrow_terms'], lang)}" style="background:#4b2378; color:#fff;">{'Điều khoản sử dụng' if vi else 'Terms of Use'}</a></div></div><div style="display:grid; place-items:center;"><img src="/assets/arrow-escape-icon.png" alt="Arrow Escape icon" width="220" height="220" style="border-radius:44px; box-shadow:0 20px 40px rgba(255,46,147,0.25); border:3px solid #fff;"></div></section><section style="padding: 20px 48px 60px;"><h2 style="color:#ff2e93; margin-bottom:28px;">{'Tính năng' if vi else 'Features'}</h2><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:20px;">{cards}</div></section>'''
 
+def color_legal(kind, lang):
+    t = TEXT[lang]
+    data_key = 'color_privacy' if 'privacy' in kind else 'color_terms'
+    title_key = 'color_privacytitle' if 'privacy' in kind else 'color_termstitle'
+    lead_key = 'color_privacylead' if 'privacy' in kind else 'color_termslead'
+
+    sections = ''.join('<section id="section-' + str(i + 1) + '"><h2>' + esc(a) + '</h2>' + paragraph(b) + '</section>' for i, (a, b) in enumerate(DATA[data_key][lang]))
+    web = '<section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section>' if 'privacy' in kind else ''
+    return f'''<section class="page-head legal-head"><p class="eyebrow">COLOR SORTING PUZZLE · {'Updated 26 October 2026' if lang == 'en' else 'Cập nhật 26/10/2026'}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WIN Entertainments · DVK · game@dvk.vn</p></section><div class="legal-body"><nav aria-label="Policy links"><a href="{url(PATHS['color_privacy'], lang)}">{esc(t['privacy'])}</a> · <a href="{url(PATHS['color_terms'], lang)}">{esc(t['terms'])}</a></nav>{sections}{web}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
+
+def color_game(lang):
+    vi = lang == 'vi'
+    title = 'Color Sorting Puzzle — Game Rót Nước Phân Loại Màu' if vi else 'Color Sorting Puzzle — Water Color Pouring Brain Game'
+    intro = 'Rót nước màu giữa các ống nghiệm sao cho mỗi ống chỉ chứa một màu duy nhất! 429 màn chơi giải đố đã kiểm chứng lời giải 100%, hỗ trợ thêm ống, gợi ý và chơi offline mượt mà trên Android.' if vi else 'Pour colored water between tubes until every bottle holds a single pure color! 429 solver-verified puzzle stages, extra tubes, smart hints, and 100% offline play on Android.'
+    features = [
+        ('🧪 429 Màn Chơi Chuẩn Xác' if vi else '🧪 429 Verified Stages', 'Toàn bộ 429 màn chơi được thiết kế cân bằng và kiểm chứng lời giải 100%.' if vi else 'All 429 puzzle levels are balanced and 100% solver-verified for fair logic play.'),
+        ('💡 Gợi Ý & Thêm Ống' if vi else '💡 Smart Hints & Extra Tubes', 'Sử dụng gợi ý nước đi thông minh hoặc thêm ống nghiệm khi gặp thế cờ khó.' if vi else 'Use smart move hints or add an extra tube whenever you encounter a tricky bottle layout.'),
+        ('📶 Chơi Offline 100%' if vi else '📶 100% Offline Gameplay', 'Không giới hạn thời gian, chơi mượt mà mọi lúc mọi nơi không cần kết nối Wi-Fi.' if vi else 'No stressful timers—play seamlessly anytime, anywhere without an internet connection.'),
+    ]
+    feature_cards = ''.join(f'<div class="feature-card" style="background:#fff; border:1px solid #bae6fd; padding:24px; border-radius:18px;"><h3 style="margin:0 0 12px; color:#0284c7;">{esc(h)}</h3><p style="margin:0; line-height:1.7; color:#334155;">{esc(b)}</p></div>' for h, b in features)
+    privacy_url = url(PATHS['color_privacy'], lang)
+    terms_url = url(PATHS['color_terms'], lang)
+    return f'''<section class="page-head game-page-head">
+        <div>
+            <p class="eyebrow">WIN ENTERTAINMENTS · COLOR SORTING PUZZLE</p>
+            <h1>{title}</h1>
+            <p class="lead">{intro}</p>
+            <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap; margin:24px 0;">
+                <span class="pill">Android · Water Sort Puzzle</span>
+                <span class="pill" style="background:#e8f5e9; color:#2e7d32; border:1px solid #c8e6c9;">{'Offline 100%' if vi else '100% Offline'}</span>
+                <span class="pill" style="background:#e0f2fe; color:#0369a1; border:1px solid #bae6fd;">Target API 36</span>
+            </div>
+            <div style="display:flex; gap:16px; align-items:center; flex-wrap:wrap; margin-top:28px;">
+                <a class="button" href="{privacy_url}">{'Chính Sách Quyền Riêng Tư →' if vi else 'View Privacy Policy →'}</a>
+                <a class="button" href="{terms_url}" style="background:#0f172a; color:#fff;">{'Điều Khoản Sử Dụng' if vi else 'Terms of Use'}</a>
+            </div>
+        </div>
+        <div style="display:grid; place-items:center;">
+            <img src="/assets/color-sorting-icon.png" alt="Color Sorting Puzzle Icon" width="220" height="220" style="border-radius:36px; box-shadow:0 20px 40px rgba(2,132,199,0.25); border:3px solid #fff;">
+        </div>
+    </section>
+    <section style="padding: 20px 48px 60px;">
+        <h2 style="color:#0284c7; margin-bottom:28px;">{'Tính Năng Nổi Bật' if vi else 'Game Features'}</h2>
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:20px;">
+            {feature_cards}
+        </div>
+        <div style="margin-top:40px; padding:24px; background:#f0f9ff; border-radius:18px; border:1px solid #bae6fd; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px;">
+            <div>
+                <strong style="color:#0f172a; font-size:16px;">{'Nhà phát triển: WIN Entertainments & DVK' if vi else 'Developer: WIN Entertainments & DVK'}</strong>
+                <p style="margin:4px 0 0; color:#334155; font-size:14px;">Package: com.colorsorting.puzzle · Support: game@dvk.vn</p>
+            </div>
+            <a class="text-link" href="{privacy_url}" style="color:#0284c7; font-weight:700;">{'Đọc Chính Sách Bảo Mật →' if vi else 'Read Full Policy →'}</a>
+        </div>
+    </section>'''
+
 def candy_legal(kind, lang):
     t = TEXT[lang]
     data_key = 'candy_privacy' if 'privacy' in kind else 'candy_terms'
@@ -1305,6 +1380,12 @@ for lang in ['en', 'vi']:
         elif kind == 'candy_privacy' or kind == 'candy_terms':
             body = candy_legal(kind, lang)
             title = TEXT[lang][('candy_privacytitle' if kind == 'candy_privacy' else 'candy_termstitle')]
+        elif kind == 'color_game':
+            body = color_game(lang)
+            title = 'Color Sorting Puzzle — Game Rót Nước Phân Loại Màu' if lang == 'vi' else 'Color Sorting Puzzle — Water Color Pouring Brain Game'
+        elif kind == 'color_privacy' or kind == 'color_terms':
+            body = color_legal(kind, lang)
+            title = TEXT[lang][('color_privacytitle' if kind == 'color_privacy' else 'color_termstitle')]
         elif kind == 'game':
             body = game(lang)
             title = 'Puzzle Spark'
