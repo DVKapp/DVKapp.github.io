@@ -1214,156 +1214,156 @@
   "snowy_privacy": {
     "en": [
       [
-        "1. Who we are",
-        "Snowy Doors: Advent Calendar (iOS/iPadOS: com.winplaystudio.snowyDoors, Android: com.winplaystudio.snowy_doors) is a family Advent calendar game made by WinPlay Studio (DVK) for iPhone, iPad and Android. Questions about this policy: game@dvk.vn. This policy applies to the game; the dvk.vn website has its own privacy page."
+        "What is Snowy Doors with Pip, and who makes it?",
+        "Snowy Doors with Pip is an Advent calendar game for families with young children, made by WinPlay Studio (DVK). App IDs: com.winplaystudio.snowyDoors (iPhone, iPad) and com.winplaystudio.snowy_doors (Android). Questions about this policy go to game@dvk.vn. The dvk.vn website has its own privacy page."
       ],
       [
-        "2. No accounts, progress stays on your device",
-        "The game has no account and no sign-in. The doors you open, stars, gifts, the decorations on your street, your streak and settings are stored only on your device. Deleting the app deletes this data. The only data that leaves your device is described below (optional reward videos and in-app purchases)."
+        "What stays on your device?",
+        "There is no account and no sign-in. The street name your child picks, the doors opened, stars, gifts, the decorations placed on the street, the \"lamps lit in a row\" count and every switch on Pip's notice board are saved only on the device. Uninstalling the app deletes all of it. We cannot see this information."
       ],
       [
-        "3. Made for children and families",
-        "Snowy Doors is designed for children aged 5 and up playing with their families. We do not ask for or collect real names, email addresses, photos, contacts, voice recordings or location, and the game never uses the camera or microphone. There is no leaderboard, no chat, no player-to-player contact and no user-generated content. Pip the reindeer's voice lines are pre-recorded and built into the app. All purchases, links to outside websites and turning on reminders are behind a parental gate that asks a grown-up question every time. We follow the US Children's Online Privacy Protection Act (COPPA), the Google Play Families policy and Apple's App Store guidelines."
+        "What do we never ask for?",
+        "We never ask for a name, email address, photo, contact list, voice recording or precise location. The game does not use the camera or microphone. There is no chat, no leaderboard, no messages between players and nothing that children can post. Pip's voice lines are recorded in advance and built into the app."
       ],
       [
-        "4. No analytics or crash reports",
-        "The game does not include analytics or crash-reporting tools, and we do not collect any analytics or crash data about you."
+        "What leaves the device, and why?",
+        "Three things, all without names or accounts:\n- Anonymous usage statistics through Google Analytics for Firebase: for example \"door 4 opened\", \"a game was won with 2 stars\" or \"the shop was opened\". We use them to find doors that are too hard and to improve the game. Analytics is set to the child-safe mode: no advertising ID, no ad personalization and no ad-related consent.\n- Crash reports through Firebase Crashlytics: technical details about the device model, system version and what the app was doing when it crashed, so we can fix bugs.\n- The optional reward video (see the next answer).\nFirebase and Google may also process the device's IP address to deliver these services, as described at firebase.google.com/support/privacy and policies.google.com/privacy. We do not sell data and we do not use it to track anyone across other apps or websites."
       ],
       [
-        "5. Advertising (Google AdMob)",
-        "Snowy Doors never shows banner ads or ads between games. A version of the game may offer an optional reward video from Google AdMob (for example, watch a short video to get one extra decoration). Watching it is always a choice behind a parental gate. Ad requests are configured as child-directed and non-personalized, and the game does not use the advertising ID or ask for tracking permission. Google may process device information and IP address to serve and measure ads, as described at policies.google.com/technologies/ads and policies.google.com/privacy."
+        "Are there ads?",
+        "No banner ads and no ads between games. Once a day a grown-up can choose, after the Frosty lock, to play a short video from Google AdMob for one extra decoration. Ad requests are marked as child-directed and non-personalized, the game does not read the advertising ID and never asks for tracking permission. Google's ad policies: policies.google.com/technologies/ads."
       ],
       [
-        "6. Notifications",
-        "The game can send optional reminders (a new door is ready, keep your streak). They are local notifications scheduled on the device itself and are only sent after a grown-up turns them on. No reminders are sent between 9 pm and 9 am. We do not use a push notification server. You can turn them off in the game's settings or in your device settings at any time."
+        "How do purchases work?",
+        "All 25 doors, games and door gifts are free. The optional decoration packs (Magic Sky, Twinkly Rooftops, Street Lamps, Snowy Village and the Everything Pack) are sold through the Apple App Store or Google Play behind the Frosty lock. We never see your payment details; your store account and its family controls (Ask to Buy, Family Link) still apply."
       ],
       [
-        "7. In-app purchases",
-        "Optional decoration packs for the Decor Shop (Magic Sky, Twinkly Rooftops, Street Lamps, Snowy Village and the Everything Pack) are processed by the Apple App Store or Google Play. We never see or store your payment details. All 25 doors, mini-games and door gifts are free; purchases only add extra decorations. Your store account and its parental controls (Ask to Buy, Family Link) also apply."
+        "What about reminders?",
+        "Pip's door bell is off until a grown-up switches it on behind the Frosty lock. The reminders are local notifications scheduled on the device, never sent between 9 pm and 9 am, and we run no push server. Switch them off any time on Pip's notice board or in the device settings."
       ],
       [
-        "8. Your choices and data deletion",
-        "You can remove all game data by uninstalling the app. Parents can contact game@dvk.vn with any question; we will answer within 30 days."
+        "What is the Frosty lock?",
+        "Before purchases, outside links, reminders, the bonus video and \"Open every door now\", the game asks a grown-up to tap a date written out in words on a December calendar. It protects children from leaving the game or spending money by accident."
       ],
       [
-        "9. Changes and contact",
-        "If this policy changes, we will update this page and the effective date above. Contact: game@dvk.vn."
+        "Children's privacy laws",
+        "Snowy Doors is designed for children and families. We follow the US Children's Online Privacy Protection Act (COPPA), the GDPR rules for children, the Google Play Families policy and the Apple App Store guidelines for apps used by children."
+      ],
+      [
+        "How can parents delete data or ask questions?",
+        "Uninstall the app to delete everything stored on the device. To ask about or delete analytics and crash data linked to your device, write to game@dvk.vn with the approximate install date; we reply within 30 days."
+      ],
+      [
+        "Changes to this policy",
+        "If we change how Snowy Doors handles data, we update this page and the date at the top before the change reaches the app."
       ]
     ],
     "vi": [
       [
-        "1. Chúng tôi là ai",
-        "Snowy Doors: Advent Calendar (iOS/iPadOS: com.winplaystudio.snowyDoors, Android: com.winplaystudio.snowy_doors) là game lịch Advent cho cả nhà do WinPlay Studio (DVK) làm cho iPhone, iPad và Android. Câu hỏi về chính sách này: game@dvk.vn. Chính sách áp dụng cho game; website dvk.vn có trang quyền riêng tư riêng."
+        "Snowy Doors with Pip là gì, ai làm?",
+        "Snowy Doors with Pip là game lịch Advent cho gia đình có con nhỏ, do WinPlay Studio (DVK) làm. Mã ứng dụng: com.winplaystudio.snowyDoors (iPhone, iPad) và com.winplaystudio.snowy_doors (Android). Thắc mắc về chính sách này gửi game@dvk.vn. Trang web dvk.vn có chính sách riêng."
       ],
       [
-        "2. Không tài khoản, tiến độ lưu trên máy",
-        "Game không có tài khoản và không cần đăng nhập. Các cửa đã mở, sao, quà, đồ trang trí trên phố, chuỗi ngày chơi và cài đặt chỉ lưu trên máy của bạn. Xoá app là xoá các dữ liệu này. Dữ liệu duy nhất rời khỏi máy được mô tả bên dưới (video thưởng tuỳ chọn và mua hàng trong ứng dụng)."
+        "Dữ liệu nào chỉ nằm trên máy?",
+        "Không có tài khoản, không đăng nhập. Tên phố bé chọn, các cửa đã mở, sao, quà, đồ trang trí đặt trên phố, số \"đèn sáng liên tiếp\" và mọi công tắc trên bảng tin của Pip chỉ lưu trên máy. Gỡ app là xoá hết. Chúng tôi không xem được các thông tin này."
       ],
       [
-        "3. Dành cho trẻ em và gia đình",
-        "Snowy Doors dành cho trẻ từ 5 tuổi chơi cùng gia đình. Chúng tôi không hỏi và không thu thập tên thật, email, ảnh, danh bạ, giọng nói hay vị trí, và game không bao giờ dùng camera hay micro. Không có bảng xếp hạng, không chat, không liên lạc giữa người chơi và không có nội dung do người dùng tạo. Giọng nói của tuần lộc Pip được thu sẵn trong app. Mọi giao dịch mua, liên kết ra website bên ngoài và việc bật nhắc nhở đều nằm sau cổng phụ huynh, lần nào cũng hỏi câu dành cho người lớn. Chúng tôi tuân thủ Đạo luật Bảo vệ Quyền riêng tư Trực tuyến của Trẻ em Hoa Kỳ (COPPA), chính sách Gia đình của Google Play và hướng dẫn App Store của Apple."
+        "Chúng tôi không bao giờ hỏi gì?",
+        "Không hỏi tên, email, ảnh, danh bạ, ghi âm hay vị trí chính xác. Game không dùng camera, micro. Không có chat, bảng xếp hạng, tin nhắn giữa người chơi hay nội dung do trẻ đăng. Giọng Pip được thu sẵn trong app."
       ],
       [
-        "4. Không phân tích, không báo lỗi",
-        "Game không có công cụ phân tích hay báo lỗi, và chúng tôi không thu thập dữ liệu phân tích hay dữ liệu lỗi nào về bạn."
+        "Dữ liệu nào rời khỏi máy và để làm gì?",
+        "Ba thứ, đều không kèm tên hay tài khoản:\n- Thống kê sử dụng ẩn danh qua Google Analytics for Firebase, ví dụ \"đã mở cửa 4\", \"thắng một trò 2 sao\", \"đã mở cửa hàng\". Chúng tôi dùng để tìm cửa quá khó và cải thiện game. Analytics đặt ở chế độ an toàn cho trẻ: không mã quảng cáo, không cá nhân hoá quảng cáo.\n- Báo lỗi qua Firebase Crashlytics: thông tin kỹ thuật như đời máy, phiên bản hệ điều hành và việc app đang làm khi bị lỗi.\n- Video quà thêm tuỳ chọn (xem câu sau).\nFirebase và Google có thể xử lý địa chỉ IP để cung cấp dịch vụ, theo firebase.google.com/support/privacy và policies.google.com/privacy. Chúng tôi không bán dữ liệu, không theo dõi ai qua app hay web khác."
       ],
       [
-        "5. Quảng cáo (Google AdMob)",
-        "Snowy Doors không bao giờ hiện quảng cáo banner hay quảng cáo xen giữa các trò. Một phiên bản của game có thể có video thưởng tuỳ chọn từ Google AdMob (ví dụ: xem một video ngắn để nhận thêm một món trang trí). Xem hay không luôn là lựa chọn, nằm sau cổng phụ huynh. Yêu cầu quảng cáo được đặt ở chế độ dành cho trẻ em và không cá nhân hoá, game không dùng mã quảng cáo (advertising ID) và không xin quyền theo dõi. Google có thể xử lý thông tin thiết bị và địa chỉ IP để hiển thị và đo lường quảng cáo, như mô tả tại policies.google.com/technologies/ads và policies.google.com/privacy."
+        "Có quảng cáo không?",
+        "Không banner, không quảng cáo chen giữa trò. Mỗi ngày một lần, người lớn có thể chọn (sau Frosty lock) xem một video ngắn từ Google AdMob để nhận thêm một món trang trí. Yêu cầu quảng cáo đặt chế độ trẻ em, không cá nhân hoá; game không đọc mã quảng cáo và không xin quyền theo dõi."
       ],
       [
-        "6. Thông báo",
-        "Game có thể gửi nhắc nhở tuỳ chọn (cửa mới đã sẵn sàng, giữ chuỗi ngày chơi). Đây là thông báo nội bộ do chính máy lên lịch và chỉ gửi sau khi người lớn bật. Không nhắc từ 21 giờ đến 9 giờ sáng. Chúng tôi không dùng máy chủ thông báo đẩy. Bạn có thể tắt bất cứ lúc nào trong cài đặt của game hoặc của máy."
+        "Mua hàng hoạt động thế nào?",
+        "Cả 25 cửa, các trò và quà sau mỗi cửa đều miễn phí. Gói trang trí tuỳ chọn (Magic Sky, Twinkly Rooftops, Street Lamps, Snowy Village và Everything Pack) bán qua Apple App Store hoặc Google Play, sau Frosty lock. Chúng tôi không thấy thông tin thanh toán; tài khoản cửa hàng và kiểm soát gia đình (Ask to Buy, Family Link) vẫn áp dụng."
       ],
       [
-        "7. Mua hàng trong ứng dụng",
-        "Các gói đồ trang trí tuỳ chọn trong Decor Shop (Magic Sky, Twinkly Rooftops, Street Lamps, Snowy Village và Everything Pack) được Apple App Store hoặc Google Play xử lý. Chúng tôi không bao giờ thấy hay lưu thông tin thanh toán của bạn. Cả 25 cửa, các trò nhỏ và quà sau mỗi cửa đều miễn phí; mua hàng chỉ thêm đồ trang trí. Tài khoản cửa hàng và các chế độ kiểm soát của phụ huynh (Ask to Buy, Family Link) vẫn áp dụng."
+        "Còn nhắc nhở?",
+        "Chuông cửa của Pip tắt cho tới khi người lớn bật sau Frosty lock. Nhắc nhở là thông báo cục bộ trên máy, không bao giờ gửi từ 21h đến 9h, chúng tôi không có máy chủ đẩy tin. Tắt bất cứ lúc nào trên bảng tin của Pip hoặc trong cài đặt máy."
       ],
       [
-        "8. Lựa chọn của bạn và xoá dữ liệu",
-        "Bạn có thể xoá toàn bộ dữ liệu game bằng cách gỡ app. Phụ huynh có thể liên hệ game@dvk.vn với mọi câu hỏi; chúng tôi trả lời trong vòng 30 ngày."
+        "Frosty lock là gì?",
+        "Trước khi mua hàng, mở link ngoài, bật nhắc, xem video quà thêm và \"Open every door now\", game hỏi người lớn chạm đúng một ngày (viết bằng chữ) trên lịch tháng 12, để bé không vô tình rời game hay tiêu tiền."
       ],
       [
-        "9. Thay đổi và liên hệ",
-        "Nếu chính sách thay đổi, chúng tôi sẽ cập nhật trang này và ngày hiệu lực ở trên. Liên hệ: game@dvk.vn."
+        "Luật bảo vệ quyền riêng tư của trẻ",
+        "Snowy Doors dành cho trẻ em và gia đình. Chúng tôi tuân thủ COPPA (Mỹ), quy định GDPR về trẻ em, chính sách Gia đình của Google Play và hướng dẫn của Apple cho app trẻ em dùng."
+      ],
+      [
+        "Bố mẹ xoá dữ liệu hay hỏi thế nào?",
+        "Gỡ app để xoá mọi thứ trên máy. Muốn hỏi hoặc xoá dữ liệu thống kê, báo lỗi gắn với máy, gửi game@dvk.vn kèm ngày cài gần đúng; chúng tôi trả lời trong 30 ngày."
+      ],
+      [
+        "Thay đổi chính sách",
+        "Nếu thay đổi cách Snowy Doors xử lý dữ liệu, chúng tôi cập nhật trang này và ngày ở đầu trang trước khi bản app mới ra mắt."
       ]
     ]
   },
   "snowy_terms": {
     "en": [
       [
-        "1. Using the game",
-        "Snowy Doors: Advent Calendar is provided by WinPlay Studio (DVK) for personal, non-commercial family entertainment. By playing you agree to these terms and to the terms of the Apple App Store or Google Play from which you installed it."
+        "The short version",
+        "Snowy Doors with Pip is a family game by WinPlay Studio (DVK). Play it for fun at home, keep it fair, and grown-ups decide about purchases. The longer rules are below; the terms of the Apple App Store or Google Play also apply."
       ],
       [
-        "2. Doors and the calendar",
-        "One new door opens each day following your device's date (Holiday Countdown in November, Advent from December 1 to 25). Doors you missed stay open to play later. Changing the device clock does not unlock future doors early."
+        "How the doors open",
+        "One door opens per day, following the device date: a 30-door Holiday Countdown in November and the Advent street from December 1 to 25. Missed doors stay open. A grown-up can switch on \"Open every door now\" on Pip's notice board. From January to October the last season's doors are all open."
       ],
       [
-        "3. Virtual items",
-        "Stars, door gifts and decorations are virtual items with no cash value. They cannot be exchanged for money or transferred between players. They are stored on your device and may be lost if you delete the app."
+        "Gifts and decorations",
+        "Stars, door gifts, the street name and decorations are virtual items with no money value. They cannot be sold, swapped or moved to another player, and they disappear if the app is deleted."
       ],
       [
-        "4. Purchases",
-        "Purchases are optional, made through Apple or Google and protected by a parental gate. The Decor Shop packs Magic Sky (snowy.sky), Twinkly Rooftops (snowy.roof), Street Lamps (snowy.lights), Snowy Village (snowy.ground) and the Everything Pack (snowy.all) are one-time, non-consumable purchases that you keep in future seasons; you can restore them with Restore purchases in the shop. Each pack includes one free decoration to try first. Prices are shown in the store in your local currency, and refunds are handled by Apple or Google under their rules."
+        "Decoration packs",
+        "Magic Sky (snowy.sky), Twinkly Rooftops (snowy.roof), Street Lamps (snowy.lights), Snowy Village (snowy.ground) and the Everything Pack (snowy.all) are optional one-time purchases that stay yours in future seasons. Each pack shows one free decoration first. Use \"Restore purchases\" in the Decor Shop on a new device. Prices appear in your local currency in the store, and refunds follow Apple's or Google's rules."
       ],
       [
-        "5. Fair play",
-        "Please do not modify, hack or reverse engineer the game. We may change mini-games, gifts, decorations and prices to keep the game fun and balanced."
+        "Please play fair",
+        "Do not modify, hack or reverse engineer the game. We may adjust games, gifts, decorations and prices to keep the game fun and balanced."
       ],
       [
-        "6. Content and license",
-        "The game, its mini-games, characters (including Pip the reindeer), art, music and voice lines belong to WinPlay Studio (DVK) and its licensors. You receive a limited, non-transferable license to play the game on your devices."
+        "Who owns what",
+        "Pip, the 25 games, the art, music and voice lines belong to WinPlay Studio (DVK) and its licensors. You get a personal, non-transferable license to play on your own devices. Fonts: Mountains of Christmas (Apache License 2.0) and Baloo 2 (SIL Open Font License)."
       ],
       [
-        "7. Credits",
-        "The game uses the Mountains of Christmas font (Apache License 2.0) and the Baloo 2 font (SIL Open Font License)."
-      ],
-      [
-        "8. Availability",
-        "We work to keep the game running smoothly but cannot guarantee it will always be free of errors. Features may change or stop over time."
-      ],
-      [
-        "9. Contact",
-        "Questions or problems: game@dvk.vn."
+        "If something goes wrong",
+        "We work hard to keep the doors opening smoothly but cannot promise the game will always be free of errors, and features may change over time. Tell us at game@dvk.vn and we will help."
       ]
     ],
     "vi": [
       [
-        "1. Sử dụng game",
-        "Snowy Doors: Advent Calendar do WinPlay Studio (DVK) cung cấp cho mục đích giải trí gia đình, cá nhân, phi thương mại. Khi chơi, bạn đồng ý với các điều khoản này và điều khoản của Apple App Store hoặc Google Play nơi bạn cài game."
+        "Tóm tắt",
+        "Snowy Doors with Pip là game gia đình của WinPlay Studio (DVK). Chơi vui ở nhà, chơi công bằng, và người lớn quyết định chuyện mua hàng. Quy định chi tiết ở dưới; điều khoản của Apple App Store hoặc Google Play cũng áp dụng."
       ],
       [
-        "2. Cửa và lịch",
-        "Mỗi ngày mở một cửa mới theo ngày trên máy (Holiday Countdown trong tháng 11, Advent từ 1 đến 25 tháng 12). Cửa bỏ lỡ vẫn mở để chơi sau. Chỉnh giờ máy không mở sớm được các cửa tương lai."
+        "Cửa mở thế nào",
+        "Mỗi ngày mở một cửa theo ngày trên máy: phố Holiday Countdown 30 cửa trong tháng 11 và phố Advent từ 1 đến 25/12. Cửa bỏ lỡ vẫn mở. Người lớn có thể bật \"Open every door now\" trên bảng tin của Pip. Từ tháng 1 đến tháng 10, mọi cửa của mùa trước đều mở."
       ],
       [
-        "3. Vật phẩm ảo",
-        "Sao, quà sau mỗi cửa và đồ trang trí là vật phẩm ảo, không có giá trị tiền mặt. Không đổi được thành tiền và không chuyển được giữa người chơi. Chúng được lưu trên máy và có thể mất nếu bạn xoá app."
+        "Quà và đồ trang trí",
+        "Sao, quà sau cửa, tên phố và đồ trang trí là vật phẩm ảo, không có giá trị tiền. Không thể bán, đổi hay chuyển cho người khác, và sẽ mất nếu xoá app."
       ],
       [
-        "4. Mua hàng",
-        "Mua hàng là tuỳ chọn, thực hiện qua Apple hoặc Google và được bảo vệ bằng cổng phụ huynh. Các gói Decor Shop Magic Sky (snowy.sky), Twinkly Rooftops (snowy.roof), Street Lamps (snowy.lights), Snowy Village (snowy.ground) và Everything Pack (snowy.all) là gói mua một lần (non-consumable), giữ lại cho các mùa sau; bạn có thể khôi phục bằng nút Restore purchases trong cửa hàng. Mỗi gói có một món trang trí miễn phí để thử trước. Giá hiển thị trong cửa hàng theo tiền tệ địa phương, việc hoàn tiền do Apple hoặc Google xử lý theo quy định của họ."
+        "Gói trang trí",
+        "Magic Sky (snowy.sky), Twinkly Rooftops (snowy.roof), Street Lamps (snowy.lights), Snowy Village (snowy.ground) và Everything Pack (snowy.all) là mua hàng tuỳ chọn một lần, giữ mãi cho các mùa sau. Mỗi gói cho thử trước một món miễn phí. Dùng \"Restore purchases\" trong Decor Shop khi đổi máy. Giá hiện bằng tiền địa phương trên cửa hàng; hoàn tiền theo quy định của Apple hoặc Google."
       ],
       [
-        "5. Chơi công bằng",
-        "Vui lòng không sửa đổi, hack hay dịch ngược game. Chúng tôi có thể thay đổi trò nhỏ, quà, đồ trang trí và giá để game luôn vui và cân bằng."
+        "Chơi công bằng",
+        "Không sửa, hack hay dịch ngược game. Chúng tôi có thể điều chỉnh trò, quà, đồ trang trí và giá để game luôn vui và cân bằng."
       ],
       [
-        "6. Nội dung và giấy phép",
-        "Game, các trò nhỏ, nhân vật (gồm tuần lộc Pip), hình ảnh, nhạc và giọng nói thuộc về WinPlay Studio (DVK) và các bên cấp phép. Bạn được cấp giấy phép giới hạn, không chuyển nhượng để chơi game trên thiết bị của mình."
+        "Quyền sở hữu",
+        "Pip, 25 trò chơi, hình ảnh, nhạc và giọng nói thuộc WinPlay Studio (DVK) và bên cấp phép. Bạn được cấp quyền cá nhân, không chuyển nhượng để chơi trên thiết bị của mình. Font: Mountains of Christmas (Apache License 2.0) và Baloo 2 (SIL Open Font License)."
       ],
       [
-        "7. Ghi công",
-        "Game dùng phông chữ Mountains of Christmas (Apache License 2.0) và Baloo 2 (SIL Open Font License)."
-      ],
-      [
-        "8. Tính sẵn có",
-        "Chúng tôi cố gắng để game chạy ổn định nhưng không thể bảo đảm luôn không có lỗi. Tính năng có thể thay đổi hoặc ngừng theo thời gian."
-      ],
-      [
-        "9. Liên hệ",
-        "Câu hỏi hoặc sự cố: game@dvk.vn."
+        "Khi có sự cố",
+        "Chúng tôi cố giữ các cửa mở trơn tru nhưng không cam kết game không bao giờ lỗi, và tính năng có thể thay đổi. Báo cho chúng tôi qua game@dvk.vn, chúng tôi sẽ hỗ trợ."
       ]
     ]
   },

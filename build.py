@@ -85,9 +85,9 @@ SEO = {
         'plop_privacy': ('Plop: Word Ladder Puzzle Privacy Policy | DVK', 'Privacy policy for Plop: Word Ladder Puzzle. No accounts, progress kept on your device, child-directed non-personalized AdMob ads, parental gate.'),
         'racer_game': ('Times Table Racer: Math Kids — Multiplication Racing Game | DVK', 'Times Table Racer: Math Kids for iPhone, iPad and Android. Steer your race car through the right answer gate: first-grade adding up to 20 x 20 times tables, 1,080 races, 54 cars to collect.'),
         'racer_privacy': ('Times Table Racer: Math Kids Privacy Policy | DVK', 'Privacy policy for Times Table Racer: Math Kids. No accounts, progress kept on your device, child-directed non-personalized AdMob ads, parental gate.'),
-        'snowy_game': ('Snowy Doors: Advent Calendar — Family Advent Calendar Game | DVK', 'Snowy Doors: Advent Calendar for iPhone, iPad and Android. Tear the gift paper to open a door every day, play a mini-game with Pip the baby reindeer and light up your own snowy village.'),
-        'snowy_privacy': ('Snowy Doors: Advent Calendar Privacy Policy | DVK', 'Privacy policy for Snowy Doors: Advent Calendar. No accounts, progress kept on your device, no analytics, optional child-directed reward videos, parental gate.'),
-        'snowy_terms': ('Snowy Doors: Advent Calendar Terms of Use | DVK', 'Terms of use for Snowy Doors: Advent Calendar: daily doors, virtual decorations, Decor Shop packs, in-app purchases and fair play.'),
+        'snowy_game': ('Snowy Doors with Pip — Advent Calendar Game Kids Can Play Alone', 'Snowy Doors with Pip: 25 doors, 25 different Christmas mini-games, and Pip the reindeer reads every rule aloud. How to play, screenshots and a guide for parents.'),
+        'snowy_privacy': ('Snowy Doors with Pip Privacy Policy', 'What Snowy Doors with Pip keeps on the device, what anonymous statistics and crash reports it sends, the optional child-directed reward video and the Frosty lock.'),
+        'snowy_terms': ('Snowy Doors with Pip Terms of Use', 'How the doors open, gifts and decorations, decoration packs, fair play and ownership in Snowy Doors with Pip.'),
         'munch_game': ('Munch Parade: Animal Feast — Family Animal Feeding Puzzle | DVK', 'Munch Parade: Animal Feast for iPhone, iPad and Android. Tap a wagon and watch baby animals munch a picnic feast away, find the surprise toy inside and learn who eats what.'),
         'munch_privacy': ('Munch Parade: Animal Feast Privacy Policy | DVK', 'Privacy policy for Munch Parade: Animal Feast. No accounts, progress kept on your device, no analytics, no ads in this version, parental gate.'),
         'munch_terms': ('Munch Parade: Animal Feast Terms of Use | DVK', 'Terms of use for Munch Parade: Animal Feast: feasts, parade tickets, surprise toys, daily gifts and fair play.'),
@@ -124,9 +124,9 @@ SEO = {
         'plop_privacy': ('Chính sách Quyền riêng tư Plop: Word Ladder Puzzle | DVK', 'Chính sách quyền riêng tư Plop: Word Ladder Puzzle: không tài khoản, tiến độ lưu trên máy, quảng cáo AdMob chế độ trẻ em không cá nhân hoá, cổng phụ huynh.'),
         'racer_game': ('Times Table Racer: Math Kids — Game Đua Xe Học Bảng Cửu Chương | DVK', 'Times Table Racer: Math Kids cho iPhone, iPad và Android. Lái xe qua cổng đáp án đúng: từ phép cộng lớp 1 đến bảng cửu chương 20 x 20, 1.080 chặng đua, 54 xe để sưu tập.'),
         'racer_privacy': ('Chính sách Quyền riêng tư Times Table Racer: Math Kids | DVK', 'Chính sách quyền riêng tư Times Table Racer: Math Kids: không tài khoản, tiến độ lưu trên máy, quảng cáo AdMob chế độ trẻ em không cá nhân hoá, cổng phụ huynh.'),
-        'snowy_game': ('Snowy Doors: Advent Calendar — Game Lịch Advent Cho Cả Nhà | DVK', 'Snowy Doors: Advent Calendar cho iPhone, iPad và Android. Xé giấy quà mở một cửa mỗi ngày, chơi trò nhỏ cùng tuần lộc con Pip và thắp sáng làng tuyết của riêng bé.'),
-        'snowy_privacy': ('Chính sách Quyền riêng tư Snowy Doors: Advent Calendar | DVK', 'Chính sách quyền riêng tư Snowy Doors: Advent Calendar: không tài khoản, tiến độ lưu trên máy, không phân tích, video thưởng tuỳ chọn chế độ trẻ em, cổng phụ huynh.'),
-        'snowy_terms': ('Điều khoản Sử dụng Snowy Doors: Advent Calendar | DVK', 'Điều khoản sử dụng Snowy Doors: Advent Calendar: cửa mỗi ngày, đồ trang trí ảo, gói Decor Shop, mua hàng trong ứng dụng và chơi công bằng.'),
+        'snowy_game': ('Snowy Doors with Pip — Lịch Advent bé tự chơi được', 'Snowy Doors with Pip: 25 cửa, 25 trò Giáng sinh khác nhau, tuần lộc Pip đọc to mọi luật chơi. Cách chơi, ảnh màn chơi và hướng dẫn cho bố mẹ.'),
+        'snowy_privacy': ('Quyền riêng tư Snowy Doors with Pip', 'Snowy Doors with Pip lưu gì trên máy, gửi thống kê ẩn danh và báo lỗi gì, video quà thêm tuỳ chọn chế độ trẻ em và Frosty lock.'),
+        'snowy_terms': ('Điều khoản Snowy Doors with Pip', 'Cửa mở thế nào, quà và đồ trang trí, gói trang trí, chơi công bằng và quyền sở hữu trong Snowy Doors with Pip.'),
         'munch_game': ('Munch Parade: Animal Feast — Game Cho Thú Ăn Cho Cả Nhà | DVK', 'Munch Parade: Animal Feast cho iPhone, iPad và Android. Chạm toa để đoàn thú con ăn sạch mâm tiệc picnic, tìm đồ chơi bất ngờ bên trong và học thú nào ăn gì.'),
         'munch_privacy': ('Chính sách Quyền riêng tư Munch Parade: Animal Feast | DVK', 'Chính sách quyền riêng tư Munch Parade: Animal Feast: không tài khoản, tiến độ lưu trên máy, không phân tích, phiên bản này không có quảng cáo, cổng phụ huynh.'),
         'munch_terms': ('Điều khoản Sử dụng Munch Parade: Animal Feast | DVK', 'Điều khoản sử dụng Munch Parade: Animal Feast: bữa tiệc, vé diễu hành, đồ chơi bất ngờ, quà mỗi ngày và chơi công bằng.'),
@@ -190,10 +190,10 @@ TEXT = {
         'racer_privacylead': 'How Times Table Racer handles data: no accounts, progress kept on your device, child-directed non-personalized ads and a parental gate.',
         'racer_termstitle': 'Times Table Racer: Math Kids Terms of Use',
         'racer_termslead': 'Rules for virtual bolts and Nitro, in-app purchases, learning content and fair play in Times Table Racer: Math Kids.',
-        'snowy_privacytitle': 'Snowy Doors: Advent Calendar Privacy Policy',
-        'snowy_privacylead': 'How Snowy Doors handles data: no accounts, progress kept on your device, no analytics, optional child-directed reward videos and a parental gate.',
-        'snowy_termstitle': 'Snowy Doors: Advent Calendar Terms of Use',
-        'snowy_termslead': 'Rules for daily doors, virtual decorations, Decor Shop packs, in-app purchases and fair play in Snowy Doors: Advent Calendar.',
+        'snowy_privacytitle': 'Privacy at Snowy Doors with Pip',
+        'snowy_privacylead': 'Answers for parents: what stays on the device, what anonymous statistics leave it, and how the Frosty lock keeps purchases and links for grown-ups.',
+        'snowy_termstitle': 'Snowy Doors with Pip: house rules',
+        'snowy_termslead': 'How the doors open, what gifts and decoration packs are, and how to play fair on your snowy street.',
         'munch_privacytitle': 'Munch Parade: Animal Feast Privacy Policy',
         'munch_privacylead': 'How Munch Parade handles data: no accounts, progress kept on your device, no analytics, no ads in this version and a parental gate.',
         'munch_termstitle': 'Munch Parade: Animal Feast Terms of Use',
@@ -268,10 +268,10 @@ TEXT = {
         'racer_privacylead': 'Cách Times Table Racer xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, quảng cáo chế độ trẻ em không cá nhân hoá và cổng phụ huynh.',
         'racer_termstitle': 'Điều Khoản Sử Dụng Times Table Racer: Math Kids',
         'racer_termslead': 'Quy định về Bolts và Nitro ảo, mua hàng trong ứng dụng, nội dung học tập và chơi công bằng trong Times Table Racer: Math Kids.',
-        'snowy_privacytitle': 'Chính Sách Quyền Riêng Tư Snowy Doors: Advent Calendar',
-        'snowy_privacylead': 'Cách Snowy Doors xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, không phân tích, video thưởng tuỳ chọn chế độ trẻ em và cổng phụ huynh.',
-        'snowy_termstitle': 'Điều Khoản Sử Dụng Snowy Doors: Advent Calendar',
-        'snowy_termslead': 'Quy định về cửa mỗi ngày, đồ trang trí ảo, gói Decor Shop, mua hàng trong ứng dụng và chơi công bằng trong Snowy Doors: Advent Calendar.',
+        'snowy_privacytitle': 'Quyền riêng tư ở Snowy Doors with Pip',
+        'snowy_privacylead': 'Giải đáp cho bố mẹ: dữ liệu nào ở lại trên máy, thống kê ẩn danh nào được gửi đi, và Frosty lock giữ mua hàng, link ngoài cho người lớn ra sao.',
+        'snowy_termstitle': 'Snowy Doors with Pip: nội quy',
+        'snowy_termslead': 'Cửa mở thế nào, quà và gói trang trí là gì, và cách chơi công bằng trên con phố tuyết.',
         'munch_privacytitle': 'Chính Sách Quyền Riêng Tư Munch Parade: Animal Feast',
         'munch_privacylead': 'Cách Munch Parade xử lý dữ liệu: không tài khoản, tiến độ lưu trên máy, không phân tích, phiên bản này không có quảng cáo và có cổng phụ huynh.',
         'munch_termstitle': 'Điều Khoản Sử Dụng Munch Parade: Animal Feast',
@@ -1071,8 +1071,8 @@ def snowy_legal(kind, lang):
     title_key = 'snowy_privacytitle' if 'privacy' in kind else 'snowy_termstitle'
     lead_key = 'snowy_privacylead' if 'privacy' in kind else 'snowy_termslead'
     sections = ''.join('<section id="section-' + str(i + 1) + '"><h2>' + esc(a) + '</h2>' + paragraph(b) + '</section>' for i, (a, b) in enumerate(DATA[data_key][lang]))
-    eff = 'Hiệu lực: 25/10/2026' if lang == 'vi' else 'Effective: October 25, 2026'
-    return f'''<section class="page-head legal-head"><p class="eyebrow">SNOWY DOORS · {esc(eff)}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WinPlay Studio · DVK · game@dvk.vn</p></section><div class="legal-body">{sections}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
+    eff = 'Hiệu lực: 28/10/2026' if lang == 'vi' else 'Effective: October 28, 2026'
+    return f'''<section class="page-head legal-head"><p class="eyebrow">SNOWY DOORS WITH PIP · {esc(eff)}</p><h1>{esc(t[title_key])}</h1><p class="lead">{esc(t[lead_key])}</p><p class="provider">WinPlay Studio · DVK · game@dvk.vn</p></section><div class="legal-body">{sections}<a class="text-link" href="{url(PATHS['support'], lang)}">{esc(t['contact'])} →</a></div>'''
 
 def munch_legal(kind, lang):
     t = TEXT[lang]
@@ -1099,21 +1099,89 @@ def munch_game(lang):
     note = 'Phiên bản này không có quảng cáo và không có mua hàng trong ứng dụng. Nếu sau này có, chúng tôi sẽ cập nhật chính sách và mọi giao dịch sẽ nằm sau cổng phụ huynh.' if vi else 'This version has no ads and no in-app purchases. If that ever changes, we will update our policies first, and any purchase will sit behind a parental gate.'
     return f'''<section class="page-head game-page-head"><div><p class="eyebrow">WINPLAY STUDIO · MUNCH PARADE</p><h1>{title}</h1><p class="lead">{esc(intro)}</p><div style="display:flex; gap:12px; flex-wrap:wrap; margin:24px 0;"><span class="pill">iOS · iPadOS · Android</span><span class="pill">{'Sắp ra mắt' if vi else 'Coming soon'}</span></div><div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:28px;"><a class="button" href="{url(PATHS['munch_privacy'], lang)}">{'Chính sách quyền riêng tư →' if vi else 'Privacy Policy →'}</a><a class="button" href="{url(PATHS['munch_terms'], lang)}" style="background:#7a4a22; color:#fff;">{'Điều khoản sử dụng' if vi else 'Terms of Use'}</a></div></div><div style="display:grid; place-items:center;"><img src="/assets/munch-parade-icon.png" alt="Munch Parade icon" width="220" height="220" style="border-radius:44px; box-shadow:0 20px 40px rgba(122,74,34,0.3); border:3px solid #fff;"></div></section><section style="padding: 20px 48px 60px;"><h2 style="color:#7a4a22; margin-bottom:28px;">{'Tính năng' if vi else 'Features'}</h2><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:20px;">{cards}</div><p class="quiet" style="margin-top:32px;">{esc(note)}</p></section>'''
 
+SNOWY_LINEUP = [
+    ('Snowball Toss', 'Ném bóng tuyết'), ('Find Pip', 'Tìm Pip'), ('Cookie Icing', 'Vẽ kem bánh gừng'),
+    ('Present Stack', 'Chồng hộp quà'), ('Ornament Catch', 'Hứng quả châu'), ('Lantern Lights', 'Nhớ đèn lồng'),
+    ('Sled Ride', 'Trượt xe tuyết'), ('Stocking Pairs', 'Lật cặp tất'), ('Tree Trimming', 'Trang trí cây thông'),
+    ('Jingle Bells', 'Rung chuông'), ('Penguin Count', 'Đếm chim cánh cụt'), ('Frosty Window', 'Lau kính đóng băng'),
+    ('Gift Wrap', 'Gói quà'), ('Cocoa Pour', 'Rót ca cao'), ('Chimney Drop', 'Thả quà xuống ống khói'),
+    ('Snowman Builder', 'Đắp người tuyết'), ('Skate Trail', 'Trượt băng'), ('Shadow Match', 'Ghép bóng'),
+    ('Sleigh Steer', 'Lái xe tuần lộc'), ('Snow Path', 'Mê cung tuyết'), ('Dress Up Pip', 'Mặc đồ cho Pip'),
+    ('Winter Jigsaw', 'Ghép tranh mùa đông'), ('Snowflake Pop', 'Chạm bông tuyết'), ('Spot the Difference', 'Tìm điểm khác'),
+    ('Christmas Eve Flight', 'Chuyến bay đêm Giáng sinh'),
+]
+
+SNOWY_CSS = """<style>
+.sd{--night:#0f1b3d;--dusk:#2b4a8a;--ice:#e8f2ff;--glow:#ffc75a;--berry:#d7263d;--pine:#1f7a5a;--ink:#22304f;color:var(--ink)}
+.sd-hero{position:relative;overflow:hidden;border-radius:34px;margin:8px 24px 0;padding:56px 48px;color:#fff;background:radial-gradient(circle at 12% 20%,rgba(255,255,255,.9) 0 2px,transparent 3px),radial-gradient(circle at 70% 30%,rgba(255,255,255,.7) 0 2px,transparent 3px),radial-gradient(circle at 40% 80%,rgba(255,255,255,.6) 0 1.5px,transparent 2.5px),radial-gradient(circle at 88% 70%,rgba(255,255,255,.8) 0 2px,transparent 3px),linear-gradient(160deg,var(--night),var(--dusk) 70%,#5d7fc0);display:grid;grid-template-columns:1.3fr .7fr;gap:32px;align-items:center}
+.sd-hero h1{font-size:clamp(34px,5vw,56px);margin:6px 0 4px;color:#fff}
+.sd-hero .sd-tag{font-size:20px;color:var(--glow);font-weight:700;margin:0 0 14px}
+.sd-hero p{color:#e3ecff;line-height:1.6;max-width:620px}
+.sd-hero img.sd-icon{width:200px;height:200px;object-fit:cover;border-radius:44px;border:4px solid #fff;box-shadow:0 18px 40px rgba(0,0,0,.35);justify-self:center}
+.sd-pills{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+.sd-pill{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);border-radius:999px;padding:6px 14px;font-size:14px}
+.sd-links a{display:inline-block;margin:6px 10px 0 0;padding:10px 18px;border-radius:14px;background:var(--glow);color:var(--night);font-weight:700;text-decoration:none}
+.sd-links a.sd-alt{background:transparent;color:#fff;border:2px solid #fff}
+.sd-sec{padding:44px 48px 8px}
+.sd-sec h2{font-size:30px;margin:0 0 6px;color:var(--night)}
+.sd-sec .sd-sub{margin:0 0 24px;color:#4a5878}
+.sd-steps{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;counter-reset:st;max-width:1100px}
+.sd-step{background:var(--ice);border-radius:26px;padding:16px 16px 20px;border:2px solid #d3e3fb}
+.sd-step img{width:100%;height:auto;border-radius:18px;display:block;box-shadow:0 8px 18px rgba(15,27,61,.18)}
+.sd-step h3{margin:14px 0 6px;font-size:18px}
+.sd-step h3::before{counter-increment:st;content:counter(st);display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--berry);color:#fff;margin-right:8px;font-size:15px}
+.sd-step p{margin:0;font-size:15px;line-height:1.5}
+.sd-cal{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;list-style:none;padding:0;margin:0}
+.sd-cal li{background:linear-gradient(180deg,#fff,#f1f6ff);border:2px solid #d3e3fb;border-radius:16px;padding:10px 12px;font-size:14px;display:flex;gap:10px;align-items:center}
+.sd-cal b{display:inline-grid;place-items:center;min-width:30px;height:30px;border-radius:10px;background:var(--pine);color:#fff}
+.sd-cal li.sd-xmas{background:linear-gradient(180deg,#fff7e0,#ffe7a8);border-color:var(--glow)}
+.sd-cal li.sd-xmas b{background:var(--berry)}
+.sd-grown{max-width:900px}
+.sd-grown ul{margin:0;padding-left:20px;line-height:1.65}
+.sd-grown img{width:100%;border-radius:20px;border:1px solid #dbe6f7}
+.sd-faq details{background:#fff;border:1px solid #dbe6f7;border-radius:16px;padding:14px 18px;margin-bottom:10px}
+.sd-faq summary{font-weight:700;cursor:pointer}
+.sd-faq p{margin:10px 0 0;line-height:1.55}
+@media (max-width:820px){.sd-hero{grid-template-columns:1fr;padding:36px 22px;margin:8px 12px 0}.sd-hero img.sd-icon{width:150px;height:150px}.sd-sec{padding:34px 18px 4px}.sd-steps{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:480px){.sd-steps{grid-template-columns:1fr}}
+</style>"""
+
+
 def snowy_game(lang):
     vi = lang == 'vi'
-    title = 'Snowy Doors: Advent Calendar'
-    intro = 'Lịch Advent cho cả nhà! Mỗi ngày bé xé giấy quà mở một cánh cửa trên con phố tuyết, chơi một trò nhỏ cùng tuần lộc con Pip rồi nhận một món trang trí cho làng tuyết của riêng mình. Cửa bỏ lỡ vẫn chờ bé quay lại, phố sáng dần lên tới đêm Giáng sinh.' if vi else 'An Advent calendar for the whole family! Every day your child tears the gift paper to open a door on a snowy street, plays a mini-game with Pip the baby reindeer and earns a decoration for their own snowy village. Missed doors wait for you, and the street glows brighter all the way to Christmas Eve.'
-    feats = [
-        ('🎁 25 cửa, 25 trò khác nhau' if vi else '🎁 25 doors, 25 different games', 'Ném tuyết, trang trí bánh gừng, hứng quả châu, tìm Pip, chồng quà, nhớ thứ tự đèn lồng, đếm chim cánh cụt và nhiều trò nữa, mỗi cửa một thao tác riêng.' if vi else 'Snowball toss, cookie icing, ornament catch, find Pip, present stacking, lantern memory, penguin counting and more, each door with its own way to play.'),
-        ('🦌 Pip luôn bên bé' if vi else '🦌 Pip is always there', 'Pip nói luật chơi bằng giọng vui tươi, khen khi thắng và giúp đỡ khi bé thua nhiều lần: trò dễ hơn một bậc và có gợi ý.' if vi else 'Pip explains every game in a cheerful voice, cheers every win and helps after a few tries: the game gets a step easier and shows a hint.'),
-        ('🏘️ Làng tuyết của riêng bé' if vi else '🏘️ Your own snowy village', 'Mỗi cửa mở thêm một món quà để kéo thả lên phố. Dây đèn sáng thêm theo mỗi cửa đã mở.' if vi else 'Every door gives a decoration to drag onto your street, and the string lights glow brighter with every door you open.'),
-        ('📅 Theo lịch thật' if vi else '📅 Follows the real calendar', 'Holiday Countdown trong tháng 11, Advent từ 1 đến 25 tháng 12. Cửa bỏ lỡ vẫn mở để chơi bù.' if vi else 'Holiday Countdown in November, Advent from December 1 to 25. Missed doors stay open to catch up.'),
-        ('✨ Decor Shop' if vi else '✨ Decor Shop', 'Gói trang trí tuỳ chọn cho bầu trời, mái nhà, đèn phố và nền tuyết, mỗi gói có một món miễn phí để thử.' if vi else 'Optional decoration packs for the sky, rooftops, street lamps and snowy ground, each with one free decoration to try.'),
-        ('👨‍👩‍👧 An toàn cho trẻ em' if vi else '👨‍👩‍👧 Safe for kids', 'Không tài khoản, không chat, không phân tích, không quảng cáo xen ngang. Cổng phụ huynh cho mua hàng, liên kết và nhắc nhở. Chơi được khi không có mạng.' if vi else 'No accounts, no chat, no analytics and no interrupting ads. A parental gate guards purchases, links and reminders. Works offline.'),
+    T = (lambda e, v: v) if vi else (lambda e, v: e)
+    steps = [
+        ('step1-name-street', T('Name your street', 'Đặt tên con phố'), T('On the first visit Pip says hello and your child picks a sign: Lollipop Lane, Pine Tree Lane, Twinkle Star Lane or Snowman Lane. No reading needed, just tap a picture.', 'Lần đầu mở app, Pip chào bé và bé chọn một tấm biển: Lollipop Lane, Pine Tree Lane, Twinkle Star Lane hay Snowman Lane. Không cần biết đọc, chỉ cần chạm vào hình.')),
+        ('step2-tear-door', T("Tear today's door", 'Xé giấy cửa hôm nay'), T("Every day one house on the street has a wrapped door. Swipe a finger across the paper to tear it open.", 'Mỗi ngày một ngôi nhà trên phố có cánh cửa gói giấy quà. Bé vuốt ngón tay ngang tờ giấy để xé mở cửa.')),
+        ('step3-play', T('Play the game with Pip', 'Chơi trò nhỏ cùng Pip'), T("Behind the door is a short mini-game. Pip reads the rules out loud, cheers when you win and comes to help when a game feels tricky.", 'Sau cánh cửa là một trò chơi ngắn. Pip đọc to luật chơi, khen khi bé thắng và đến giúp khi trò hơi khó.')),
+        ('step4-street', T('Decorate your street', 'Trang trí con phố'), T('Every win gives a decoration (a snowman, a lantern, a cozy little fox and more). Drag it anywhere on your street and watch it glow brighter each day.', 'Mỗi lần thắng bé nhận một món trang trí (người tuyết, đèn lồng, chú cáo nhỏ…), kéo thả lên phố và nhìn phố sáng dần mỗi ngày.')),
     ]
-    cards = ''.join(f'<div class="detail-row" style="padding:22px; border-radius:22px; background:#fff; border:1px solid #d6e2f7;"><h3 style="margin:0 0 8px;">{esc(a)}</h3><p style="margin:0;">{esc(b)}</p></div>' for a, b in feats)
-    shop = 'Mua hàng tuỳ chọn: 4 gói trang trí (Magic Sky, Twinkly Rooftops, Street Lamps, Snowy Village) và gói Everything Pack, mua một lần dùng mãi. Cả 25 cửa và quà sau mỗi cửa đều miễn phí. Mọi giao dịch mua và liên kết ra ngoài đều nằm sau cổng phụ huynh.' if vi else 'Optional purchases: four decoration packs (Magic Sky, Twinkly Rooftops, Street Lamps, Snowy Village) and the Everything Pack, each bought once and kept. All 25 doors and door gifts are free. All purchases and outside links are behind a parental gate.'
-    return f'''<section class="page-head game-page-head"><div><p class="eyebrow">WINPLAY STUDIO · SNOWY DOORS</p><h1>{title}</h1><p class="lead">{esc(intro)}</p><div style="display:flex; gap:12px; flex-wrap:wrap; margin:24px 0;"><span class="pill">iOS · iPadOS · Android</span><span class="pill">{'Sắp ra mắt' if vi else 'Coming soon'}</span></div><div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:28px;"><a class="button" href="{url(PATHS['snowy_privacy'], lang)}">{'Chính sách quyền riêng tư →' if vi else 'Privacy Policy →'}</a><a class="button" href="{url(PATHS['snowy_terms'], lang)}" style="background:#1b2a4e; color:#fff;">{'Điều khoản sử dụng' if vi else 'Terms of Use'}</a></div></div><div style="display:grid; place-items:center;"><img src="/assets/snowy-doors-icon.png" alt="Snowy Doors icon" width="220" height="220" style="border-radius:44px; box-shadow:0 20px 40px rgba(27,42,78,0.3); border:3px solid #fff;"></div></section><section style="padding: 20px 48px 60px;"><h2 style="color:#1b2a4e; margin-bottom:28px;">{'Tính năng' if vi else 'Features'}</h2><div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); gap:20px;">{cards}</div><p class="quiet" style="margin-top:32px;">{esc(shop)}</p></section>'''
+    steps_html = ''.join(f'<div class="sd-step"><img src="/assets/snowy/{img}.jpg" alt="{esc(h)}" loading="lazy" width="800" height="1739"><h3>{esc(h)}</h3><p>{esc(p)}</p></div>' for img, h, p in steps)
+    names = {i + 1: n for i, n in enumerate(SNOWY_LINEUP)}
+    cal_html = ''.join(f'<li class="{"sd-xmas" if d == 25 else ""}"><b>{d}</b>{esc(names[d][1 if vi else 0])}</li>' for d in range(1, 26))
+    grown = [
+        T('<b>Frosty lock:</b> purchases, outside links, reminders, the bonus video and "Open every door now" all ask a grown-up to tap a date written out in words on a December calendar.', '<b>Frosty lock:</b> mua hàng, link ra ngoài, nhắc nhở, video quà thêm và "Open every door now" đều hỏi người lớn chạm đúng một ngày (viết bằng chữ) trên lịch tháng 12.'),
+        T("<b>Pip's notice board:</b> sounds, music and Pip's voice switches, Pip's door bell reminder (never between 9 pm and 9 am) and \"Open every door now\" for families who start late.", '<b>Bảng tin của Pip:</b> bật tắt âm thanh, nhạc, giọng Pip, chuông nhắc cửa mới (không bao giờ nhắc từ 21h đến 9h) và "Open every door now" cho nhà bắt đầu muộn.'),
+        T('<b>Ads:</b> no banner ads and no ads between games. Once a day a grown-up can choose to watch a short, child-directed video for one extra decoration.', '<b>Quảng cáo:</b> không banner, không quảng cáo chen giữa trò. Mỗi ngày một lần, người lớn có thể chọn xem một video ngắn (chế độ trẻ em) để nhận thêm một món trang trí.'),
+        T('<b>Purchases:</b> all 25 doors are free. Optional one-time decoration packs: Magic Sky, Twinkly Rooftops, Street Lamps, Snowy Village, or the Everything Pack.', '<b>Mua hàng:</b> cả 25 cửa đều miễn phí. Gói trang trí tuỳ chọn, mua một lần: Magic Sky, Twinkly Rooftops, Street Lamps, Snowy Village hoặc Everything Pack.'),
+        T('<b>Privacy:</b> no accounts, no chat, no ad tracking. Progress stays on the device; anonymous usage statistics and crash reports help us fix problems. <a href="' + url(PATHS['snowy_privacy'], lang) + '">Read the privacy policy</a>.', '<b>Quyền riêng tư:</b> không tài khoản, không chat, không theo dõi quảng cáo. Tiến độ lưu trên máy; thống kê sử dụng ẩn danh và báo lỗi giúp chúng tôi sửa lỗi. <a href="' + url(PATHS['snowy_privacy'], lang) + '">Đọc chính sách quyền riêng tư</a>.'),
+    ]
+    grown_html = ''.join(f'<li>{g}</li>' for g in grown)
+    faq = [
+        (T('Does my child need to read?', 'Bé có cần biết đọc không?'), T('No. Pip reads every instruction aloud, buttons use pictures, and the street name is chosen by tapping a sign.', 'Không. Pip đọc to mọi hướng dẫn, nút bấm dùng hình, tên phố chọn bằng cách chạm vào tấm biển.')),
+        (T('We missed a day. Is the door gone?', 'Lỡ một ngày thì cửa có mất không?'), T('No. Earlier doors stay open, so you can catch up any time. A game never ends just because the clock ran out.', 'Không. Cửa của các ngày trước vẫn mở để chơi bù bất cứ lúc nào. Không trò nào kết thúc chỉ vì hết giờ.')),
+        (T('Can we play before December?', 'Chơi trước tháng 12 được không?'), T('Yes. In November a 30-door Holiday Countdown street opens; the first 24 doors each hide a different game. A grown-up can also switch on "Open every door now".', 'Được. Tháng 11 có phố Holiday Countdown 30 cửa, 24 cửa đầu mỗi cửa một trò khác nhau. Người lớn cũng có thể bật "Open every door now".')),
+        (T('What age is it for?', 'Game dành cho bé mấy tuổi?'), T('Children about 4 to 8, ideally playing with a parent nearby. Games get a little harder through the month, and Pip helps after a loss.', 'Khoảng 4 đến 8 tuổi, tốt nhất có bố mẹ ngồi cạnh. Trò khó dần theo tháng và Pip giúp khi bé thua.')),
+    ]
+    faq_html = ''.join(f'<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>' for q, a in faq)
+    return SNOWY_CSS + f"""<div class="sd">
+<section class="sd-hero"><div><p class="sd-pill" style="display:inline-block;margin:0">WinPlay Studio · {T('Advent calendar game', 'Game lịch Advent')}</p><h1>Snowy Doors with Pip</h1><p class="sd-tag">{T('Pip reads every game aloud', 'Pip đọc to mọi trò chơi')}</p><p>{esc(T("A snowy street with 25 wrapped doors, one for each day from December 1 to Christmas. Behind every door waits a different little game, and Pip the baby reindeer reads every rule out loud, so children who can't read yet can play on their own.", 'Một con phố tuyết với 25 cánh cửa gói quà, mỗi ngày một cửa từ 1/12 đến Giáng sinh. Sau mỗi cửa là một trò chơi khác nhau, và tuần lộc con Pip đọc to mọi luật chơi để bé chưa biết đọc vẫn tự chơi được.'))}</p><div class="sd-pills"><span class="sd-pill">iPhone · iPad · Android</span><span class="sd-pill">{T('All 25 doors free', 'Cả 25 cửa miễn phí')}</span><span class="sd-pill">{T('No banner ads', 'Không quảng cáo banner')}</span></div><div class="sd-links"><a href="{url(PATHS['snowy_privacy'], lang)}">{T('Privacy Policy', 'Chính sách quyền riêng tư')}</a><a class="sd-alt" href="{url(PATHS['snowy_terms'], lang)}">{T('Terms of Use', 'Điều khoản sử dụng')}</a></div></div><img class="sd-icon" src="/assets/snowy-doors-icon.png" alt="Snowy Doors with Pip icon" width="200" height="200"></section>
+<section class="sd-sec"><h2>{T('How to play', 'Cách chơi')}</h2><p class="sd-sub">{T('Four steps, about two minutes a day.', 'Bốn bước, khoảng hai phút mỗi ngày.')}</p><div class="sd-steps">{steps_html}</div></section>
+<section class="sd-sec"><h2>{T('The 25 doors', 'Lịch 25 cửa')}</h2><p class="sd-sub">{T('December 1 to 25. On Christmas Day Pip flies the sleigh through the star rings and lights up every house.', 'Từ 1 đến 25/12. Ngày Giáng sinh, Pip lái xe tuần lộc bay qua các vòng sao và thắp sáng mọi ngôi nhà.')}</p><ul class="sd-cal">{cal_html}</ul></section>
+<section class="sd-sec"><h2>{T('For grown-ups', 'Dành cho bố mẹ')}</h2><div class="sd-grown"><ul>{grown_html}</ul></div></section>
+<section class="sd-sec sd-faq" style="padding-bottom:56px"><h2>{T('Questions', 'Hỏi đáp')}</h2>{faq_html}<p style="margin-top:18px">{T('Help:', 'Hỗ trợ:')} <a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section>
+</div>"""
+
 
 def racer_game(lang):
     vi = lang == 'vi'
@@ -1310,7 +1378,7 @@ def siteprivacy(lang):
     vi = lang == 'vi'
     title = 'Quyền riêng tư trên dvk.vn' if vi else 'Privacy on dvk.vn'
     intro = 'Chính sách dành cho website giới thiệu DVK. Mỗi ứng dụng có chính sách dữ liệu riêng.' if vi else 'Privacy information for the DVK website. Each app has its own data policy.'
-    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['arrow_privacy'], lang) + '"><strong>Arrow Escape: Candy Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['gumball_privacy'], lang) + '"><strong>Gumball Sort: Ball Sort Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['kitty_privacy'], lang) + '"><strong>Kitty Corners: Cat Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['plop_privacy'], lang) + '"><strong>Plop: Word Ladder Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['racer_privacy'], lang) + '"><strong>Times Table Racer: Math Kids</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['snowy_privacy'], lang) + '"><strong>Snowy Doors: Advent Calendar</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['munch_privacy'], lang) + '"><strong>Munch Parade: Animal Feast</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
+    return '<section class="page-head legal-head"><p class="eyebrow">DVK / 18 OCT 2026</p><h1>' + title + '</h1><p class="lead">' + intro + '</p></section><div class="legal-body"><section><h2>' + esc(t['webtitle']) + '</h2>' + paragraph(t['webbody']) + '<p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy</a></p></section><section><h2>' + ('Quyền riêng tư từng ứng dụng' if vi else 'App-specific privacy') + '</h2><p><a href="' + url(PATHS['candy_privacy'], lang) + '"><strong>Smart Candy: Match 3</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['arrow_privacy'], lang) + '"><strong>Arrow Escape: Candy Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['gumball_privacy'], lang) + '"><strong>Gumball Sort: Ball Sort Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['kitty_privacy'], lang) + '"><strong>Kitty Corners: Cat Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['plop_privacy'], lang) + '"><strong>Plop: Word Ladder Puzzle</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['racer_privacy'], lang) + '"><strong>Times Table Racer: Math Kids</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['snowy_privacy'], lang) + '"><strong>Snowy Doors with Pip</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['munch_privacy'], lang) + '"><strong>Munch Parade: Animal Feast</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['block_privacy'], lang) + '"><strong>Block Puzzle 8×8: Neon Master</strong> — ' + esc(t['privacy']) + '</a></p><p><a href="' + url(PATHS['privacy'], lang) + '">Puzzle Spark — ' + esc(t['privacy']) + '</a></p></section><section><h2>' + esc(t['contact']) + '</h2><p><a href="mailto:game@dvk.vn">game@dvk.vn</a></p></section></div>'
 
 def support(lang):
     t = TEXT[lang]
@@ -1358,7 +1426,7 @@ for lang in ['en', 'vi']:
             title = TEXT[lang][('munch_privacytitle' if kind == 'munch_privacy' else 'munch_termstitle')]
         elif kind == 'snowy_game':
             body = snowy_game(lang)
-            title = 'Snowy Doors: Advent Calendar'
+            title = 'Snowy Doors with Pip'
         elif kind == 'snowy_privacy' or kind == 'snowy_terms':
             body = snowy_legal(kind, lang)
             title = TEXT[lang][('snowy_privacytitle' if kind == 'snowy_privacy' else 'snowy_termstitle')]
